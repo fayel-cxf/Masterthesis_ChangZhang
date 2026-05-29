@@ -1,0 +1,286 @@
+imo,vessel_name,vessel_type_nbic,gt_proxy,nbic_type_group,gt_size_tier,in_list_a,sample_bw_mt,sample_arrival_date,DWT,Gross_Tonnage,Ship_Type,Flag,Status
+9975399,FEDERAL OHIO,Bulker,21043,Bulker,Small,False,412,2024/8/4,34763,21043,Bulk Carrier,,ok
+9323637,Horizon,Bulker,19891,Bulker,Small,False,10245,2024/9/1,30803,19891,Bulk Carrier,,ok
+9446403,ELIM INSPIRE,Bulker,31532,Bulker,Small,False,5562,2024/11/24,55818,31532,Bulk Carrier,,ok
+9450777,ORIENT PROGRESS,Bulker,23456,Bulker,Small,False,10659,2024/6/6,34393,23456,Bulk Carrier,,ok
+9615561,NAJWA,Bulker,33055,Bulker,Small,False,11810,2024/11/21,56970,33055,Bulk Carrier,,ok
+9658795,INLACO HARMONY,Bulker,21168,Bulker,Small,False,9028,2024/6/6,33379,21168,Bulk Carrier,,ok
+9643805,Chios Luck,Bulker,23462,Bulker,Small,False,9652,2024/9/18,36612,23462,Bulk Carrier,,ok
+9610092,Common Faith,Bulker,32987,Bulker,Small,False,13436,2024/4/8,57002,32987,Bulk Carrier,,ok
+9594389,HPC PIONEER,Bulker,23264,Bulker,Small,False,14348,2024/2/19,38215,23264,Bulk Carrier,,ok
+9450650,MERRY M,Bulker,23456,Bulker,Small,False,11133,2024/4/26,34403,23456,Bulk Carrier,,ok
+9474254,V ISALOS,Bulker,23432,Bulker,Small,False,11922,2024/12/2,34976,23432,Bulk Carrier,,ok
+9864899,ASTRO DENEBOLA,Bulker,24667,Bulker,Small,True,447,2024/3/27,38131,24667,Bulk Carrier,,ok
+9852224,Wonderful World,Bulker,23765,Bulker,Small,False,14384,2024/6/19,37367,23765,Bulk Carrier,,ok
+9561813,LUCILIA C,Bulker,21072,Bulker,Small,False,6653,2024/1/8,35009,21072,Bulk Carrier,,ok
+9606974,ATAYAL MARINER,Bulker,9991,Bulker,Small,False,4591,2024/2/21,16813,9991,Bulk Carrier,,ok
+9427342,KARPATHOS DAWN,Bulker,33042,Bulker,Small,False,13226,2024/5/9,56700,33042,Bulk Carrier,,ok
+9800398,Santa Carolina,Bulker,35035,Bulker,Medium,False,15229,2024/1/18,61195,35035,Bulk Carrier,,ok
+9967134,OCEAN DILIGENCE,Bulker,35716,Bulker,Medium,False,17427,2024/12/18,63625,35716,Bulk Carrier,,ok
+9629653,Gng Concord 1,Bulker,41073,Bulker,Medium,False,12752,2024/10/28,75397,41073,Bulk Carrier,,ok
+9292618,Anastasia,Bulker,41059,Bulker,Medium,False,14386,2024/11/2,75331,41059,Bulk Carrier,,ok
+9643544,Saita I,Bulker,43007,Bulker,Medium,False,21039,2024/10/19,81922,43007,Bulk Carrier,,ok
+9875331,Draftzilla,Bulker,38222,Bulker,Medium,False,19437,2024/10/27,66509,38222,Bulk Carrier,,ok
+9909077,DARYA HEERA,Bulker,34534,Bulker,Medium,True,16748,2024/5/27,61083,34534,Bulk Carrier,,ok
+9881897,TAI STAMINA,Bulker,36267,Bulker,Medium,False,15011,2024/4/17,64458,36267,Bulk Carrier,,ok
+9512343,Pescadores Sw,Bulker,42980,Bulker,Medium,False,19274,2024/10/1,82230,42980,Bulk Carrier,,ok
+9575230,STAR FAIRFIELD,Bulker,35837,Bulker,Medium,False,16687,2024/11/20,63301,35837,Bulk Carrier,,ok
+9990416,AFRICAN DRAGON,Bulker,36570,Bulker,Medium,False,17344,2024/9/25,66647,36570,Bulk Carrier,,ok
+9969194,GALAXY EXPRESS,Bulker,36142,Bulker,Medium,False,17026,2024/10/26,63750,36142,Bulk Carrier,,ok
+9470387,PACIFIC STAR,Bulker,41718,Bulker,Medium,False,33716,2024/11/9,74138,41718,Bulk Carrier,,ok
+9731975,Pacific Wealth,Bulker,36449,Bulker,Medium,False,14883,2024/6/21,63522,36449,Bulk Carrier,,ok
+9927304,SSI PRUDENT,Bulker,35846,Bulker,Medium,False,17506,2024/11/10,63870,35846,Bulk Carrier,,ok
+9966829,BRISTOL,Bulker,36192,Bulker,Medium,False,13640,2024/12/10,64701,36192,Bulk Carrier,,ok
+9710581,ALPHA DISCOVERY,Bulker,44200,Bulker,Large,False,21056,2024/4/14,82057,44200,Bulk Carrier,,ok
+9950404,DARYA RASHMI,Bulker,44577,Bulker,Large,False,15517,2024/9/28,82210,44577,Bulk Carrier,,ok
+9827384,Star Emerald,Bulker,44114,Bulker,Large,False,19979,2024/11/27,82063,44114,Bulk Carrier,,ok
+9902275,VITA UNITY,Bulker,43672,Bulker,Large,False,21409,2024/11/2,82545,43672,Bulk Carrier,,ok
+9944338,BASIC EXPLORER,Bulker,43672,Bulker,Large,False,21860,2024/10/18,82609,43672,Bulk Carrier,,ok
+9454917,Knossos Wave,Bulker,47984,Bulker,Large,False,23957,2024/9/15,87332,47984,Bulk Carrier,,ok
+9813096,Baru,Bulker,54043,Bulker,Large,False,489,2024/10/7,79995,54043,Bulk/Oil/Chemical Carrier,,ok
+9985605,BASIC STAR,Bulker,43455,Bulker,Large,False,23662,2024/11/22,81947,43455,Bulk Carrier,,ok
+9394753,Manousos P,Bulker,43158,Bulker,Large,False,21135,2024/6/1,82549,43158,Bulk Carrier,,ok
+9843730,Sophocles Graecia,Bulker,44095,Bulker,Large,False,21965,2024/1/8,82039,44095,Bulk Carrier,,ok
+9510321,Pella,Bulker,43073,Bulker,Large,False,19550,2024/12/6,82163,43073,Bulk Carrier,,ok
+9677387,Valadon,Bulker,44243,Bulker,Large,False,22020,2024/10/17,81199,44243,Bulk Carrier,,ok
+9586631,Lyric Star,Bulker,44203,Bulker,Large,False,20291,2024/10/24,81276,44203,Bulk Carrier,,ok
+9838450,Lowlands Courage,Bulker,50595,Bulker,Large,False,28582,2024/1/3,95823,50595,Bulk Carrier,,ok
+9847413,Bbg Guigang,Bulker,44196,Bulker,Large,False,20805,2024/11/10,81567,44196,Bulk Carrier,,ok
+9936240,EMERALD PUTUO,Bulker,48686,Bulker,Large,False,24065,2024/10/29,85611,48686,Bulk Carrier,,ok
+9365867,Nevzat Kalkavan,Container,21162,Container,Small,False,208,2024/10/9,26811,21162,Container Ship,,ok
+9869667,Del Monte Harvester,Container,21423,Container,Small,False,100,2024/2/2,27774,21423,Container Ship,,ok
+9961441,ANDROKLIS,Container,17785,Container,Small,False,738,2024/10/10,22750,17785,Container Ship,,ok
+9383297,Seaboard Ranger,Container,9948,Container,Small,False,474,2024/2/28,13684,9948,Container Ship,,ok
+9365879,Kaan Kalkavan,Container,21162,Container,Small,False,750,2024/12/29,26650,21162,Container Ship,,ok
+9664275,CONTSHIP ART,Container,9932,Container,Small,False,185,2024/9/18,13063,9932,Container Ship,,ok
+9395135,CARIBBEAN STAR,Container,15375,Container,Small,False,200,2024/5/15,18464,15375,Container Ship,,ok
+9383285,Seaboard Ocean,Container,9948,Container,Small,False,360,2024/2/21,13670,9948,Container Ship,,ok
+9756092,CMA CGM WHITE,Container,24905,Container,Small,True,2573,2024/9/23,26974,24905,Container Ship,,ok
+9454242,Sonderborg,Container,12514,Container,Small,False,50,2024/8/27,14222,12514,Container Ship,,ok
+9869693,Del Monte Pride,Container,21423,Container,Small,False,250,2024/7/13,27863,21423,Container Ship,,ok
+9827334,Oleander,Container,8313,Container,Small,False,998,2024/12/26,6884,8313,Container Ship,,ok
+9535096,HANSA DUBURG,Container,18296,Container,Small,False,100,2024/12/22,23432,18296,Container Ship,,ok
+9690092,CMA CGM ORANGE,Container,24901,Container,Small,True,2002,2024/11/13,26947,24901,Container Ship,,ok
+9756107,CMA CGM BLUE,Container,24905,Container,Small,True,631,2024/12/25,26871,24905,Container Ship,,ok
+9344239,DIANA B,Container,8280,Container,Small,False,204,2024/5/30,11005,8280,Container Ship,,ok
+9632480,Maersk Rubicon,Container,51032,Container,Medium,True,8694,2024/11/8,66347,51032,Container Ship,,ok
+9395939,Sm Qingdao,Container,40741,Container,Medium,False,780,2024/9/23,52316,40741,Container Ship,,ok
+9964390,SEABOARD VOYAGER,Container,45976,Container,Medium,False,296,2024/11/4,52540,45976,Container Ship,,ok
+9629380,CMA CGM TOKYO,Container,70147,Container,Medium,False,300,2024/4/3,80578,70147,Container Ship,,ok
+9969869,CAPE SOREL,Container,26914,Container,Medium,False,201,2024/12/30,35019,26914,Container Ship,,ok
+9298636,INDEPENDENT PRIMERO,Container,35823,Container,Medium,False,1600,2024/10/15,49918,35823,Container Ship,,ok
+9283198,MAERSK MONTE OLIVIA,Container,69132,Container,Medium,False,1800,2024/7/17,83557,69132,Container Ship,,ok
+9426805,HT CAPRICORN,Container,54182,Container,Medium,False,3030,2024/6/9,63059,54182,Container Ship,,ok
+9334375,Independent Horizon,Container,35824,Container,Medium,False,380,2024/9/24,42213,35824,Container Ship,,ok
+9802499,CMA CGM ABU DHABI,Container,28433,Container,Medium,True,182,2024/3/3,35031,28433,Container Ship,,ok
+9680853,Perla Del Caribe,Container,36912,Container,Medium,False,2636,2024/12/30,33127,36912,Container Ship,,ok
+9680841,Isla Bella,Container,36751,Container,Medium,False,1208,2024/12/26,33106,36751,Container Ship,,ok
+9362413,Spirit Of Melbourne,Container,41483,Container,Medium,True,100,2024/12/10,53176,41483,Container Ship,,ok
+9721970,Taino,Container,37462,Container,Medium,False,4545,2024/12/30,26306,37462,Container Ship,,ok
+9400174,FORT DESAIX,Container,42609,Container,Medium,False,1637,2024/7/21,52788,42609,Container Ship,,ok
+9535187,HERMANN SCHULTE,Container,59307,Container,Medium,False,512,2024/3/23,71339,59307,Container Ship,,ok
+9951549,CMA CGM ENDURANCE,Container,73133,Container,Large,False,2800,2024/11/11,85620,73133,Container Ship,,ok
+9306158,CHENNAI EXPRESS,Container,73934,Container,Large,False,49,2024/9/10,81099,73934,Container Ship,,ok
+9262716,ARGUS,Container,75484,Container,Large,False,749,2024/11/10,81171,75484,Container Ship,,ok
+9484948,Express Athens,Container,113973,Container,Large,False,66,2024/5/21,122959,113973,Container Ship,,ok
+9348649,Maersk Atlanta,Container,74642,Container,Large,False,226,2024/12/31,84705,74642,Container Ship,,ok
+9945485,ZIM CANADA,Container,114643,Container,Large,False,5618,2024/10/30,132069,114643,Container Ship,,ok
+9400083,Maipo,Container,75752,Container,Large,False,780,2024/8/6,81002,Type of ship,Year of build,,not_found
+9685322,Seaspan Bravo,Container,113042,Container,Large,False,226,2024/7/29,119332,,,,not_found
+9448798,Cosco Thailand,Container,91051,Container,Large,False,180,2024/9/16,108564,91051,Container Ship,,ok
+9630420,XIAMEN EXPRESS,Container,113509,Container,Large,False,238,2024/4/28,119177,113509,Container Ship,,ok
+9955296,HMM TURQUOISE,Container,126943,Container,Large,False,4160,2024/12/28,141798,Type of ship,Year of build,,not_found
+9612870,Tolten,Container,88586,Container,Large,False,400,2024/12/18,98718,,,,not_found
+9409209,CMA CGM Maupassant,Container,73779,Container,Large,False,3442,2024/12/13,85450,73779,Container Ship,,ok
+9472165,Cosco Hope,Container,141823,Container,Large,False,4312,2024/12/26,140241,141823,Container Ship,,ok
+9944508,HMM PEARL,Container,126995,Container,Large,False,18991,2024/8/14,141231,126995,Container Ship,,ok
+9424912,ONE MAJESTY,Container,78410,Container,Large,False,2668,2024/5/12,79443,78410,Container Ship,,ok
+9385893,Frisiana,General Cargo,5937,General Cargo,Small,False,1700,2024/6/21,8027,5937,General Cargo Ship,,ok
+9616058,Balsa 91,General Cargo,5698,General Cargo,Small,False,1799,2024/12/25,7746,5698,General Cargo Ship,,ok
+9258985,Onego Rio,General Cargo,7576,General Cargo,Small,False,161,2024/11/2,10300,7576,General Cargo Ship,,ok
+9485784,Oslo Bulk 3,General Cargo,5629,General Cargo,Small,False,1052,2024/8/13,8029,5629,General Cargo Ship,,ok
+9580273,Balsa 86,General Cargo,5715,General Cargo,Small,False,2237,2024/12/19,7720,Type of ship,Year of build,,not_found
+9485796,Oslo Bulk 5,General Cargo,5629,General Cargo,Small,False,2180,2024/10/26,8043,,,,not_found
+9374973,PUKA,General Cargo,8999,General Cargo,Small,False,750,2024/8/12,12016,8999,General Cargo Ship,,ok
+9435765,Houtmangracht,General Cargo,9611,General Cargo,Small,False,2838,2024/8/29,12669,9611,General Cargo Ship,,ok
+9485758,Oslo Bulk 1,General Cargo,5629,General Cargo,Small,False,1240,2024/10/24,8040,5629,General Cargo Ship,,ok
+8204171,Tropic Lure,General Cargo,1827,General Cargo,Small,False,40,2024/12/19,2563,1827,General Cargo Ship,,ok
+9366122,Sea Carrier,General Cargo,6668,General Cargo,Small,False,55,2024/3/31,9823,6668,General Cargo Ship,,ok
+9594315,UAL OSPREY,General Cargo,6190,General Cargo,Small,False,260,2024/11/12,8690,6190,General Cargo Ship,,ok
+9453793,BBC ALASKA,General Cargo,9627,General Cargo,Small,False,2409,2024/6/2,12696,9627,General Cargo Ship,,ok
+9197911,Spiegelgracht,General Cargo,16641,General Cargo,Medium,False,500,2024/5/31,21402,16641,General Cargo Ship,,ok
+9810769,ASTERIUS,General Cargo,21198,General Cargo,Medium,False,10234,2024/12/21,33358,21198,General Cargo Ship,,ok
+9625607,DEVBULK BEGUM,General Cargo,19999,General Cargo,Medium,False,8053,2024/10/2,31018,19999,General Cargo Ship,,ok
+9623219,Sun Rise,General Cargo,22499,General Cargo,Medium,False,7804,2024/10/5,24629,22499,Heavy Load Carrier,,ok
+9426881,UBC Salaverry,General Cargo,21018,General Cargo,Medium,False,12395,2024/12/12,33305,21018,General Cargo Ship,,ok
+9437335,Ocean Giant,General Cargo,15549,General Cargo,Medium,False,215,2024/9/19,19382,15549,General Cargo Ship,,ok
+9317690,PROPEL PROSPERITY,General Cargo,22698,General Cargo,Medium,False,9719,2024/1/18,37504,22698,General Cargo Ship,,ok
+9343625,BAM PROTEUS,General Cargo,20236,General Cargo,Medium,False,1876,2024/10/20,33782,20236,General Cargo Ship,,ok
+9546473,Tiberborg,General Cargo,14695,General Cargo,Medium,False,150,2024/7/6,21301,14695,General Cargo Ship,,ok
+9764013,STEEL MAGIC,General Cargo,22303,General Cargo,Medium,False,14657,2024/12/11,35737,22303,General Cargo Ship,,ok
+9197947,Slotergracht,General Cargo,16641,General Cargo,Medium,False,300,2024/9/25,21402,16641,General Cargo Ship,,ok
+9652519,UBC SALERNO,General Cargo,20992,General Cargo,Medium,False,12134,2024/11/13,32702,20992,General Cargo Ship,,ok
+9744764,Tiziana,General Cargo,22457,General Cargo,Medium,False,12307,2024/4/10,35443,22457,General Cargo Ship,,ok
+9803417,Weco Karoline,General Cargo,23713,General Cargo,Large,False,12171,2024/4/17,38905,23713,General Cargo Ship,,ok
+9007544,Quetzal Arrow,General Cargo,29369,General Cargo,Large,False,704,2024/12/3,46908,29369,General Cargo Ship,,ok
+9450155,Penghu Sw,General Cargo,22852,General Cargo,Large,False,11664,2024/8/28,37168,22852,General Cargo Ship,,ok
+9687203,Global Splendour,General Cargo,31926,General Cargo,Large,False,1276,2024/5/23,55828,31926,General Cargo Ship,,ok
+9852717,African Warbler,General Cargo,23194,General Cargo,Large,True,12284,2024/11/21,38209,23194,General Cargo Ship,,ok
+9866639,OCEAN FLORA,General Cargo,23232,General Cargo,Large,True,12674,2024/8/19,37609,23232,General Cargo Ship,,ok
+9416721,UBC Tilbury,General Cargo,24140,General Cargo,Large,False,11075,2024/5/22,37702,24140,General Cargo Ship,,ok
+9310513,Star Java,General Cargo,32679,General Cargo,Large,True,577,2024/6/9,44692,32679,General Cargo Ship,,ok
+9452919,Nikkei Sirius,General Cargo,29829,General Cargo,Large,False,1073,2024/8/16,51658,29829,General Cargo Ship,,ok
+9877339,Blue Sapphire,General Cargo,23703,General Cargo,Large,False,14276,2024/11/16,38580,23703,General Cargo Ship,,ok
+9659189,DEVBULK GULTEN,General Cargo,23749,General Cargo,Large,False,15106,2024/2/9,40614,23749,General Cargo Ship,,ok
+9491680,TAN BINH 345,General Cargo,22863,General Cargo,Large,False,12942,2024/9/4,37218,22863,General Cargo Ship,,ok
+9658953,Saga Fantasy,General Cargo,37441,General Cargo,Large,False,1545,2024/3/20,55973,37441,General Cargo Ship,,ok
+9274379,GAS ROSEA,Tanker,5945,Tanker,Small,False,357,2024/7/4,7407,5945,LPG Tanker,,ok
+9800104,Nordic Ace,Tanker,9418,Tanker,Small,False,4279,2024/12/27,16230,9418,Chemical/Oil Products Tanker,,ok
+9381641,B. Ace,Tanker,3978,Tanker,Small,False,1907,2024/12/6,5683,3978,Oil Products Tanker,,ok
+9788435,High Adventurer,Tanker,29513,Tanker,Small,False,17304,2024/12/9,49997,29513,Chemical/Oil Products Tanker,,ok
+9799678,Gallop,Tanker,22988,Tanker,Small,False,12732,2024/12/2,37250,22988,Chemical/Oil Products Tanker,,ok
+9744946,Earth Summit,Tanker,17235,Tanker,Small,False,5810,2024/12/5,16940,17235,LPG Tanker,,ok
+9468530,MARLIN PEARL,Tanker,5539,Tanker,Small,False,1725,2024/7/18,6003,5539,Asphalt/Bitumen Tanker,,ok
+9340350,OWL 6,Tanker,8539,Tanker,Small,False,4163,2024/11/5,13006,8539,Chemical/Oil Products Tanker,,ok
+9702194,TORM DANICA,Tanker,29485,Tanker,Small,False,17238,2024/11/17,49999,29485,Chemical/Oil Products Tanker,,ok
+9749362,Willard J,Tanker,17858,Tanker,Small,False,9799,2024/12/18,25161,17858,Chemical/Oil Products Tanker,,ok
+9124469,Stolt Achievement,Tanker,25196,Tanker,Small,False,100,2024/5/13,37141,25196,Chemical/Oil Products Tanker,,ok
+9753698,HAFNIA TOURMALINE,Tanker,29492,Tanker,Small,False,17546,2024/12/5,49513,29492,Chemical/Oil Products Tanker,,ok
+9789726,MANTA BEYOGLU,Tanker,25086,Tanker,Small,False,5416,2024/12/13,28585,25086,LPG Tanker,,ok
+9654787,Ardmore Engineer,Tanker,30069,Tanker,Medium,False,17063,2024/12/1,49420,30069,Chemical/Oil Products Tanker,,ok
+9680085,Stolt Sincerity,Tanker,29903,Tanker,Medium,False,904,2024/8/25,38850,29903,Chemical/Oil Products Tanker,,ok
+9703019,BW Leo,Tanker,47922,Tanker,Medium,False,17393,2024/12/4,54116,47922,LPG Tanker,,ok
+9950583,ENEOS GUNJO,Tanker,49541,Tanker,Medium,False,18482,2024/11/24,56531,49541,LPG Tanker,,ok
+9795672,Laurel Prime,Tanker,47961,Tanker,Medium,False,16562,2024/9/17,55115,47961,LPG Tanker,,ok
+9396775,PACIFIC PRIDE,Tanker,30056,Tanker,Medium,False,19988,2024/1/18,50698,30056,Chemical/Oil Products Tanker,,ok
+9897559,FLANDERS PIONEER,Tanker,50468,Tanker,Medium,False,19770,2024/12/7,54857,50468,LPG Tanker,,ok
+9723681,Sumire Gas,Tanker,46796,Tanker,Medium,False,19394,2024/8/10,54243,46796,LPG Tanker,,ok
+9797876,G. Spirit,Tanker,47558,Tanker,Medium,False,15639,2024/11/19,54502,47558,LPG Tanker,,ok
+9390599,Jag Lokesh,Tanker,57510,Tanker,Medium,False,3159,2024/8/30,105599,57510,Crude Oil Tanker,,ok
+9709984,Jag Punit,Tanker,29967,Tanker,Medium,False,16873,2024/12/23,49717,29967,Chemical/Oil Products Tanker,,ok
+9937062,PERTAMINA GAS CASPIA,Tanker,53573,Tanker,Medium,False,20723,2024/12/3,58257,53573,LPG Tanker,,ok
+9799381,INEOS DOLPHIN,Tanker,59229,Tanker,Medium,False,10353,2024/10/25,51435,59229,LPG Tanker,,ok
+9834466,Singapore Voyager,Tanker,163214,Tanker,Large,False,72948,2024/6/26,318608,163214,Crude Oil Tanker,,ok
+9896933,BW CASSIA,Tanker,115373,Tanker,Large,False,43946,2024/12/24,94000,115373,LNG Tanker,,ok
+9315159,ARAM,Tanker,161473,Tanker,Large,False,91176,2024/11/24,317713,161473,Crude Oil Tanker,,ok
+9926714,NANTES KNUTSEN,Tanker,114180,Tanker,Large,False,23134,2024/11/27,95548,114180,LNG Tanker,,ok
+9654701,KOOL KELVIN,Tanker,105832,Tanker,Large,False,47791,2024/11/19,90580,105832,LNG Tanker,,ok
+9436446,Nordic Light,Tanker,81493,Tanker,Large,False,43151,2024/11/24,158555,81493,Crude Oil Tanker,,ok
+9892298,ASTERIX I,Tanker,116581,Tanker,Large,False,48926,2024/7/11,93403,116581,LNG Tanker,,ok
+9937945,PUTERI SAADONG,Tanker,110331,Tanker,Large,False,46313,2024/10/19,93414,110331,LNG Tanker,,ok
+9640023,Cool Explorer,Tanker,102097,Tanker,Large,False,49354,2024/11/5,81893,102097,LNG Tanker,,ok
+9854624,Energy Endeavour,Tanker,114195,Tanker,Large,False,44914,2024/12/8,94649,114195,LNG Tanker,,ok
+9731169,Olympic Lady,Tanker,154895,Tanker,Large,False,84030,2024/5/9,299507,154895,Crude Oil Tanker,,ok
+9872999,Hellas Athina,Tanker,116284,Tanker,Large,False,38091,2024/11/23,92955,116284,LNG Tanker,,ok
+9948736,CELSIUS GRANADA,Tanker,119063,Tanker,Large,False,42269,2024/12/1,92385,119063,LNG Tanker,,ok
+9188829,Modern Link,RoRo,33831,RoRo,Small,False,100,2024/2/26,10834,33831,Vehicles Carrier,,ok
+9318515,Morning Menad,RoRo,41192,RoRo,Small,False,480,2024/12/5,12165,41192,Vehicles Carrier,,ok
+9131955,MINCHAH,RoRo,11591,RoRo,Small,False,100,2024/8/1,4442,11591,Ro-Ro Cargo Ship,,ok
+7523673,Tropic Night,RoRo,1561,RoRo,Small,False,66,2024/12/14,2333,1561,Landing Craft,,ok
+9234068,Hurst Point,RoRo,23235,RoRo,Small,False,300,2024/2/5,13274,23235,Ro-Ro Cargo Ship,,ok
+9234082,NEW AMSTERDAM,RoRo,23235,RoRo,Small,False,2687,2024/12/2,13274,23235,Ro-Ro Cargo Ship,,ok
+9491886,VIKING PASSERO,RoRo,47053,RoRo,Medium,False,300,2024/1/11,12755,47053,Vehicles Carrier,,ok
+9578957,LIBERTY POWER,RoRo,50110,RoRo,Medium,False,175,2024/10/28,46635,50110,Ro-Ro Cargo Ship,,ok
+9427952,Pagna,RoRo,47057,RoRo,Medium,False,100,2024/2/15,11315,47057,Vehicles Carrier,,ok
+9252216,Heroic Ace,RoRo,56439,RoRo,Medium,False,49,2024/10/29,19879,56439,Vehicles Carrier,,ok
+9619684,Marjorie C,RoRo,47279,RoRo,Medium,False,1362,2024/1/2,24750,47279,Ro-Ro Cargo Ship,,ok
+9153783,SILVER SOUL,RoRo,44219,RoRo,Medium,False,422,2024/9/30,13695,44219,Vehicles Carrier,,ok
+9724738,Grande Luanda,RoRo,71543,RoRo,Large,False,1425,2024/2/20,32246,71543,Ro-Ro Cargo Ship,,ok
+9316141,Arc Resolve,RoRo,61260,RoRo,Large,False,85,2024/11/13,22564,61260,Vehicles Carrier,,ok
+9446013,Morning Lily,RoRo,70853,RoRo,Large,True,1288,2024/8/22,27283,70853,Vehicles Carrier,,ok
+9672105,Grande Cotonou,RoRo,71543,RoRo,Large,True,750,2024/11/25,31340,71543,Ro-Ro Cargo Ship,,ok
+9303546,Alliance Fairfax,RoRo,59705,RoRo,Large,False,93,2024/2/8,19670,59705,Vehicles Carrier,,ok
+9209506,Triumph Ace,RoRo,56545,RoRo,Large,True,50,2024/10/14,20131,56545,Vehicles Carrier,,ok
+8912132,Green Honduras,Reefer,7743,Reefer,Small,False,481,2024/3/14,7726,7743,Refrigerated Cargo Ship,,ok
+9043055,Green Maveric,Reefer,5103,Reefer,Small,False,213,2024/3/2,6105,5103,Refrigerated Cargo Ship,,ok
+8912120,Green Costa Rica,Reefer,7743,Reefer,Small,False,555,2024/8/11,7726,7743,Refrigerated Cargo Ship,,ok
+8912144,Green Guatemala,Reefer,7743,Reefer,Small,False,588,2024/3/13,8583,7743,Refrigerated Cargo Ship,,ok
+8917572,Peruvian Reefer,Reefer,7944,Reefer,Medium,False,582,2024/12/12,11095,7944,Refrigerated Cargo Ship,,ok
+9063653,FRIO ANTARCTIC,Reefer,9438,Reefer,Medium,False,5,2024/9/30,9357,9438,Refrigerated Cargo Ship,,ok
+8917584,Wellington Star,Reefer,7944,Reefer,Medium,False,940,2024/5/11,11103,7944,Refrigerated Cargo Ship,,ok
+9181144,Baltic Heather,Reefer,9859,Reefer,Large,False,267,2024/8/26,10114,9859,Refrigerated Cargo Ship,,ok
+9172959,COOL ROYAL,Reefer,11382,Reefer,Large,True,67,2024/3/27,12906,11382,Refrigerated Cargo Ship,,ok
+9167801,COOL MAGNUS,Reefer,11382,Reefer,Large,False,136,2024/12/25,12906,11382,Refrigerated Cargo Ship,,ok
+9055709,Fegulus,Reefer,10374,Reefer,Large,False,852,2024/4/8,10545,10374,Refrigerated Cargo Ship,,ok
+9845910,VIKING NEPTUNE,Passenger,47878,Passenger,Small,False,66,2024/12/30,4465,47878,Passenger (Cruise) Ship,,ok
+9224726,Carnival Legend,Passenger,85942,Passenger,Small,False,262,2024/12/29,7089,85942,Passenger (Cruise) Ship,,ok
+9120877,Carnival Paradise,Passenger,71925,Passenger,Small,False,252,2024/12/28,6894,71925,Passenger (Cruise) Ship,,ok
+9070058,Carnival Sunshine,Passenger,103881,Passenger,Medium,False,322,2024/12/30,11142,103881,Passenger (Cruise) Ship,,ok
+9333149,Carnival Freedom,Passenger,110556,Passenger,Medium,False,644,2024/12/30,12870,110556,Passenger (Cruise) Ship,,ok
+9236389,Carnival Valor,Passenger,110438,Passenger,Medium,False,574,2024/12/28,13294,110438,Passenger (Cruise) Ship,,ok
+9383948,Allure Of The Seas,Passenger,226637,Passenger,Large,False,87,2024/6/24,19750,226637,Passenger (Cruise) Ship,,ok
+9851737,CARNIVAL JUBILEE,Passenger,182015,Passenger,Large,False,146,2024/5/18,15834,182015,Passenger (Cruise) Ship,,ok
+9227508,Navigator Of The Seas,Passenger,139999,Passenger,Large,False,490,2024/12/16,9616,139999,Passenger (Cruise) Ship,,ok
+9692545,Andromeda,Other,5937,Other,Small,False,26,2024/11/9,1000,5937,Yacht,,ok
+9669213,OCEAN MARLIN,Other,2298,Other,Small,False,106,2024/8/4,1660,2298,Offshore Tug/Supply Ship,,ok
+9560534,Mary Ann Moran,Other,689,Other,Small,False,48,2024/12/18,584,689,Pusher Tug,,ok
+9346029,Yacht Express,Other,17951,Other,Medium,False,703,2024/12/16,12500,17951,Heavy Load Carrier,,ok
+9242376,Durable,Other,12184,Other,Medium,False,986,2024/3/18,10096,12184,Cable-Layer,,ok
+9745615,Island Victory,Other,11387,Other,Medium,False,709,2024/12/23,5866,11387,Offshore Tug/Supply Ship,,ok
+9358826,Seven Oceans,Other,18201,Other,Large,False,470,2024/11/10,12430,18201,Pipe-Layer,,ok
+9910313,EMPIRE STATE,Other,25985,Other,Large,False,128,2024/8/5,7579,25985,Training Ship,,ok
+9481154,Deep Energy,Other,25378,Other,Large,False,228,2024/11/23,13393,25378,Pipe-Layer,,ok
+9721968,El Coqui,Container,37462,Container,,False,2200,2024/12/26,26410,37462,Container Ship,,ok
+9234434,Bermuda Islander,Container,2937,Container,,False,643,2024/12/22,3725,2937,Container Ship,,ok
+9400069,CMA CGM XIAMEN,Container,75752,Container,,False,200,2024/12/19,83431,75752,Container Ship,,ok
+9932490,ZIM MOUNT KILIMANJARO,Container,152204,Container,,False,3582,2024/12/8,161069,152204,Container Ship,,ok
+9246700,Independent Quest,Container,35881,Container,,False,600,2024/12/5,41847,35824,Container Ship,,ok
+9944493,HMM EMERALD,Container,126995,Container,,False,550,2024/11/21,141231,126995,Container Ship,,ok
+9560376,ONE SAN DIEGO,Container,72043,Container,,False,771,2024/11/17,72912,72043,Container Ship,,ok
+9597563,APL Santiago,Container,109699,Container,,False,562,2024/11/4,115077,109699,Container Ship,,ok
+9665669,Christa Schulte,Container,51872,Container,,False,11736,2024/10/30,65099,51872,Container Ship,,ok
+9690107,CMA CGM RED,Container,24901,Container,,True,2390,2024/10/30,27025,24901,Container Ship,,ok
+9819959,Tropic Lissette,Container,15215,Container,,False,295,2024/10/15,20400,15215,Container Ship,,ok
+9410284,As Svenja,Container,18123,Container,,False,1111,2024/9/28,22314,18123,Container Ship,,ok
+9623673,Rdo Fortune,Container,52464,Container,,False,6400,2024/9/22,66966,52464,Container Ship,,ok
+9951525,CMA CGM INNOVATION,Container,73133,Container,,False,2900,2024/9/4,85558,73133,Container Ship,,ok
+9961465,ASTRAIOS,Container,17785,Container,,False,200,2024/7/28,22750,17785,Container Ship,,ok
+9342176,Maersk Pittsburgh,Container,74642,Container,,False,2150,2024/7/23,84688,74642,Container Ship,,ok
+9969912,INTERASIA ACCELERATE,Container,72896,Container,,False,3361,2024/6/2,82464,72896,Container Ship,,ok
+9235579,Maersk Garonne,Container,50686,Container,,True,80,2024/6/1,61636,50686,Container Ship,,ok
+9679907,CMA CGM Mississippi,Container,102931,Container,,False,700,2024/5/28,115657,102931,Container Ship,,ok
+9352016,Maersk Salalah,Container,92293,Container,,True,520,2024/5/3,107978,92293,Container Ship,,ok
+7908005,MOKHIA,Container,57379,Container,,False,590,2024/4/17,30652,57379,Container Ship,,ok
+9387449,NYK Joanna,Container,27003,Container,,False,459,2024/4/14,34532,27003,Container Ship,,ok
+9504059,SEABOARD BLUE,Container,10585,Container,,False,10,2024/4/14,13200,10585,Container Ship,,ok
+9332987,Maersk Columbus,Container,74642,Container,,False,1700,2024/3/22,94783,74642,Container Ship,,ok
+9477359,MARTI CLOUD,Container,16137,Container,,False,300,2024/3/18,17152,16137,Container Ship,,ok
+9395056,SL EAGLE,Container,15375,Container,,False,48,2024/3/12,18464,15375,Container Ship,,ok
+9143544,Kobe Express,Container,53523,Container,,False,700,2024/3/3,67058,53523,Container Ship,,ok
+9869679,Del Monte Spirit,Container,21391,Container,,False,150,2024/2/17,27799,21391,Container Ship,,ok
+9468293,Seaspan Adonis,Container,106154,Container,,False,3200,2024/2/12,95238,106154,Container Ship,,ok
+9344679,MSC PRETORIA II,Container,22914,Container,,False,126,2024/2/11,28142,22914,Container Ship,,ok
+9232979,Kamokuiki,Container,6368,Container,,True,284,2024/1/28,8244,6368,Container Ship,,ok
+9333369,QUEEN B III,Container,17360,Container,,False,37,2024/1/24,22248,17360,Container Ship,,ok
+9308390,As Constantina,Container,27786,Container,,False,200,2024/1/22,37883,27786,Container Ship,,ok
+9406611,CMA CGM Musset,Container,72884,Container,,False,6389,2024/1/17,89177,72884,Container Ship,,ok
+9398876,Viking Odessa,RoRo,20216,RoRo,,False,240,2024/11/22,5432,20216,Vehicles Carrier,,ok
+9539183,Opal Ace,RoRo,60131,RoRo,,False,30,2024/9/19,18507,60131,Vehicles Carrier,,ok
+9906984,PLUMERIA LEADER,RoRo,72287,RoRo,,False,380,2024/9/10,17210,72287,Vehicles Carrier,,ok
+9335161,CARIBBEAN FORCE,RoRo,11197,RoRo,,False,214,2024/8/18,7341,11197,Ro-Ro Cargo Ship,,ok
+9465370,Grande Togo,RoRo,47232,RoRo,,False,230,2024/8/9,26650,47232,Ro-Ro Cargo Ship,,ok
+9383558,City Of Hamburg,RoRo,15643,RoRo,,False,100,2024/7/25,3546,15643,Ro-Ro Cargo Ship,,ok
+9437933,Grande Gabon,RoRo,47659,RoRo,,False,1086,2024/7/5,25682,47659,Ro-Ro Cargo Ship,,ok
+9505065,ARC ENDEAVOR,RoRo,72295,RoRo,,True,790,2024/3/18,28837,72295,Vehicles Carrier,,ok
+9080297,TANABATA,RoRo,49443,RoRo,,False,3350,2024/2/2,20053,49443,Vehicles Carrier,,ok
+9223954,Carnival Pride,Passenger,86071,Passenger,Small,False,348,2024/12/29,7200,86071,Passenger (Cruise) Ship,,ok
+9188647,Carnival Spirit,Passenger,85920,Passenger,Small,False,524,2024/12/29,7200,85920,Passenger (Cruise) Ship,,ok
+9118721,Carnival Elation,Passenger,71909,Passenger,Small,False,416,2024/12/28,7036,71909,Passenger (Cruise) Ship,,ok
+9210139,Seven Seas Mariner,Passenger,48075,Passenger,Small,False,80,2024/12/28,4700,48075,Passenger (Cruise) Ship,,ok
+9869887,EXPLORA II,Passenger,63621,Passenger,Small,False,170,2024/12/27,3900,63621,Passenger (Cruise) Ship,,ok
+9869875,EXPLORA I,Passenger,63621,Passenger,Small,False,50,2024/12/26,3900,63621,Passenger (Cruise) Ship,,ok
+9237357,Carnival Miracle,Passenger,85942,Passenger,Small,False,146,2024/11/15,7089,85942,Passenger (Cruise) Ship,,ok
+9172648,CARNIVAL RADIANCE,Passenger,102232,Passenger,Medium,False,100,2024/12/30,10774,Type of ship,Year of build,,ok
+9198355,Carnival Conquest,Passenger,110475,Passenger,Medium,False,338,2024/12/30,10000,,,,ok
+9195195,Radiance Of The Seas,Passenger,90090,Passenger,Medium,False,328,2024/12/28,10759,90090,Passenger (Cruise) Ship,,ok
+9228356,Jewel Of The Seas,Passenger,90090,Passenger,Medium,False,290,2024/12/26,11936,90090,Passenger (Cruise) Ship,,ok
+9304045,Norwegian Jewel,Passenger,93502,Passenger,Medium,False,20,2024/12/12,7500,93502,Passenger (Cruise) Ship,,ok
+9198367,Carnival Glory,Passenger,110480,Passenger,Medium,False,338,2024/12/9,11100,110480,Passenger (Cruise) Ship,,ok
+9387085,MSC Magnifica,Passenger,95381,Passenger,Medium,False,533,2024/11/8,9429,95381,Passenger (Cruise) Ship,,ok
+9843792,MSC Seashore,Passenger,170412,Passenger,Large,False,307,2024/12/15,13500,170412,Passenger (Cruise) Ship,,ok
+9585285,MSC Divina,Passenger,139072,Passenger,Large,False,258,2024/12/13,12198,139072,Passenger (Cruise) Ship,,ok
+9837468,Discovery Princess,Passenger,145281,Passenger,Large,False,422,2024/12/7,11992,145281,Passenger (Cruise) Ship,,ok
+9744001,Symphony Of The Seas,Passenger,228081,Passenger,Large,False,103,2024/11/10,19599,228081,Passenger (Cruise) Ship,,ok
+9843807,MSC Seascape,Passenger,170412,Passenger,Large,False,200,2024/11/2,18034,170412,Passenger (Cruise) Ship,,ok
+9807126,Enchanted Princess,Passenger,145281,Passenger,Large,False,1303,2024/8/24,11658,145281,Passenger (Cruise) Ship,,ok
+9378474,Carnival Dream,Passenger,128251,Passenger,Large,False,538,2024/7/27,13815,128251,Passenger (Cruise) Ship,,ok

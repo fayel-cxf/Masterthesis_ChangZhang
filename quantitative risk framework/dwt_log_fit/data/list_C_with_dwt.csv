@@ -1,0 +1,65 @@
+imo,vessel_name,vessel_type_nbic,gt_proxy,nbic_type_group,gt_size_tier,in_list_a,sample_bw_mt,sample_arrival_date,DWT,Gross_Tonnage,Ship_Type,Flag,Status
+9721968,El Coqui,Container,37462,Container,,FALSE,2200,2024/12/26,26410,37462,Container Ship,,ok
+9234434,Bermuda Islander,Container,2937,Container,,FALSE,643,2024/12/22,3725,2937,Container Ship,,ok
+9400069,CMA CGM XIAMEN,Container,75752,Container,,FALSE,200,2024/12/19,83431,75752,Container Ship,,ok
+9932490,ZIM MOUNT KILIMANJARO,Container,152204,Container,,FALSE,3582,2024/12/8,161069,152204,Container Ship,,ok
+9246700,Independent Quest,Container,35881,Container,,FALSE,600,2024/12/5,41847,35824,Container Ship,,ok
+9944493,HMM EMERALD,Container,126995,Container,,FALSE,550,2024/11/21,141231,126995,Container Ship,,ok
+9560376,ONE SAN DIEGO,Container,72043,Container,,FALSE,771,2024/11/17,72912,72043,Container Ship,,ok
+9597563,APL Santiago,Container,109699,Container,,FALSE,562,2024/11/4,115077,109699,Container Ship,,ok
+9665669,Christa Schulte,Container,51872,Container,,FALSE,11736,2024/10/30,65099,51872,Container Ship,,ok
+9690107,CMA CGM RED,Container,24901,Container,,TRUE,2390,2024/10/30,27025,24901,Container Ship,,ok
+9819959,Tropic Lissette,Container,15215,Container,,FALSE,295,2024/10/15,20400,15215,Container Ship,,ok
+9410284,As Svenja,Container,18123,Container,,FALSE,1111,2024/9/28,22314,18123,Container Ship,,ok
+9623673,Rdo Fortune,Container,52464,Container,,FALSE,6400,2024/9/22,66966,52464,Container Ship,,ok
+9951525,CMA CGM INNOVATION,Container,73133,Container,,FALSE,2900,2024/9/4,85558,73133,Container Ship,,ok
+9961465,ASTRAIOS,Container,17785,Container,,FALSE,200,2024/7/28,22750,17785,Container Ship,,ok
+9342176,Maersk Pittsburgh,Container,74642,Container,,FALSE,2150,2024/7/23,84688,74642,Container Ship,,ok
+9969912,INTERASIA ACCELERATE,Container,72896,Container,,FALSE,3361,2024/6/2,82464,72896,Container Ship,,ok
+9235579,Maersk Garonne,Container,50686,Container,,TRUE,80,2024/6/1,61636,50686,Container Ship,,ok
+9679907,CMA CGM Mississippi,Container,102931,Container,,FALSE,700,2024/5/28,115657,102931,Container Ship,,ok
+9352016,Maersk Salalah,Container,92293,Container,,TRUE,520,2024/5/3,107978,92293,Container Ship,,ok
+7908005,MOKHIA,Container,57379,Container,,FALSE,590,2024/4/17,30652,57379,Container Ship,,ok
+9387449,NYK Joanna,Container,27003,Container,,FALSE,459,2024/4/14,34532,27003,Container Ship,,ok
+9504059,SEABOARD BLUE,Container,10585,Container,,FALSE,10,2024/4/14,13200,10585,Container Ship,,ok
+9332987,Maersk Columbus,Container,74642,Container,,FALSE,1700,2024/3/22,94783,74642,Container Ship,,ok
+9477359,MARTI CLOUD,Container,16137,Container,,FALSE,300,2024/3/18,17152,16137,Container Ship,,ok
+9395056,SL EAGLE,Container,15375,Container,,FALSE,48,2024/3/12,18464,15375,Container Ship,,ok
+9143544,Kobe Express,Container,53523,Container,,FALSE,700,2024/3/3,67058,53523,Container Ship,,ok
+9869679,Del Monte Spirit,Container,21391,Container,,FALSE,150,2024/2/17,27799,21391,Container Ship,,ok
+9468293,Seaspan Adonis,Container,106154,Container,,FALSE,3200,2024/2/12,95238,106154,Container Ship,,ok
+9344679,MSC PRETORIA II,Container,22914,Container,,FALSE,126,2024/2/11,28142,22914,Container Ship,,ok
+9232979,Kamokuiki,Container,6368,Container,,TRUE,284,2024/1/28,8244,6368,Container Ship,,ok
+9333369,QUEEN B III,Container,17360,Container,,FALSE,37,2024/1/24,22248,17360,Container Ship,,ok
+9308390,As Constantina,Container,27786,Container,,FALSE,200,2024/1/22,37883,27786,Container Ship,,ok
+9406611,CMA CGM Musset,Container,72884,Container,,FALSE,6389,2024/1/17,89177,72884,Container Ship,,ok
+9398876,Viking Odessa,RoRo,20216,RoRo,,FALSE,240,2024/11/22,5432,20216,Vehicles Carrier,,ok
+9539183,Opal Ace,RoRo,60131,RoRo,,FALSE,30,2024/9/19,18507,60131,Vehicles Carrier,,ok
+9906984,PLUMERIA LEADER,RoRo,72287,RoRo,,FALSE,380,2024/9/10,17210,72287,Vehicles Carrier,,ok
+9335161,CARIBBEAN FORCE,RoRo,11197,RoRo,,FALSE,214,2024/8/18,7341,11197,Ro-Ro Cargo Ship,,ok
+9465370,Grande Togo,RoRo,47232,RoRo,,FALSE,230,2024/8/9,26650,47232,Ro-Ro Cargo Ship,,ok
+9383558,City Of Hamburg,RoRo,15643,RoRo,,FALSE,100,2024/7/25,3546,15643,Ro-Ro Cargo Ship,,ok
+9437933,Grande Gabon,RoRo,47659,RoRo,,FALSE,1086,2024/7/5,25682,47659,Ro-Ro Cargo Ship,,ok
+9505065,ARC ENDEAVOR,RoRo,72295,RoRo,,TRUE,790,2024/3/18,28837,72295,Vehicles Carrier,,ok
+9080297,TANABATA,RoRo,49443,RoRo,,FALSE,3350,2024/2/2,20053,49443,Vehicles Carrier,,ok
+9223954,Carnival Pride,Passenger,86071,Passenger,Small,FALSE,348,2024/12/29,7200,86071,Passenger (Cruise) Ship,,ok
+9188647,Carnival Spirit,Passenger,85920,Passenger,Small,FALSE,524,2024/12/29,7200,85920,Passenger (Cruise) Ship,,ok
+9118721,Carnival Elation,Passenger,71909,Passenger,Small,FALSE,416,2024/12/28,7036,71909,Passenger (Cruise) Ship,,ok
+9210139,Seven Seas Mariner,Passenger,48075,Passenger,Small,FALSE,80,2024/12/28,4700,48075,Passenger (Cruise) Ship,,ok
+9869887,EXPLORA II,Passenger,63621,Passenger,Small,FALSE,170,2024/12/27,3900,63621,Passenger (Cruise) Ship,,ok
+9869875,EXPLORA I,Passenger,63621,Passenger,Small,FALSE,50,2024/12/26,3900,63621,Passenger (Cruise) Ship,,ok
+9237357,Carnival Miracle,Passenger,85942,Passenger,Small,FALSE,146,2024/11/15,7089,85942,Passenger (Cruise) Ship,,ok
+9172648,CARNIVAL RADIANCE,Passenger,102232,Passenger,Medium,FALSE,100,2024/12/30,"10774	",Type of ship,Year of build,,ok
+9198355,Carnival Conquest,Passenger,110475,Passenger,Medium,FALSE,338,2024/12/30,10000,,,,ok
+9195195,Radiance Of The Seas,Passenger,90090,Passenger,Medium,FALSE,328,2024/12/28,10759,90090,Passenger (Cruise) Ship,,ok
+9228356,Jewel Of The Seas,Passenger,90090,Passenger,Medium,FALSE,290,2024/12/26,11936,90090,Passenger (Cruise) Ship,,ok
+9304045,Norwegian Jewel,Passenger,93502,Passenger,Medium,FALSE,20,2024/12/12,7500,93502,Passenger (Cruise) Ship,,ok
+9198367,Carnival Glory,Passenger,110480,Passenger,Medium,FALSE,338,2024/12/9,11100,110480,Passenger (Cruise) Ship,,ok
+9387085,MSC Magnifica,Passenger,95381,Passenger,Medium,FALSE,533,2024/11/8,9429,95381,Passenger (Cruise) Ship,,ok
+9843792,MSC Seashore,Passenger,170412,Passenger,Large,FALSE,307,2024/12/15,13500,170412,Passenger (Cruise) Ship,,ok
+9585285,MSC Divina,Passenger,139072,Passenger,Large,FALSE,258,2024/12/13,12198,139072,Passenger (Cruise) Ship,,ok
+9837468,Discovery Princess,Passenger,145281,Passenger,Large,FALSE,422,2024/12/7,11992,145281,Passenger (Cruise) Ship,,ok
+9744001,Symphony Of The Seas,Passenger,228081,Passenger,Large,FALSE,103,2024/11/10,19599,228081,Passenger (Cruise) Ship,,ok
+9843807,MSC Seascape,Passenger,170412,Passenger,Large,FALSE,200,2024/11/2,18034,170412,Passenger (Cruise) Ship,,ok
+9807126,Enchanted Princess,Passenger,145281,Passenger,Large,FALSE,1303,2024/8/24,11658,145281,Passenger (Cruise) Ship,,ok
+9378474,Carnival Dream,Passenger,128251,Passenger,Large,FALSE,538,2024/7/27,13815,128251,Passenger (Cruise) Ship,,ok

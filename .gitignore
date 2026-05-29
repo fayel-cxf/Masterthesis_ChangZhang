@@ -1,0 +1,20 @@
+# ── Sensitive / restricted data ───────────────────────────────────────────────
+# Raw vessel AIS data provided by institution — NOT for public release
+data/observed_voyages_cleaned.csv
+data/merged_vessel_events_pipeline_ecoprovince.csv
+
+# ── Python artefacts ──────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ── Pickle / model binaries (potentially large) ───────────────────────────────
+*.pkl
+*.pt
+
+# ── macOS system files ────────────────────────────────────────────────────────
+.DS_Store
+
+# ── R artefacts ───────────────────────────────────────────────────────────────
+.Rhistory
+.RData
