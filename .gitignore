@@ -2,6 +2,7 @@
 # Raw vessel AIS data provided by institution — NOT for public release
 data/observed_voyages_cleaned.csv
 data/merged_vessel_events_pipeline_ecoprovince.csv
+data/cluster.m1.labels.k5.csv
 
 # ── Python artefacts ──────────────────────────────────────────────────────────
 __pycache__/
