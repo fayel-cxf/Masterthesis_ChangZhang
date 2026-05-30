@@ -1,0 +1,222 @@
+imo,vessel_name,vessel_type_nbic,gt_proxy,nbic_type_group,gt_size_tier,in_list_a,sample_bw_mt,sample_arrival_date
+9975399.0,FEDERAL OHIO,Bulker,21043.0,Bulker,Small,False,412,2024-08-04
+9323637.0,Horizon,Bulker,19891.0,Bulker,Small,False,10245,2024-09-01
+9446403.0,ELIM INSPIRE,Bulker,31532.0,Bulker,Small,False,5562,2024-11-24
+9450777.0,ORIENT PROGRESS,Bulker,23456.0,Bulker,Small,False,10659,2024-06-06
+9615561.0,NAJWA,Bulker,33055.0,Bulker,Small,False,11810,2024-11-21
+9658795.0,INLACO HARMONY,Bulker,21168.0,Bulker,Small,False,9028,2024-06-06
+9643805.0,Chios Luck,Bulker,23462.0,Bulker,Small,False,9652,2024-09-18
+9610092.0,Common Faith,Bulker,32987.0,Bulker,Small,False,13436,2024-04-08
+9594389.0,HPC PIONEER,Bulker,23264.0,Bulker,Small,False,14348,2024-02-19
+9450650.0,MERRY M,Bulker,23456.0,Bulker,Small,False,11133,2024-04-26
+9474254.0,V ISALOS,Bulker,23432.0,Bulker,Small,False,11922,2024-12-02
+9864899.0,ASTRO DENEBOLA,Bulker,24667.0,Bulker,Small,True,447,2024-03-27
+9852224.0,Wonderful World,Bulker,23765.0,Bulker,Small,False,14384,2024-06-19
+9561813.0,LUCILIA C,Bulker,21072.0,Bulker,Small,False,6653,2024-01-08
+9606974.0,ATAYAL MARINER,Bulker,9991.0,Bulker,Small,False,4591,2024-02-21
+9427342.0,KARPATHOS DAWN,Bulker,33042.0,Bulker,Small,False,13226,2024-05-09
+9800398.0,Santa Carolina,Bulker,35035.0,Bulker,Medium,False,15229,2024-01-18
+9967134.0,OCEAN DILIGENCE,Bulker,35716.0,Bulker,Medium,False,17427,2024-12-18
+9629653.0,Gng Concord 1,Bulker,41073.0,Bulker,Medium,False,12752,2024-10-28
+9292618.0,Anastasia,Bulker,41059.0,Bulker,Medium,False,14386,2024-11-02
+9643544.0,Saita I,Bulker,43007.0,Bulker,Medium,False,21039,2024-10-19
+9875331.0,Draftzilla,Bulker,38222.0,Bulker,Medium,False,19437,2024-10-27
+9909077.0,DARYA HEERA,Bulker,34534.0,Bulker,Medium,True,16748,2024-05-27
+9881897.0,TAI STAMINA,Bulker,36267.0,Bulker,Medium,False,15011,2024-04-17
+9512343.0,Pescadores Sw,Bulker,42980.0,Bulker,Medium,False,19274,2024-10-01
+9575230.0,STAR FAIRFIELD,Bulker,35837.0,Bulker,Medium,False,16687,2024-11-20
+9990416.0,AFRICAN DRAGON,Bulker,36570.0,Bulker,Medium,False,17344,2024-09-25
+9969194.0,GALAXY EXPRESS,Bulker,36142.0,Bulker,Medium,False,17026,2024-10-26
+9470387.0,PACIFIC STAR,Bulker,41718.0,Bulker,Medium,False,33716,2024-11-09
+9731975.0,Pacific Wealth,Bulker,36449.0,Bulker,Medium,False,14883,2024-06-21
+9927304.0,SSI PRUDENT,Bulker,35846.0,Bulker,Medium,False,17506,2024-11-10
+9966829.0,BRISTOL,Bulker,36192.0,Bulker,Medium,False,13640,2024-12-10
+9710581.0,ALPHA DISCOVERY,Bulker,44200.0,Bulker,Large,False,21056,2024-04-14
+9950404.0,DARYA RASHMI,Bulker,44577.0,Bulker,Large,False,15517,2024-09-28
+9827384.0,Star Emerald,Bulker,44114.0,Bulker,Large,False,19979,2024-11-27
+9902275.0,VITA UNITY,Bulker,43672.0,Bulker,Large,False,21409,2024-11-02
+9944338.0,BASIC EXPLORER,Bulker,43672.0,Bulker,Large,False,21860,2024-10-18
+9454917.0,Knossos Wave,Bulker,47984.0,Bulker,Large,False,23957,2024-09-15
+9813096.0,Baru,Bulker,54043.0,Bulker,Large,False,489,2024-10-07
+9985605.0,BASIC STAR,Bulker,43455.0,Bulker,Large,False,23662,2024-11-22
+9394753.0,Manousos P,Bulker,43158.0,Bulker,Large,False,21135,2024-06-01
+9843730.0,Sophocles Graecia,Bulker,44095.0,Bulker,Large,False,21965,2024-01-08
+9510321.0,Pella,Bulker,43073.0,Bulker,Large,False,19550,2024-12-06
+9677387.0,Valadon,Bulker,44243.0,Bulker,Large,False,22020,2024-10-17
+9586631.0,Lyric Star,Bulker,44203.0,Bulker,Large,False,20291,2024-10-24
+9838450.0,Lowlands Courage,Bulker,50595.0,Bulker,Large,False,28582,2024-01-03
+9847413.0,Bbg Guigang,Bulker,44196.0,Bulker,Large,False,20805,2024-11-10
+9936240.0,EMERALD PUTUO,Bulker,48686.0,Bulker,Large,False,24065,2024-10-29
+9365867.0,Nevzat Kalkavan,Container,21162.0,Container,Small,False,208,2024-10-09
+9869667.0,Del Monte Harvester,Container,21423.0,Container,Small,False,100,2024-02-02
+9961441.0,ANDROKLIS,Container,17785.0,Container,Small,False,738,2024-10-10
+9383297.0,Seaboard Ranger,Container,9948.0,Container,Small,False,474,2024-02-28
+9365879.0,Kaan Kalkavan,Container,21162.0,Container,Small,False,750,2024-12-29
+9664275.0,CONTSHIP ART,Container,9932.0,Container,Small,False,185,2024-09-18
+9395135.0,CARIBBEAN STAR,Container,15375.0,Container,Small,False,200,2024-05-15
+9383285.0,Seaboard Ocean,Container,9948.0,Container,Small,False,360,2024-02-21
+9756092.0,CMA CGM WHITE,Container,24905.0,Container,Small,True,2573,2024-09-23
+9454242.0,Sonderborg,Container,12514.0,Container,Small,False,50,2024-08-27
+9869693.0,Del Monte Pride,Container,21423.0,Container,Small,False,250,2024-07-13
+9827334.0,Oleander,Container,8313.0,Container,Small,False,998,2024-12-26
+9535096.0,HANSA DUBURG,Container,18296.0,Container,Small,False,100,2024-12-22
+9690092.0,CMA CGM ORANGE,Container,24901.0,Container,Small,True,2002,2024-11-13
+9756107.0,CMA CGM BLUE,Container,24905.0,Container,Small,True,631,2024-12-25
+9344239.0,DIANA B,Container,8280.0,Container,Small,False,204,2024-05-30
+9632480.0,Maersk Rubicon,Container,51032.0,Container,Medium,True,8694,2024-11-08
+9395939.0,Sm Qingdao,Container,40741.0,Container,Medium,False,780,2024-09-23
+9964390.0,SEABOARD VOYAGER,Container,45976.0,Container,Medium,False,296,2024-11-04
+9629380.0,CMA CGM TOKYO,Container,70147.0,Container,Medium,False,300,2024-04-03
+9969869.0,CAPE SOREL,Container,26914.0,Container,Medium,False,201,2024-12-30
+9298636.0,INDEPENDENT PRIMERO,Container,35823.0,Container,Medium,False,1600,2024-10-15
+9283198.0,MAERSK MONTE OLIVIA,Container,69132.0,Container,Medium,False,1800,2024-07-17
+9426805.0,HT CAPRICORN,Container,54182.0,Container,Medium,False,3030,2024-06-09
+9334375.0,Independent Horizon,Container,35824.0,Container,Medium,False,380,2024-09-24
+9802499.0,CMA CGM ABU DHABI,Container,28433.0,Container,Medium,True,182,2024-03-03
+9680853.0,Perla Del Caribe,Container,36912.0,Container,Medium,False,2636,2024-12-30
+9680841.0,Isla Bella,Container,36751.0,Container,Medium,False,1208,2024-12-26
+9362413.0,Spirit Of Melbourne,Container,41483.0,Container,Medium,True,100,2024-12-10
+9721970.0,Taino,Container,37462.0,Container,Medium,False,4545,2024-12-30
+9400174.0,FORT DESAIX,Container,42609.0,Container,Medium,False,1637,2024-07-21
+9535187.0,HERMANN SCHULTE,Container,59307.0,Container,Medium,False,512,2024-03-23
+9951549.0,CMA CGM ENDURANCE,Container,73133.0,Container,Large,False,2800,2024-11-11
+9306158.0,CHENNAI EXPRESS,Container,73934.0,Container,Large,False,49,2024-09-10
+9262716.0,ARGUS,Container,75484.0,Container,Large,False,749,2024-11-10
+9484948.0,Express Athens,Container,113973.0,Container,Large,False,66,2024-05-21
+9348649.0,Maersk Atlanta,Container,74642.0,Container,Large,False,226,2024-12-31
+9945485.0,ZIM CANADA,Container,114643.0,Container,Large,False,5618,2024-10-30
+9400083.0,Maipo,Container,75752.0,Container,Large,False,780,2024-08-06
+9685322.0,Seaspan Bravo,Container,113042.0,Container,Large,False,226,2024-07-29
+9448798.0,Cosco Thailand,Container,91051.0,Container,Large,False,180,2024-09-16
+9630420.0,XIAMEN EXPRESS,Container,113509.0,Container,Large,False,238,2024-04-28
+9955296.0,HMM TURQUOISE,Container,126943.0,Container,Large,False,4160,2024-12-28
+9612870.0,Tolten,Container,88586.0,Container,Large,False,400,2024-12-18
+9409209.0,CMA CGM Maupassant,Container,73779.0,Container,Large,False,3442,2024-12-13
+9472165.0,Cosco Hope,Container,141823.0,Container,Large,False,4312,2024-12-26
+9944508.0,HMM PEARL,Container,126995.0,Container,Large,False,18991,2024-08-14
+9424912.0,ONE MAJESTY,Container,78410.0,Container,Large,False,2668,2024-05-12
+9385893.0,Frisiana,General Cargo,5937.0,General Cargo,Small,False,1700,2024-06-21
+9616058.0,Balsa 91,General Cargo,5698.0,General Cargo,Small,False,1799,2024-12-25
+9258985.0,Onego Rio,General Cargo,7576.0,General Cargo,Small,False,161,2024-11-02
+9485784.0,Oslo Bulk 3,General Cargo,5629.0,General Cargo,Small,False,1052,2024-08-13
+9580273.0,Balsa 86,General Cargo,5715.0,General Cargo,Small,False,2237,2024-12-19
+9485796.0,Oslo Bulk 5,General Cargo,5629.0,General Cargo,Small,False,2180,2024-10-26
+9374973.0,PUKA,General Cargo,8999.0,General Cargo,Small,False,750,2024-08-12
+9435765.0,Houtmangracht,General Cargo,9611.0,General Cargo,Small,False,2838,2024-08-29
+9485758.0,Oslo Bulk 1,General Cargo,5629.0,General Cargo,Small,False,1240,2024-10-24
+8204171.0,Tropic Lure,General Cargo,1827.0,General Cargo,Small,False,40,2024-12-19
+9366122.0,Sea Carrier,General Cargo,6668.0,General Cargo,Small,False,55,2024-03-31
+9594315.0,UAL OSPREY,General Cargo,6190.0,General Cargo,Small,False,260,2024-11-12
+9453793.0,BBC ALASKA,General Cargo,9627.0,General Cargo,Small,False,2409,2024-06-02
+9197911.0,Spiegelgracht,General Cargo,16641.0,General Cargo,Medium,False,500,2024-05-31
+9810769.0,ASTERIUS,General Cargo,21198.0,General Cargo,Medium,False,10234,2024-12-21
+9625607.0,DEVBULK BEGUM,General Cargo,19999.0,General Cargo,Medium,False,8053,2024-10-02
+9623219.0,Sun Rise,General Cargo,22499.0,General Cargo,Medium,False,7804,2024-10-05
+9426881.0,UBC Salaverry,General Cargo,21018.0,General Cargo,Medium,False,12395,2024-12-12
+9437335.0,Ocean Giant,General Cargo,15549.0,General Cargo,Medium,False,215,2024-09-19
+9317690.0,PROPEL PROSPERITY,General Cargo,22698.0,General Cargo,Medium,False,9719,2024-01-18
+9343625.0,BAM PROTEUS,General Cargo,20236.0,General Cargo,Medium,False,1876,2024-10-20
+9546473.0,Tiberborg,General Cargo,14695.0,General Cargo,Medium,False,150,2024-07-06
+9764013.0,STEEL MAGIC,General Cargo,22303.0,General Cargo,Medium,False,14657,2024-12-11
+9197947.0,Slotergracht,General Cargo,16641.0,General Cargo,Medium,False,300,2024-09-25
+9652519.0,UBC SALERNO,General Cargo,20992.0,General Cargo,Medium,False,12134,2024-11-13
+9744764.0,Tiziana,General Cargo,22457.0,General Cargo,Medium,False,12307,2024-04-10
+9803417.0,Weco Karoline,General Cargo,23713.0,General Cargo,Large,False,12171,2024-04-17
+9007544.0,Quetzal Arrow,General Cargo,29369.0,General Cargo,Large,False,704,2024-12-03
+9450155.0,Penghu Sw,General Cargo,22852.0,General Cargo,Large,False,11664,2024-08-28
+9687203.0,Global Splendour,General Cargo,31926.0,General Cargo,Large,False,1276,2024-05-23
+9852717.0,African Warbler,General Cargo,23194.0,General Cargo,Large,True,12284,2024-11-21
+9866639.0,OCEAN FLORA,General Cargo,23232.0,General Cargo,Large,True,12674,2024-08-19
+9416721.0,UBC Tilbury,General Cargo,24140.0,General Cargo,Large,False,11075,2024-05-22
+9310513.0,Star Java,General Cargo,32679.0,General Cargo,Large,True,577,2024-06-09
+9452919.0,Nikkei Sirius,General Cargo,29829.0,General Cargo,Large,False,1073,2024-08-16
+9877339.0,Blue Sapphire,General Cargo,23703.0,General Cargo,Large,False,14276,2024-11-16
+9659189.0,DEVBULK GULTEN,General Cargo,23749.0,General Cargo,Large,False,15106,2024-02-09
+9491680.0,TAN BINH 345,General Cargo,22863.0,General Cargo,Large,False,12942,2024-09-04
+9658953.0,Saga Fantasy,General Cargo,37441.0,General Cargo,Large,False,1545,2024-03-20
+9274379.0,GAS ROSEA,Tanker,5945.0,Tanker,Small,False,357,2024-07-04
+9800104.0,Nordic Ace,Tanker,9418.0,Tanker,Small,False,4279,2024-12-27
+9381641.0,B. Ace,Tanker,3978.0,Tanker,Small,False,1907,2024-12-06
+9788435.0,High Adventurer,Tanker,29513.0,Tanker,Small,False,17304,2024-12-09
+9799678.0,Gallop,Tanker,22988.0,Tanker,Small,False,12732,2024-12-02
+9744946.0,Earth Summit,Tanker,17235.0,Tanker,Small,False,5810,2024-12-05
+9468530.0,MARLIN PEARL,Tanker,5539.0,Tanker,Small,False,1725,2024-07-18
+9340350.0,OWL 6,Tanker,8539.0,Tanker,Small,False,4163,2024-11-05
+9702194.0,TORM DANICA,Tanker,29485.0,Tanker,Small,False,17238,2024-11-17
+9749362.0,Willard J,Tanker,17858.0,Tanker,Small,False,9799,2024-12-18
+9124469.0,Stolt Achievement,Tanker,25196.0,Tanker,Small,False,100,2024-05-13
+9753698.0,HAFNIA TOURMALINE,Tanker,29492.0,Tanker,Small,False,17546,2024-12-05
+9789726.0,MANTA BEYOGLU,Tanker,25086.0,Tanker,Small,False,5416,2024-12-13
+9654787.0,Ardmore Engineer,Tanker,30069.0,Tanker,Medium,False,17063,2024-12-01
+9680085.0,Stolt Sincerity,Tanker,29903.0,Tanker,Medium,False,904,2024-08-25
+9703019.0,BW Leo,Tanker,47922.0,Tanker,Medium,False,17393,2024-12-04
+9950583.0,ENEOS GUNJO,Tanker,49541.0,Tanker,Medium,False,18482,2024-11-24
+9795672.0,Laurel Prime,Tanker,47961.0,Tanker,Medium,False,16562,2024-09-17
+9396775.0,PACIFIC PRIDE,Tanker,30056.0,Tanker,Medium,False,19988,2024-01-18
+9897559.0,FLANDERS PIONEER,Tanker,50468.0,Tanker,Medium,False,19770,2024-12-07
+9723681.0,Sumire Gas,Tanker,46796.0,Tanker,Medium,False,19394,2024-08-10
+9797876.0,G. Spirit,Tanker,47558.0,Tanker,Medium,False,15639,2024-11-19
+9390599.0,Jag Lokesh,Tanker,57510.0,Tanker,Medium,False,3159,2024-08-30
+9709984.0,Jag Punit,Tanker,29967.0,Tanker,Medium,False,16873,2024-12-23
+9937062.0,PERTAMINA GAS CASPIA,Tanker,53573.0,Tanker,Medium,False,20723,2024-12-03
+9799381.0,INEOS DOLPHIN,Tanker,59229.0,Tanker,Medium,False,10353,2024-10-25
+9834466.0,Singapore Voyager,Tanker,163214.0,Tanker,Large,False,72948,2024-06-26
+9896933.0,BW CASSIA,Tanker,115373.0,Tanker,Large,False,43946,2024-12-24
+9315159.0,ARAM,Tanker,161473.0,Tanker,Large,False,91176,2024-11-24
+9926714.0,NANTES KNUTSEN,Tanker,114180.0,Tanker,Large,False,23134,2024-11-27
+9654701.0,KOOL KELVIN,Tanker,105832.0,Tanker,Large,False,47791,2024-11-19
+9436446.0,Nordic Light,Tanker,81493.0,Tanker,Large,False,43151,2024-11-24
+9892298.0,ASTERIX I,Tanker,116581.0,Tanker,Large,False,48926,2024-07-11
+9937945.0,PUTERI SAADONG,Tanker,110331.0,Tanker,Large,False,46313,2024-10-19
+9640023.0,Cool Explorer,Tanker,102097.0,Tanker,Large,False,49354,2024-11-05
+9854624.0,Energy Endeavour,Tanker,114195.0,Tanker,Large,False,44914,2024-12-08
+9731169.0,Olympic Lady,Tanker,154895.0,Tanker,Large,False,84030,2024-05-09
+9872999.0,Hellas Athina,Tanker,116284.0,Tanker,Large,False,38091,2024-11-23
+9948736.0,CELSIUS GRANADA,Tanker,119063.0,Tanker,Large,False,42269,2024-12-01
+9188829.0,Modern Link,RoRo,33831.0,RoRo,Small,False,100,2024-02-26
+9318515.0,Morning Menad,RoRo,41192.0,RoRo,Small,False,480,2024-12-05
+9131955.0,MINCHAH,RoRo,11591.0,RoRo,Small,False,100,2024-08-01
+7523673.0,Tropic Night,RoRo,1561.0,RoRo,Small,False,66,2024-12-14
+9234068.0,Hurst Point,RoRo,23235.0,RoRo,Small,False,300,2024-02-05
+9234082.0,NEW AMSTERDAM,RoRo,23235.0,RoRo,Small,False,2687,2024-12-02
+9491886.0,VIKING PASSERO,RoRo,47053.0,RoRo,Medium,False,300,2024-01-11
+9578957.0,LIBERTY POWER,RoRo,50110.0,RoRo,Medium,False,175,2024-10-28
+9427952.0,Pagna,RoRo,47057.0,RoRo,Medium,False,100,2024-02-15
+9252216.0,Heroic Ace,RoRo,56439.0,RoRo,Medium,False,49,2024-10-29
+9619684.0,Marjorie C,RoRo,47279.0,RoRo,Medium,False,1362,2024-01-02
+9153783.0,SILVER SOUL,RoRo,44219.0,RoRo,Medium,False,422,2024-09-30
+9724738.0,Grande Luanda,RoRo,71543.0,RoRo,Large,False,1425,2024-02-20
+9316141.0,Arc Resolve,RoRo,61260.0,RoRo,Large,False,85,2024-11-13
+9446013.0,Morning Lily,RoRo,70853.0,RoRo,Large,True,1288,2024-08-22
+9672105.0,Grande Cotonou,RoRo,71543.0,RoRo,Large,True,750,2024-11-25
+9303546.0,Alliance Fairfax,RoRo,59705.0,RoRo,Large,False,93,2024-02-08
+9209506.0,Triumph Ace,RoRo,56545.0,RoRo,Large,True,50,2024-10-14
+8912132.0,Green Honduras,Reefer,7743.0,Reefer,Small,False,481,2024-03-14
+9043055.0,Green Maveric,Reefer,5103.0,Reefer,Small,False,213,2024-03-02
+8912120.0,Green Costa Rica,Reefer,7743.0,Reefer,Small,False,555,2024-08-11
+8912144.0,Green Guatemala,Reefer,7743.0,Reefer,Small,False,588,2024-03-13
+8917572.0,Peruvian Reefer,Reefer,7944.0,Reefer,Medium,False,582,2024-12-12
+9063653.0,FRIO ANTARCTIC,Reefer,9438.0,Reefer,Medium,False,5,2024-09-30
+8917584.0,Wellington Star,Reefer,7944.0,Reefer,Medium,False,940,2024-05-11
+9181144.0,Baltic Heather,Reefer,9859.0,Reefer,Large,False,267,2024-08-26
+9172959.0,COOL ROYAL,Reefer,11382.0,Reefer,Large,True,67,2024-03-27
+9167801.0,COOL MAGNUS,Reefer,11382.0,Reefer,Large,False,136,2024-12-25
+9055709.0,Fegulus,Reefer,10374.0,Reefer,Large,False,852,2024-04-08
+9845910.0,VIKING NEPTUNE,Passenger,47878.0,Passenger,Small,False,66,2024-12-30
+9224726.0,Carnival Legend,Passenger,85942.0,Passenger,Small,False,262,2024-12-29
+9120877.0,Carnival Paradise,Passenger,71925.0,Passenger,Small,False,252,2024-12-28
+9070058.0,Carnival Sunshine,Passenger,103881.0,Passenger,Medium,False,322,2024-12-30
+9333149.0,Carnival Freedom,Passenger,110556.0,Passenger,Medium,False,644,2024-12-30
+9236389.0,Carnival Valor,Passenger,110438.0,Passenger,Medium,False,574,2024-12-28
+9383948.0,Allure Of The Seas,Passenger,226637.0,Passenger,Large,False,87,2024-06-24
+9851737.0,CARNIVAL JUBILEE,Passenger,182015.0,Passenger,Large,False,146,2024-05-18
+9227508.0,Navigator Of The Seas,Passenger,139999.0,Passenger,Large,False,490,2024-12-16
+9692545.0,Andromeda,Other,5937.0,Other,Small,False,26,2024-11-09
+9669213.0,OCEAN MARLIN,Other,2298.0,Other,Small,False,106,2024-08-04
+9560534.0,Mary Ann Moran,Other,689.0,Other,Small,False,48,2024-12-18
+9346029.0,Yacht Express,Other,17951.0,Other,Medium,False,703,2024-12-16
+9242376.0,Durable,Other,12184.0,Other,Medium,False,986,2024-03-18
+9745615.0,Island Victory,Other,11387.0,Other,Medium,False,709,2024-12-23
+9358826.0,Seven Oceans,Other,18201.0,Other,Large,False,470,2024-11-10
+9910313.0,EMPIRE STATE,Other,25985.0,Other,Large,False,128,2024-08-05
+9481154.0,Deep Energy,Other,25378.0,Other,Large,False,228,2024-11-23

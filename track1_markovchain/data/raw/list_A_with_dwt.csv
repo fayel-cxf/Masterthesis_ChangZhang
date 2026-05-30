@@ -1,0 +1,1039 @@
+imo,mmsi,vessel_name,vessel_type_raw,nbic_type_group,n_voyages,DWT,Gross_Tonnage,Ship_Type,Flag,Status
+1014618,352003856,BIRD OF PARADISE,Bulk Carrier,Bulker,1,40259,24595,Bulk Carrier,,ok
+8706789,311001067,ICE GLACIER,Reefer,Reefer,2,14933,12348,Refrigerated Cargo Ship,,ok
+8802090,311000992,BALTIC SUMMER,Reefer,Reefer,2,12350,10842,Refrigerated Cargo Ship,,ok
+8819926,311062400,DITLEV REEFER,Cargo,General Cargo,1,16950,14406,Refrigerated Cargo Ship,,ok
+8819938,311062300,IVAR REEFER,Reefer,Reefer,1,16950,14406,Refrigerated Cargo Ship,,ok
+8909070,311001003,BALTIC SPRING,Reefer,Reefer,2,12942,10842,Refrigerated Cargo Ship,,ok
+9007489,309193000,JORGEN REEFER,Cargo,General Cargo,1,16950,14406,Refrigerated Cargo Ship,,ok
+9008732,309841000,BALTIC PEARL,Reefer,Reefer,1,10713,10412,Refrigerated Cargo Ship,,ok
+9015199,308122000,NEDERLAND STREAM,Cargo - Fish carrier,General Cargo,1,13958,13049,Refrigerated Cargo Ship,,ok
+9016674,311000972,BALTIC PERFORMER,Cargo - Fish carrier,General Cargo,1,10603,10381,Refrigerated Cargo Ship,,ok
+9038488,311001000,BALTIC  PATRIOT,Reefer,Reefer,1,10621,10402,Refrigerated Cargo Ship,,ok
+9070450,566441000,TURANDOT,Vehicle Carrier,RoRo,7,22815,55598,Vehicles Carrier,,ok
+9074913,353518000,DAREEN,Livestock Carrier,General Cargo,2,7285,12959,Livestock Carrier,,ok
+9074925,538004024,SALEH,Livestock Carrier,General Cargo,1,7285,12665,Livestock Carrier,,ok
+9075709,257713000,HOEGH TRIDENT,Vehicle Carrier,RoRo,1,21423,56164,Vehicles Carrier,,ok
+9075711,257714000,HOEGH TROOPER,Vehicle Carrier,RoRo,1,21414,56164,Vehicles Carrier,,ok
+9077070,309759000,GREBE ARROW,Bulk Carrier,Bulker,4,55777,36008,General Cargo Ship,,ok
+9077082,309764000,KITE ARROW,Bulk Carrier,Bulker,5,55531,36008,General Cargo Ship,,ok
+9082934,564362000,DON JUAN,Vehicle Carrier,RoRo,8,22514,55598,Vehicles Carrier,,ok
+9105035,309601000,MANDARIN ARROW,General Cargo,General Cargo,1,55770,35998,General Cargo Ship,,ok
+9120865,219324000,SALLY MAERSK,Container Ship,Container,6,110387,92198,Container Ship,,ok
+9123166,371602000,MSC ALABAMA III,Container Ship,Container,9,52180,37518,Container Ship,,ok
+9126704,577603000,ATLAS WIND,General Cargo,General Cargo,2,5351,4150,General Cargo Ship,,ok
+9128049,311000782,CROWN GARNET,Cargo - Fish carrier,General Cargo,2,10334,10519,Refrigerated Cargo Ship,,ok
+9128051,311000791,CROWN JADE,Cargo - Fish carrier,General Cargo,1,10342,10519,Refrigerated Cargo Ship,,ok
+9128063,311000801,CROWN OPAL,Reefer,Reefer,1,10316,10519,Refrigerated Cargo Ship,,ok
+9139505,355738000,MSC REBECCA III,Container Ship,Container,6,52532,37968,Container Ship,,ok
+9141704,304128000,PAPA MAU,General Cargo,General Cargo,9,5642,5025,General Cargo Ship,,ok
+9143099,311000724,BALTIC PURPLE,Reefer,Reefer,2,10432,11438,Refrigerated Cargo Ship,,ok
+9143740,309785000,MV DISCOVERY BAY,Reefer,Reefer,4,10100,8924,Refrigerated Cargo Ship,,ok
+9144407,309823000,PLOVER ARROW,Bulk Carrier,Bulker,5,55458,36008,General Cargo Ship,,ok
+9146467,219145000,SVENDBORG MAERSK,Container Ship,Container,2,110387,92198,Container Ship,,ok
+9149859,351645000,ADVANCE,Container Ship,Container,1,24830,21611,Container Ship,,ok
+9150341,431339000,PEGASUS ACE,Vehicle Carrier,RoRo,3,14348,36893,Vehicles Carrier,,ok
+9150406,538009951,BIG LILLY,Container Ship,Container,2,23075,16803,Container Ship,,ok
+9151814,309927000,PENGUIN ARROW,General Cargo,General Cargo,1,51800,36008,General Cargo Ship,,ok
+9151826,309996000,WEAVER ARROW,Bulk Carrier,Bulker,5,55402,36008,General Cargo Ship,,ok
+9156565,636010682,STOLT KIKYO,Tanker,Tanker,1,11545,6426,Chemical/Oil Products Tanker,,ok
+9159103,311000796,CROWN RUBY,Reefer,Reefer,2,10338,10519,Refrigerated Cargo Ship,,ok
+9159115,311000855,CROWN SAPPHIRE,Cargo - Fish carrier,General Cargo,1,10334,10519,Refrigerated Cargo Ship,,ok
+9160724,311001027,BALTIC LORD,Reefer,Reefer,2,12912,11443,Refrigerated Cargo Ship,,ok
+9166792,219821000,SKAGEN MAERSK,Container Ship,Container,4,110387,92198,Container Ship,,ok
+9167796,372645000,ORIENTAL IRIS,Reefer,Reefer,1,10936,9305,Refrigerated Cargo Ship,,ok
+9169316,357247000,GRAND CHOICE,Vehicle Carrier,RoRo,2,16669,50309,Vehicles Carrier,,ok
+9171280,258882000,HOEGH TRADER,Vehicle Carrier,RoRo,2,27100,68060,Vehicles Carrier,,ok
+9172959,311001084,COOL  ROYAL,Reefer,Reefer,1,12906,11382,Refrigerated Cargo Ship,,ok
+9176395,257712000,HOEGH TRANSPORTER,Vehicle Carrier,RoRo,1,16747,57757,Vehicles Carrier,,ok
+9181132,311000795,WILD COSMOS,Cargo - Fish carrier,General Cargo,1,10097,9859,Refrigerated Cargo Ship,,ok
+9181168,311000834,WILD LOTUS,Cargo - Fish carrier,General Cargo,1,10139,9860,Refrigerated Cargo Ship,,ok
+9181479,357802000,GRAND QUEST,Vehicle Carrier,RoRo,3,16702,50309,Vehicles Carrier,,ok
+9182356,351757000,COMET ACE,Vehicle Carrier,RoRo,2,14283,36615,Vehicles Carrier,,ok
+9182966,257532000,STAR ISMENE,General Cargo,General Cargo,1,46428,32628,General Cargo Ship,,ok
+9184225,304586000,OLOMANA,Container Ship,Container,22,8252,6264,General Cargo Ship,,ok
+9184249,304984000,LILOA II,General Cargo,General Cargo,34,8378,6264,General Cargo Ship,,ok
+9188934,563121800,CAPITAINE MAGELLAN,General Cargo,General Cargo,10,9793,7775,General Cargo Ship,,ok
+9191307,257565000,TAMESIS,Cargo,General Cargo,1,39516,67140,Vehicles Carrier,,ok
+9191319,257613000,TALISMAN,Ro-Ro Cargo,RoRo,2,38500,67140,Vehicles Carrier,,ok
+9191321,257672000,TARAGO,Cargo,General Cargo,1,39516,67140,Vehicles Carrier,,ok
+9191474,311000804,WILD PEONY,Cargo - Fish carrier,General Cargo,2,10110,9859,Refrigerated Cargo Ship,,ok
+9191498,311000788,CROWN TOPAZ,Reefer,Reefer,2,10318,10527,Refrigerated Cargo Ship,,ok
+9191876,257711000,HOEGH ASIA,Vehicle Carrier,RoRo,3,27564,68060,Vehicles Carrier,,ok
+9192454,477642900,NICOLAI MAERSK,Container Ship,Container,1,30420,27733,Container Ship,,ok
+9193276,565253000,GRASMERE MAERSK,Container Ship,Container,6,62007,50698,Container Ship,,ok
+9198575,219840000,CLIFFORD MAERSK,Container Ship,Container,1,110387,92198,Container Ship,,ok
+9198587,563084500,CORNELIUS MAERSK,Cargo - Hazard A,General Cargo,2,110387,93129,Container Ship,,ok
+9206059,311000776,SOUTHAMPTON STAR,Reefer,Reefer,3,9709,10804,Refrigerated Cargo Ship,,ok
+9206061,311000784,SOLENT STAR,Reefer,Reefer,5,9709,10804,Refrigerated Cargo Ship,,ok
+9207120,357961000,BRAVERY ACE,Vehicle Carrier,RoRo,2,17686,52276,Vehicles Carrier,,ok
+9207388,351340000,PALMELA,Vehicle Carrier,RoRo,6,20581,55926,Vehicles Carrier,,ok
+9209271,352283000,FRONTIER ACE,Vehicle Carrier,RoRo,4,17693,52308,Vehicles Carrier,,ok
+9209506,352062000,TRIUMPH ACE,Cargo,General Cargo,1,20131,56545,Vehicles Carrier,,ok
+9209518,431221000,MERIDIAN ACE,Vehicle Carrier,RoRo,1,20144,56175,Vehicles Carrier,,ok
+9210000,636016327,FUJITRANS WORLD,Vehicle Carrier,RoRo,4,9653,27286,Vehicles Carrier,,ok
+9210050,636015031,MSC STAR R,Container Ship,Container,9,51372,37113,Container Ship,,ok
+9213454,355745000,PRESTIGE ACE,Cargo,General Cargo,1,20202,55878,Vehicles Carrier,,ok
+9214898,563084700,A.P. MOLLER,Cargo - Hazard A,General Cargo,3,110387,92198,Container Ship,,ok
+9214903,219031418,CAROLINE MAERSK,Container Ship,Container,2,118944,92198,Container Ship,,ok
+9218662,563726000,APL SCOTLAND,Container Ship,Container,4,69653,65792,Container Ship,,ok
+9219795,563084300,CARSTEN MAERSK,Container Ship,Container,3,119185,93129,Container Ship,,ok
+9219800,563084400,CHASTINE MAERSK,Container Ship,Container,4,110387,92198,Container Ship,,ok
+9220316,255805580,JPO AQUARIUS,Container Ship,Container,1,33937,25361,Container Ship,,ok
+9221085,235068051,COSCO HAMBURG,Container Ship,Container,1,69193,65531,Container Ship,,ok
+9222986,636020770,GSL TEGEA,Container Ship,Container,1,71621,66058,Container Ship,,ok
+9224324,538005687,SFT SAUDI,Container Ship,Container,8,50985,39941,Container Ship,,ok
+9227613,356948000,TRANS FUTURE 3,Vehicle Carrier,RoRo,6,9491,25157,Vehicles Carrier,,ok
+9229398,355234000,NEW CENTURY 1,Vehicle Carrier,RoRo,4,16837,52863,Vehicles Carrier,,ok
+9229403,636017294,NEW CENTURY 2,Vehicle Carrier,RoRo,7,16837,52863,Vehicles Carrier,,ok
+9230787,563007700,PFL MATAI,Container Ship,Container,19,22968,16803,Container Ship,,ok
+9232852,563066400,OCEAN DROVER,Livestock Carrier,General Cargo,1,13462,29812,Livestock Carrier,,ok
+9232979,338566000,KAMOKUIKI,Container Ship,Container,1,8244,6368,Container Ship,,ok
+9235402,636016943,MSC RADIANT III,Container Ship,Container,1,33836,25713,Container Ship,,ok
+9235543,563076200,MAERSK GATESHEAD,Container Ship,Container,1,61609,50686,Container Ship,,ok
+9235579,563077400,MAERSK GARONNE,Container Ship,Container,5,61636,50686,Container Ship,,ok
+9236066,356347000,KEN GOH,Bulk Carrier,Bulker,5,31939,19707,General Cargo Ship,,ok
+9236585,636020440,MSC KANU F,Container Ship,Container,1,18409,14241,Container Ship,,ok
+9238789,636016940,MSC MANU,Container Ship,Container,7,53327,39941,Container Ship,,ok
+9240873,636019443,MSC RESILIENT III,Container Ship,Container,4,38004,27093,Container Ship,,ok
+9241463,352898692,MSC CORCOVADO III,Container Ship,Container,2,36307,25407,Container Ship,,ok
+9245744,220059000,CHARLOTTE MAERSK,Container Ship,Container,4,109657,92198,Container Ship,,ok
+9246401,235068031,COSCO FELIXSTOWE,Container Ship,Container,13,69107,65531,Container Ship,,ok
+9250701,538009418,BLUE EVERTON,Cargo,General Cargo,1,32474,19872,Bulk Carrier,,ok
+9251078,477473000,GOLD RIVER,Bulk Carrier,Bulker,5,32537,19872,Bulk Carrier,,ok
+9251614,220198000,OLGA MAERSK,Container Ship,Container,10,41028,34202,Container Ship,,ok
+9251626,220207000,OLUF MAERSK,Container Ship,Container,7,41028,34202,Container Ship,,ok
+9251638,220216000,OLIVIA MAERSK,Container Ship,Container,8,41028,34202,Container Ship,,ok
+9252204,431312000,MORNING CREST,Vehicle Carrier,RoRo,1,19879,56563,Vehicles Carrier,,ok
+9252228,431349000,SPLENDID ACE,Vehicle Carrier,RoRo,2,19893,56556,Vehicles Carrier,,ok
+9253014,636021150,MSC CORDELIA III,Container Ship,Container,4,39422,28596,Container Ship,,ok
+9254628,311000979,MAREEBA,Bulk Carrier,Bulker,2,46673,26195,Bulk Carrier,,ok
+9254654,257329000,MV STAR JAPAN,General Cargo,General Cargo,2,44837,32844,General Cargo Ship,,ok
+9259393,636021154,MSC SOTIRIA III,Container Ship,Container,5,40208,28676,Container Ship,,ok
+9263332,372972000,MSC BANU III,Container Ship,Container,5,48015,36082,Container Ship,,ok
+9263344,351285000,MSC ASTRID III,Container Ship,Container,1,48015,36082,Container Ship,,ok
+9264207,565760000,CAPITAINE WALLIS,Container Ship,Container,11,5923,5244,Container Ship,,ok
+9267077,477280800,TIMARU STAR,Bulk Carrier,Bulker,2,33527,19779,Bulk Carrier,,ok
+9267089,477440700,COOK STRAIT,Bulk Carrier,Bulker,4,31894,19779,Bulk Carrier,,ok
+9267675,351780000,MARTORELL,Vehicle Carrier,RoRo,1,19531,57789,Vehicles Carrier,,ok
+9267687,353514000,PROGRESS ACE,Vehicle Carrier,RoRo,1,19512,57789,Vehicles Carrier,,ok
+9267699,431695000,PROMINENT ACE,Vehicle Carrier,RoRo,1,19550,57806,Vehicles Carrier,,ok
+9267742,636092313,KOGA REVOLUTION,General Cargo,General Cargo,1,10581,8963,General Cargo Ship,,ok
+9268083,538005972,AUCKLAND SPIRIT,General Cargo,General Cargo,1,31646,19883,General Cargo Ship,,ok
+9268928,477271600,OTAGO HARBOUR,Bulk Carrier,Bulker,1,33745,19829,Bulk Carrier,,ok
+9270452,413054000,XIN QING DAO,Container Ship,Container,1,69423,66433,Container Ship,,ok
+9270907,355170000,ACHILLES BULKER,Bulk Carrier,Bulker,4,32729,19891,Bulk Carrier,,ok
+9272230,636023004,CHIPOLBROK SUN,General Cargo,General Cargo,1,30435,24167,General Cargo Ship,,ok
+9272773,538005973,ADMIRALTY  SPIRIT,General Cargo,General Cargo,1,32263,19883,General Cargo Ship,,ok
+9274551,477789000,SUN RUBY,Bulk Carrier,Bulker,2,32754,19887,Bulk Carrier,,ok
+9276731,477250500,CHERRY POINT,Bulk Carrier,Bulker,4,29738,17979,Bulk Carrier,,ok
+9278117,636013437,DERBY D,Container Ship,Container,1,50814,40030,Container Ship,,ok
+9278143,357067000,MSC ELENI,Container Ship,Container,4,72976,54881,Container Ship,,ok
+9282962,538005938,TIANJIN BRIDGE,Container Ship,Container,3,66983,54592,Container Ship,,ok
+9283966,304726000,BBC WISCONSIN,General Cargo,General Cargo,1,12672,9611,General Cargo Ship,,ok
+9285483,257408000,HOEGH TOKYO,Vehicle Carrier,RoRo,3,27100,68871,Vehicles Carrier,,ok
+9286944,477905000,KAITI HILL,Bulk Carrier,Bulker,1,29727,18020,Bulk Carrier,,ok
+9290098,229955000,CMA CGM SEATTLE,Container Ship,Container,11,51850,39941,Container Ship,,ok
+9290426,352001168,MSC SANTA MARIA,Container Ship,Container,2,67273,54809,Container Ship,,ok
+9290452,563102800,SHINA,Container Ship,Container,1,77159,53807,Container Ship,,ok
+9293521,431082000,MIRACULOUS ACE,Vehicle Carrier,RoRo,1,19381,59160,Vehicles Carrier,,ok
+9293571,431205000,EMINENT ACE,Vehicle Carrier,RoRo,1,18947,58595,Vehicles Carrier,,ok
+9293650,431554000,LIBERTY ACE,Vehicle Carrier,RoRo,3,19106,59992,Vehicles Carrier,,ok
+9293894,431585000,FIRMAMENT ACE,Vehicle Carrier,RoRo,1,17713,60169,Vehicles Carrier,,ok
+9294159,538007938,CAPTAIN THANASIS I,Container Ship,Container,5,39383,28592,Container Ship,,ok
+9294537,636092863,AS PENELOPE,Container Ship,Container,1,34740,26611,Container Ship,,ok
+9294824,636015181,MSC DURBAN IV,Container Ship,Container,7,52683,42382,Container Ship,,ok
+9295830,257560000,HOEGH NEW YORK,Vehicle Carrier,RoRo,2,21099,57280,Vehicles Carrier,,ok
+9295842,311019100,HOEGH BERLIN,Vehicle Carrier,RoRo,3,27178,68871,Vehicles Carrier,,ok
+9297527,441548000,ANTWERP BRIDGE,Container Ship,Container,2,66583,54592,Container Ship,,ok
+9297840,636090862,JPO LIBRA,Container Ship,Container,1,52786,41359,Container Ship,,ok
+9300178,477133800,HAINAN ISLAND,Bulk Carrier,Bulker,1,32573,19885,Bulk Carrier,,ok
+9300219,538009419,BLUE ALEXANDRA,Bulk Carrier,Bulker,2,32545,19889,Bulk Carrier,,ok
+9301847,477690600,SEASPAN RIO DE JANEI,Container Ship,Container,3,50500,39941,Container Ship,,ok
+9303041,564415000,THOR MAGNHILD,Bulk Carrier,Bulker,1,56023,31247,Bulk Carrier,,ok
+9303156,371820000,DREAM ANGEL,Ro-Ro Cargo,RoRo,12,15089,41662,Vehicles Carrier,,ok
+9303390,636022083,ST THERESA,Bulk Carrier,Bulker,1,32610,19885,Bulk Carrier,,ok
+9304502,355615000,POSITIVE STAR,Vehicle Carrier,RoRo,2,15128,43810,Vehicles Carrier,,ok
+9304514,352824000,POSITIVE PIONEER,Vehicle Carrier,RoRo,1,15128,43810,Vehicles Carrier,,ok
+9307267,370437000,MSC CORINNA,Container Ship,Container,11,38420,27469,Container Ship,,ok
+9310006,352573000,KEN REI,Bulk Carrier,Bulker,2,31866,19781,Bulk Carrier,,ok
+9310513,258734000,STAR JAVA,Container Ship,Container,1,44692,32679,General Cargo Ship,,ok
+9310616,477013600,UNI AUC ONE,Bulk Carrier,Bulker,1,28709,17663,Bulk Carrier,,ok
+9310745,356928000,ND KATHRYN DN,Bulk Carrier,Bulker,1,32728,19885,Bulk Carrier,,ok
+9311139,372828000,GLORIOUS PEONY,Wood-Chip Carrier,Bulker,1,49710,40537,Wood Chips Carrier,,ok
+9311426,477125800,CORIO BAY,Bulk Carrier,Bulker,1,33529,19796,Bulk Carrier,,ok
+9312482,258758000,HOEGH SHANGHAI,Vehicle Carrier,RoRo,2,27178,68871,Vehicles Carrier,,ok
+9314765,563206600,STOLT RINDO,Tanker,Tanker,1,11519,6944,Chemical/Oil Products Tanker,,ok
+9314961,636090967,MONACO,Container Ship,Container,1,39418,28927,Container Ship,,ok
+9315836,636021031,MSC VAIGA III,Container Ship,Container,7,39275,28927,Container Ship,,ok
+9315886,636021991,MSC NIMISHA III,Container Ship,Container,4,39200,28927,Container Ship,,ok
+9316373,636018603,MSC TANIA,Container Ship,Container,8,38975,32200,Container Ship,,ok
+9317250,477938600,THERESA MICRONESIA,Tanker - Hazard D,Tanker,1,9091,5489,Chemical/Oil Products Tanker,,ok
+9317482,477700500,ASTORIA BAY,Bulk Carrier,Bulker,1,46619,26479,Bulk Carrier,,ok
+9318319,477849400,MAERSK MAKUTU,Container Ship,Container,4,65364,50686,Container Ship,,ok
+9318474,258720000,HOEGH BANGKOK,Vehicle Carrier,RoRo,1,16889,55775,Vehicles Carrier,,ok
+9318503,309955000,ISTRA ACE,Vehicle Carrier,RoRo,4,12200,41000,Vehicles Carrier,,ok
+9319765,249757000,TORTUGAS,Vehicle Carrier,RoRo,1,22271,61321,Vehicles Carrier,,ok
+9321885,371008000,VICTOIRE,Tanker,Tanker,2,3854,3759,LPG Tanker,,ok
+9321897,255806458,MSC NADIA IV,Container Ship,Container,2,46269,38332,Container Ship,,ok
+9322463,229705000,CMA CGM MARLIN,Container Ship,Container,2,68038,54152,Container Ship,,ok
+9324978,210722000,CONTSHIP ONO,Container Ship,Container,1,13803,9957,Container Ship,,ok
+9325104,477250400,TAMPA BAY,Bulk Carrier,Bulker,2,29671,17979,Bulk Carrier,,ok
+9325180,636015994,CSAV RIO NEVADO,Vehicle Carrier,RoRo,5,12221,46800,Vehicles Carrier,,ok
+9325221,372399000,GRAND RUBY,Cargo,General Cargo,1,18117,59217,Vehicles Carrier,,ok
+9326079,371522000,TRANS FUTURE 5,Vehicle Carrier,RoRo,15,14906,60414,Vehicles Carrier,,ok
+9326081,371797000,TRANS FUTURE 6,Vehicle Carrier,RoRo,14,14906,60401,Vehicles Carrier,,ok
+9326093,636017295,TRANS FUTURE 7,Vehicle Carrier,RoRo,14,14906,60401,Vehicles Carrier,,ok
+9326201,371352000,MAEA,Tanker,Tanker,2,3854,3759,LPG Tanker,,ok
+9326316,477968700,ORIENTAL SPIRIT,Bulk Carrier,Bulker,2,18849,11751,Bulk Carrier,,ok
+9326328,477007200,SHANGHAI SPIRIT,Bulk Carrier,Bulker,3,18828,11751,Bulk Carrier,,ok
+9328601,413170000,XIN ZHANG ZHOU,Container Ship,Container,17,52216,41482,Container Ship,,ok
+9329540,477007100,OOCL BUSAN,Container Ship,Container,18,50567,40168,Container Ship,,ok
+9331220,564411000,THOR MONADIC,Bulk Carrier,Bulker,1,56026,31247,Bulk Carrier,,ok
+9331907,477407100,COLUMBIA RIVER,Bulk Carrier,Bulker,1,55922,31304,Bulk Carrier,,ok
+9332937,266261000,FIDELIO,Vehicle Carrier,RoRo,2,30137,71583,Vehicles Carrier,,ok
+9334246,370552000,DREAM JASMINE,Ro-Ro Cargo,RoRo,11,15068,41662,Vehicles Carrier,,ok
+9336074,440204000,MORNING COMPOSER,Vehicle Carrier,RoRo,2,21053,57542,Vehicles Carrier,,ok
+9336763,371977000,ALPHA BULKER,Bulk Carrier,Bulker,2,32741,19885,Bulk Carrier,,ok
+9336787,565080000,IVS KINGBIRD,Bulk Carrier,Bulker,1,32561,19885,Bulk Carrier,,ok
+9336799,477999700,MOUNT RAINIER,Bulk Carrier,Bulker,4,32816,19887,Bulk Carrier,,ok
+9338541,477969800,LONGVIEW LOGGER,Bulk Carrier,Bulker,1,33527,19822,Bulk Carrier,,ok
+9338577,371050000,TAOKAS WISDOM,Bulk Carrier,Bulker,1,31943,19822,Bulk Carrier,,ok
+9338589,538006870,LADY LAURA,Bulk Carrier,Bulker,1,31945,19822,General Cargo Ship,,ok
+9338620,431839000,SWALLOW ACE,Vehicle Carrier,RoRo,1,18864,58599,Vehicles Carrier,,ok
+9338826,309369000,SWAN ACE,Vehicle Carrier,RoRo,2,18867,58685,Vehicles Carrier,,ok
+9338838,311004900,SWIFT ACE,Vehicle Carrier,RoRo,1,18865,58685,Vehicles Carrier,,ok
+9338840,311013600,SUNRISE ACE,Vehicle Carrier,RoRo,2,18864,58685,Vehicles Carrier,,ok
+9338852,311015100,SUNSHINE ACE,Vehicle Carrier,RoRo,1,18858,58917,Vehicles Carrier,,ok
+9338864,354423000,SUNLIGHT ACE,Vehicle Carrier,RoRo,2,18855,58911,Vehicles Carrier,,ok
+9340570,372613000,GRAND CHAMPION,Ro-Ro Cargo,RoRo,1,18262,59217,Vehicles Carrier,,ok
+9341110,249014000,DELOS WAVE,Container Ship,Container,1,39357,28616,Container Ship,,ok
+9341122,636021400,MSC ALDI III,Container Ship,Container,1,39337,29021,Container Ship,,ok
+9342205,258981000,HOEGH LONDON,Vehicle Carrier,RoRo,1,27100,68871,Vehicles Carrier,,ok
+9342695,255806116,AS CALIFORNIA,Container Ship,Container,8,39446,28340,Container Ship,,ok
+9344045,431178000,WORLD SWAN II,Wood-Chip Carrier,Bulker,1,49603,39965,Wood Chips Carrier,,ok
+9344057,431495000,CHUETSU SPIRIT,Wood-Chip Carrier,Bulker,2,49574,39967,Wood Chips Carrier,,ok
+9344071,355702000,SOUTHERN STAR,Wood-Chip Carrier,Bulker,1,49470,39969,Wood Chips Carrier,,ok
+9344083,431261000,FLORA PIONEER,Wood-Chip Carrier,Bulker,2,49359,40068,Wood Chips Carrier,,ok
+9344136,477936300,CSC PROGRESS,Tanker,Tanker,1,45791,29593,Oil Products Tanker,,ok
+9344148,477985100,CSC PEACE,Tanker,Tanker,2,45886,29593,Oil Products Tanker,,ok
+9344150,477985200,CSC FRIENDSHIP,Tanker,Tanker,1,45800,29593,Oil Products Tanker,,ok
+9344954,563122100,MAERSK VALENCIA,Container Ship,Container,1,23482,18327,Container Ship,,ok
+9345996,636093250,A-REX DEXTERITY,Container Ship,Container,3,48109,36007,Container Ship,,ok
+9347281,255805847,ESL WINNER,Container Ship,Container,1,28170,22914,Container Ship,,ok
+9348089,563050200,MAERSK RIO BLANCO,Container Ship,Container,3,80115,73899,Container Ship,,ok
+9348091,563050300,MAERSK RIO BRAVO,Container Ship,Container,6,80225,73899,Container Ship,,ok
+9348106,563051600,MAERSK RIO ALFA,Container Ship,Container,5,80293,73899,Container Ship,,ok
+9348156,566781000,MAERSK INVERNESS,Container Ship,Container,7,41350,35491,Container Ship,,ok
+9348170,566779000,MAERSK INNOSHIMA,Container Ship,Container,4,41337,35491,Container Ship,,ok
+9348467,636091385,NORTHERN GUILD,Container Ship,Container,12,53870,41835,Container Ship,,ok
+9348493,372818000,GAUJA,Cargo,General Cargo,1,20643,15487,Container Ship,,ok
+9348687,636020257,SEATTLE EZCMX#[)3X,Container Ship,Container,9,68411,54675,Container Ship,,ok
+9349801,636091473,MATSON WAIKIKI,Container Ship,Container,5,63352,50963,Container Ship,,ok
+9351036,565944000,KOTA LAMBANG,Container Ship,Container,7,53278,39906,Container Ship,,ok
+9352004,477891700,MAERSK STEPNICA,Container Ship,Container,1,107978,92293,Container Ship,,ok
+9352016,219229000,MAERSK SALALAH,Container Ship,Container,2,107978,92293,Container Ship,,ok
+9352028,219231000,MAERSK SAVANNAH,Container Ship,Container,2,107978,92293,Container Ship,,ok
+9352030,477770300,MAERSK SALINA,Container Ship,Container,2,107978,92293,Container Ship,,ok
+9354533,563060800,CAPITAINE TASMAN,Container Ship,Container,18,22708,16803,Container Ship,,ok
+9355032,357993000,LADY ROSE,Reefer,Reefer,1,10630,9576,Refrigerated Cargo Ship,,ok
+9355044,357919000,LADY ROSEHIP,Reefer,Reefer,3,10617,9576,Refrigerated Cargo Ship,,ok
+9355185,636015949,PRIMROSE ACE,Vehicle Carrier,RoRo,2,17339,59952,Vehicles Carrier,,ok
+9355197,636016420,WISTERIA ACE,Cargo,General Cargo,1,17325,59952,Vehicles Carrier,,ok
+9355288,477178900,MAERSK BINTAN,Container Ship,Container,1,43097,35835,Container Ship,,ok
+9355355,477211100,MAERSK BAYETE,Container Ship,Container,9,43197,35819,Container Ship,,ok
+9357949,563052100,MONTE TAMARO,Container Ship,Container,1,71587,69132,Container Ship,,ok
+9357951,563052200,MAERSK RIO DELTA,Container Ship,Container,4,80454,73899,Container Ship,,ok
+9357963,563052900,MAERSK RIO INDIA,Container Ship,Container,7,80398,73899,Container Ship,,ok
+9357975,563052300,MAERSK RIO NEGRO,Container Ship,Container,5,80409,73899,Container Ship,,ok
+9358022,636021429,PACIFIC ENDEAVOUR,General Cargo,General Cargo,3,12746,9611,General Cargo Ship,,ok
+9360271,255799000,MSC CAPE III,Container Ship,Container,6,38666,28007,Container Ship,,ok
+9360324,477163800,SEAWAYS TITAN,Tanker,Tanker,1,49999,29305,Chemical/Oil Products Tanker,,ok
+9360752,232013516,SPIRIT OF AUCKLAND,Container Ship,Container,10,53124,41483,Container Ship,,ok
+9361809,308808000,LAPIS ARROW,Vehicle Carrier,RoRo,1,12105,41000,Vehicles Carrier,,ok
+9362308,563677000,KOTA NALURI,Container Ship,Container,1,25985,20902,Container Ship,,ok
+9362396,232013524,SPIRIT OF SINGAPORE,Container Ship,Container,5,53093,41483,Container Ship,,ok
+9362401,563148200,MAERSK WILLEMSTADT,Container Ship,Container,10,53160,41483,Container Ship,,ok
+9362413,232013521,SPIRIT OF MELBOURNE,Container Ship,Container,11,53176,41483,Container Ship,,ok
+9363948,353332000,LAVENDER ACE,Vehicle Carrier,RoRo,1,17262,60065,Vehicles Carrier,,ok
+9363950,636017062,CLOVER ACE,Cargo,General Cargo,1,17280,60065,Vehicles Carrier,,ok
+9367621,477829600,PORT ANGELES,Bulk Carrier,Bulker,2,28448,16951,Bulk Carrier,,ok
+9367839,229914000,CMA CGM QUELIMANE,Container Ship,Container,1,34325,26638,Container Ship,,ok
+9369095,305315000,BBC CHALLENGER,General Cargo,General Cargo,1,11121,7878,General Cargo Ship,,ok
+9370824,370768000,SENDAI SPIRIT,Wood-Chip Carrier,Bulker,3,49520,39895,Wood Chips Carrier,,ok
+9372315,372610000,LUNA SPIRIT,Vehicle Carrier,RoRo,3,15261,43810,Vehicles Carrier,,ok
+9372327,372945000,ANDROMEDA SPIRIT,Vehicle Carrier,RoRo,3,15261,43810,Vehicles Carrier,,ok
+9374571,636018729,MSC EXPRESS III,Container Ship,Container,3,40278,28332,Container Ship,,ok
+9377509,266283000,OBERON,Vehicle Carrier,RoRo,1,30134,71673,Vehicles Carrier,,ok
+9377511,259805000,TIJUCA,Vehicle Carrier,RoRo,2,30089,71668,Vehicles Carrier,,ok
+9377523,259895000,TIRRANNA,Vehicle Carrier,RoRo,2,30089,71659,Vehicles Carrier,,ok
+9377975,477071800,PORT PHILLIP,General Cargo,General Cargo,1,33354,20987,Bulk Carrier,,ok
+9377987,477114300,DIAMOND HARBOUR,General Cargo,General Cargo,1,33376,20987,Bulk Carrier,,ok
+9377999,477143900,SANTIAGO BASIN,General Cargo,General Cargo,2,33443,20987,Bulk Carrier,,ok
+9379777,413372000,CHANG HANG HONG TU,Tanker,Tanker,1,45765,29578,Oil Products Tanker,,ok
+9379789,413373000,CHANG HANG FENG CAI,Tanker,Tanker,1,45844,29578,Oil Products Tanker,,ok
+9379935,477197600,MAIPO RIVER,General Cargo,General Cargo,3,33420,20987,Bulk Carrier,,ok
+9383223,636020500,MSC LIDIA,Container Ship,Container,5,34362,26435,Container Ship,,ok
+9383417,370967000,MORNING LISA,Vehicle Carrier,RoRo,2,28084,68701,Vehicles Carrier,,ok
+9383431,372802000,MORNING LUCY,Vehicle Carrier,RoRo,1,28080,68701,Vehicles Carrier,,ok
+9384318,305066000,PIA,General Cargo,General Cargo,1,12732,9618,General Cargo Ship,,ok
+9384851,477768700,TAIHUA STAR,Bulk Carrier,Bulker,2,28456,16951,Bulk Carrier,,ok
+9386471,636014059,KASSIAKOS,Container Ship,Container,1,52513,40560,Container Ship,,ok
+9386988,305293000,PETKUM,General Cargo,General Cargo,3,19497,15633,Container Ship,,ok
+9387700,257376000,FAUSKANGER,Tanker,Tanker,1,46180,29804,Chemical/Oil Products Tanker,,ok
+9389409,229054000,CMA CGM DUTCH HARBOR,Container Ship,Container,10,51653,40466,Container Ship,,ok
+9391660,563148300,MAERSK WELLINGTON,Container Ship,Container,9,53139,41483,Container Ship,,ok
+9391672,232013525,SPIRIT OF SYDNEY,Container Ship,Container,6,53142,41483,Container Ship,,ok
+9392157,370295000,GLOBAL MERMAID,Cargo,General Cargo,1,33738,21100,Bulk Carrier,,ok
+9392925,565971000,MAERSK BUTON,Container Ship,Container,3,43123,35835,Container Ship,,ok
+9393498,636020806,MICRONESIAN OCEAN,General Cargo,General Cargo,3,7709,5317,General Cargo Ship,,ok
+9394870,563102000,MAERSK BALI,Container Ship,Container,3,43206,35835,Container Ship,,ok
+9394882,563514000,MAERSK BOGOR,Container Ship,Container,8,43177,35819,Container Ship,,ok
+9394894,563508000,MAERSK BRATAN,Container Ship,Container,1,43114,35819,Container Ship,,ok
+9395604,209135000,CONTSHIP WIN,Container Ship,Container,1,13809,9940,Container Ship,,ok
+9396127,257310000,STAR KIRKENES,Container Ship,Container,2,49924,37158,General Cargo Ship,,ok
+9396141,257457000,STAR KINN,Cargo,General Cargo,1,49924,37158,General Cargo Ship,,ok
+9397999,352980797,AMETHYST ACE,Cargo,General Cargo,1,18760,60143,Vehicles Carrier,,ok
+9399868,440285000,ORIENTAL DIAMOND,Tanker,Tanker,1,50781,30110,Chemical/Oil Products Tanker,,ok
+9399870,440322000,ORIENTAL GOLD,Tanker,Tanker,1,50591,30110,Chemical/Oil Products Tanker,,ok
+9400215,636020345,NEOKASTRO,Cargo - Hazard C,General Cargo,1,52788,42609,Container Ship,,ok
+9401166,255806485,MSC SAGITTA III,Container Ship,Container,6,42614,36519,Container Ship,,ok
+9402639,477629400,MAERSK NINGBO,Container Ship,Container,1,34194,26420,Container Ship,,ok
+9403138,636021245,VIRONO PRIDE,Bulk Carrier,Bulker,1,58761,32379,Bulk Carrier,,ok
+9403152,248289000,AGP KARTINI III,Bulk Carrier,Bulker,2,58717,32379,Bulk Carrier,,ok
+9403281,636022841,BERGAMOT ACE,Vehicle Carrier,RoRo,2,14996,42401,Vehicles Carrier,,ok
+9404613,636014030,SOFRANA TOURVILLE,Cargo - Hazard D,General Cargo,14,12502,9684,Container Ship,,ok
+9405033,636091527,NORTHERN DIAMOND,Container Ship,Container,1,42054,36007,Container Ship,,ok
+9406374,477058500,CSC AUSPICIOUS,Tanker,Tanker,1,45851,29593,Oil Products Tanker,,ok
+9407081,370122000,GOLDEN YOSA,Tanker,Tanker,1,19701,11645,Chemical/Oil Products Tanker,,ok
+9407885,636020983,GSL KITHIRA,Container Ship,Container,12,65937,52726,Container Ship,,ok
+9408372,229660000,SOFRANA SURVILLE,Container Ship,Container,15,12502,9684,Container Ship,,ok
+9410301,563168600,CAPITAINE TUPAIA,Container Ship,Container,21,22314,18123,Container Ship,,ok
+9412749,351698000,LADY ROSEBUD,Reefer,Reefer,2,10608,9576,Refrigerated Cargo Ship,,ok
+9412751,370095000,LADY ROSEBAY,Reefer,Reefer,2,10601,9603,Refrigerated Cargo Ship,,ok
+9418315,477815400,COSCO JINGGANGSHAN,Bulk Carrier,Bulker,1,31898,19993,Bulk Carrier,,ok
+9419668,563145100,CAPITAINE BARET,Container Ship,Container,1,34567,27051,Container Ship,,ok
+9420045,257366000,HOEGH ST.PETERSBURG,Vehicle Carrier,RoRo,1,27352,68392,Vehicles Carrier,,ok
+9420057,257368000,HOEGH COPENHAGEN,Vehicle Carrier,RoRo,3,27351,68392,Vehicles Carrier,,ok
+9420796,244149000,DANZIGERGRACHT,General Cargo,General Cargo,1,18143,13558,General Cargo Ship,,ok
+9420813,244142000,DIAMANTGRACHT,General Cargo,General Cargo,1,17966,13706,General Cargo Ship,,ok
+9420825,245033000,DOLFIJNGRACHT,General Cargo,General Cargo,1,17967,13706,General Cargo Ship,,ok
+9420837,244848000,DONAUGRACHT,Cargo,General Cargo,1,17967,13706,General Cargo Ship,,ok
+9422225,566932000,WORLD NAVIGATOR,Tanker,Tanker,3,46639,29202,Chemical/Oil Products Tanker,,ok
+9422809,636022686,ANGELIC ANNA,Bulk Carrier,Bulker,7,37187,22863,General Cargo Ship,,ok
+9423633,255805550,PACIFIC HUMILITY,General Cargo,General Cargo,1,28450,20973,General Cargo Ship,,ok
+9424091,538008601,NIMBLE NICKY,Bulk Carrier,Bulker,1,31887,19812,General Cargo Ship,,ok
+9424106,374170000,KEN HOPE,Bulk Carrier,Bulker,2,31889,19801,Bulk Carrier,,ok
+9425162,255805863,PACIFIC HONOUR,General Cargo,General Cargo,1,28439,20973,General Cargo Ship,,ok
+9425198,636019428,CHIPOL XIONGAN,General Cargo,General Cargo,3,28341,20973,General Cargo Ship,,ok
+9426386,372158000,MARGUERITE ACE,Vehicle Carrier,RoRo,2,17237,60067,Vehicles Carrier,,ok
+9426740,538003846,DUBAI SUN,Bulk Carrier,Bulker,1,61344,33988,Bulk Carrier,,ok
+9427122,351240000,PAIWAN WISDOM,Bulk Carrier,Bulker,3,31967,19825,Bulk Carrier,,ok
+9427562,538010383,SPRING WIND,Vehicle Carrier,RoRo,1,9274,25745,Vehicles Carrier,,ok
+9427926,236111886,PAGANELLA,Vehicle Carrier,RoRo,13,12988,47020,Vehicles Carrier,,ok
+9427940,538010369,VIKING PAGLIA,Vehicle Carrier,RoRo,10,12909,47057,Vehicles Carrier,,ok
+9430399,219068000,SANTA BARBARA,Container Ship,Container,1,92915,86601,Container Ship,,ok
+9431460,565227000,PACIFICA,General Cargo,General Cargo,1,12649,9627,General Cargo Ship,,ok
+9431472,566204000,POTENTIA,General Cargo,General Cargo,1,12767,9627,General Cargo Ship,,ok
+9431719,636020648,ZIM IBERIA,Cargo,General Cargo,1,50300,40541,Container Ship,,ok
+9431812,636091765,JACK LONDON,Container Ship,Container,5,50278,40541,Container Ship,,ok
+9431824,636091766,JONATHAN SWIFT,Container Ship,Container,5,50201,40541,Container Ship,,ok
+9432529,477010800,OLYMPIA LOGGER,Bulk Carrier,Bulker,1,33263,19801,General Cargo Ship,,ok
+9432969,563206500,STOLT SAKURA,Tanker - Hazard B,Tanker,2,12817,7228,Chemical/Oil Products Tanker,,ok
+9433808,371294000,SUNSHINE EXPRESS,Tanker,Tanker,2,50077,28465,Oil Products Tanker,,ok
+9433846,636015142,FPMC 26,Tanker,Tanker,2,49998,28458,Oil Products Tanker,,ok
+9435026,305172000,COE LUISA,General Cargo,General Cargo,1,12668,9611,General Cargo Ship,,ok
+9435105,305161000,ERIK,Cargo,General Cargo,1,12763,9618,General Cargo Ship,,ok
+9435258,636091629,HANSA REGENSBURG,Container Ship,Container,1,23357,18327,Container Ship,,ok
+9435595,413179000,HAI TUN ZUO,Tanker,Tanker,1,75570,43718,Oil Products Tanker,,ok
+9435674,565787000,LOUISA SCHULTE,Container Ship,Container,5,23252,18321,Container Ship,,ok
+9436082,636018768,HANSA HOMBURG,Container Ship,Container,1,23435,18252,Container Ship,,ok
+9436472,255802470,MSC ZONDA III,Container Ship,Container,7,48169,36007,Container Ship,,ok
+9437062,636020985,GSL SYROS,Container Ship,Container,10,65710,52726,Container Ship,,ok
+9438482,566028000,CS SERVICE,Cargo,General Cargo,1,13073,14284,Refrigerated Cargo Ship,,ok
+9438509,566041000,CS STANDARD,Reefer,Reefer,1,13067,14284,Refrigerated Cargo Ship,,ok
+9438511,566049000,CS TRUST,Reefer,Reefer,5,13055,14284,Refrigerated Cargo Ship,,ok
+9439735,636020781,MSC LANGSAR,Container Ship,Container,6,50595,40474,Container Ship,,ok
+9439761,477302600,KOTA LUMBA,Container Ship,Container,8,50604,39906,Container Ship,,ok
+9440772,229606000,ANL WARRNAMBOOL,Container Ship,Container,9,51807,41358,Container Ship,,ok
+9442172,636093069,BF GIANT,Container Ship,Container,4,51533,41860,Container Ship,,ok
+9443152,219242000,TORM NEW ZEALAND,Tanker,Tanker,1,49999,29726,Chemical/Oil Products Tanker,,ok
+9443396,352001669,LOYALTY HONG,Bulk Carrier,Bulker,1,32959,20987,Bulk Carrier,,ok
+9443669,244010871,HEEMSKERKGRACHT,General Cargo,General Cargo,1,12672,9611,General Cargo Ship,,ok
+9444730,219072000,SANTA CATARINA,Container Ship,Container,1,93591,85676,Container Ship,,ok
+9444924,477049800,MOUNT OWEN,Bulk Carrier,Bulker,3,28333,17018,Bulk Carrier,,ok
+9445576,636018807,DEBUSSY,Container Ship,Container,9,51687,41358,Container Ship,,ok
+9445588,636018904,NAVIOS MIAMI,Container Ship,Container,17,51737,41358,Container Ship,,ok
+9446013,372627000,MORNING LILY,Vehicle Carrier,RoRo,1,27283,70853,Vehicles Carrier,,ok
+9446477,533170514,MALAYSIA BRAVE,Vehicle Carrier,RoRo,1,15154,43810,Vehicles Carrier,,ok
+9449508,441069000,PAN EDELWEISS,Bulk Carrier,Bulker,2,32949,26763,Bulk Carrier,,ok
+9449510,372457000,PAN GLORIS,Cargo,General Cargo,1,32975,20763,Bulk Carrier,,ok
+9449522,354920000,PAN HARMONY,Bulk Carrier,Bulker,3,32453,20868,General Cargo Ship,,ok
+9450571,538008755,SYNERGY BUSAN,Container Ship,Container,4,50727,39984,Container Ship,,ok
+9450595,209795000,SYNERGY KEELUNG,Container Ship,Container,3,50500,40030,Container Ship,,ok
+9450911,414693000,REN JIAN 16,Container Ship,Container,3,54405,42112,Container Ship,,ok
+9455923,538009655,CLIPPER DEE,Bulk Carrier,Bulker,1,31716,19998,Bulk Carrier,,ok
+9459436,538090583,HANSA AUSTRALIA,Container Ship,Container,2,47087,38388,Container Ship,,ok
+9460887,564254000,MORNING CLARA,Cargo,General Cargo,1,18638,60213,Vehicles Carrier,,ok
+9463542,563143200,CAPITAINE KUPE,General Cargo,General Cargo,2,12927,9530,General Cargo Ship,,ok
+9464039,566699000,CHINTANA NAREE,Bulk Carrier,Bulker,2,33945,23670,Bulk Carrier,,ok
+9465162,636017982,OCEAN DIAMOND,Bulk Carrier,Bulker,1,58115,32309,Bulk Carrier,,ok
+9470791,354950000,AC SESODA,Bulk Carrier,Bulker,1,28306,17018,Bulk Carrier,,ok
+9470894,255715000,BALDUR,Container Ship,Container,6,17842,16137,Container Ship,,ok
+9471238,636020782,MSC SHAHAR,Container Ship,Container,4,53050,40993,Container Ship,,ok
+9473195,351729000,MARMARA S,Bulk Carrier,Bulker,1,57195,33312,Bulk Carrier,,ok
+9473418,477614500,CLEANTEC,Bulk Carrier,Bulker,1,33344,20763,Bulk Carrier,,ok
+9473755,354706000,CORESHIP OL,Bulk Carrier,Bulker,3,31871,19817,Bulk Carrier,,ok
+9473767,373558000,TWINLUCK SW,Bulk Carrier,Bulker,1,31877,19817,Bulk Carrier,,ok
+9476721,538003831,GLOVIS COUNTESS,Vehicle Carrier,RoRo,2,18701,60213,Vehicles Carrier,,ok
+9476757,319819000,RUBY ACE,Vehicle Carrier,RoRo,1,18724,60105,Vehicles Carrier,,ok
+9477543,319027200,STOLT TSUBAKI,Tanker - Hazard C,Tanker,2,12812,7242,Chemical/Oil Products Tanker,,ok
+9477555,319028000,STOLT AJISAI,Tanker - Hazard B,Tanker,1,12798,7242,Chemical/Oil Products Tanker,,ok
+9477787,229753000,CMA CGM PERTH,Container Ship,Container,4,49842,40542,Container Ship,,ok
+9484546,477639300,BERNHARD SCHULTE,Container Ship,Container,2,58350,47877,Container Ship,,ok
+9484572,563052700,CAP JERVIS,Container Ship,Container,8,59266,47877,Container Ship,,ok
+9487043,477851700,MAPLE BREEZE,Bulk Carrier,Bulker,1,31807,19994,General Cargo Ship,,ok
+9487093,477815500,JIN XING LING,Bulk Carrier,Bulker,2,31853,19993,Bulk Carrier,,ok
+9487108,477959300,JIN WANG LING,Bulk Carrier,Bulker,2,31775,19993,Bulk Carrier,,ok
+9487524,566002000,NYK FUTAGO,Container Ship,Container,6,52190,44925,Container Ship,,ok
+9487952,566259000,NYK FURANO,Cargo - Hazard A,General Cargo,1,52190,44854,Container Ship,,ok
+9487964,566335000,NYK FUSHIMI,Container Ship,Container,15,52190,44854,Container Ship,,ok
+9489235,441746000,CH BELLA,Bulk Carrier,Bulker,1,33144,19992,Bulk Carrier,,ok
+9490703,636021418,PYTHIAS,Cargo,General Cargo,1,58018,32837,Bulk Carrier,,ok
+9491874,255670260,PASSAMA,Cargo,General Cargo,9,12867,47053,Vehicles Carrier,,ok
+9493365,235086166,NOBLE ACE,Cargo,General Cargo,1,18946,59515,Vehicles Carrier,,ok
+9496939,567104000,LANNA NAREE,Cargo,General Cargo,1,33843,22641,Bulk Carrier,,ok
+9497438,373735000,DIAS WELL,Bulk Carrier,Bulker,2,31728,19994,Bulk Carrier,,ok
+9502336,477118400,SAGA FREYA,General Cargo,General Cargo,1,55807,37441,General Cargo Ship,,ok
+9502726,567619000,SF CHALISA,Bulk Carrier,Bulker,1,35283,22402,Bulk Carrier,,ok
+9502790,538009328,SEAMELODY,Bulk Carrier,Bulker,1,35284,22402,Bulk Carrier,,ok
+9502829,356087000,PRETTY JACK,Cargo,General Cargo,1,35212,22402,Bulk Carrier,,ok
+9504607,538005308,AL RAWDAH,Container Ship,Container,1,34067,26374,Container Ship,,ok
+9505027,266339000,CARMEN,Vehicle Carrier,RoRo,2,31143,74258,Vehicles Carrier,,ok
+9505053,248225000,TITANIA,Vehicle Carrier,RoRo,3,31143,74255,Vehicles Carrier,,ok
+9505065,248264000,TUGELA,Vehicle Carrier,RoRo,3,28837,72295,Vehicles Carrier,,ok
+9505089,248265000,TULANE,Vehicle Carrier,RoRo,2,28818,72295,Vehicles Carrier,,ok
+9507609,246621000,FORTUNAGRACHT,General Cargo,General Cargo,1,12094,8620,General Cargo Ship,,ok
+9509621,636018714,CHIPOL  TAIAN,General Cargo,General Cargo,3,33217,22863,General Cargo Ship,,ok
+9510371,636013805,LA CHARMAIS,Cargo,General Cargo,1,58110,32305,Bulk Carrier,,ok
+9511648,305561000,ONEGO OLZA,General Cargo,General Cargo,1,10500,7878,General Cargo Ship,,ok
+9512903,538009619,SUNNY SANDRA,General Cargo,General Cargo,9,37154,22852,General Cargo Ship,,ok
+9514030,538008552,LISTA,Ro-Ro Cargo,RoRo,1,55868,31540,Bulk Carrier,,ok
+9514341,271040311,YASA KAPTAN ERBIL,Bulk Carrier,Bulker,1,56169,31756,Bulk Carrier,,ok
+9514391,636020561,PROSPER PHOENIX,Bulk Carrier,Bulker,1,56208,31762,Bulk Carrier,,ok
+9515383,249904000,TONSBERG,Vehicle Carrier,RoRo,2,43878,75251,Vehicles Carrier,,ok
+9515395,566085000,PARSIFAL,Cargo,General Cargo,1,43878,75251,Vehicles Carrier,,ok
+9515400,249909000,TYSLA,Vehicle Carrier,RoRo,2,43878,75251,Vehicles Carrier,,ok
+9515412,566086000,SALOME,Vehicle Carrier,RoRo,2,43878,75251,Vehicles Carrier,,ok
+9515474,352002694,IRIS ACE,Vehicle Carrier,RoRo,1,14349,43709,Vehicles Carrier,,ok
+9515527,636019935,AGIOI THEODOROI,Bulk Carrier,Bulker,1,28338,17018,Bulk Carrier,,ok
+9515644,370714000,POAVOSA WISDOM,Bulk Carrier,Bulker,2,28324,17025,Bulk Carrier,,ok
+9515682,248092000,DANSHIP BULKER,Bulk Carrier,Bulker,1,28291,17025,Bulk Carrier,,ok
+9515735,477982600,KOOMBANA BAY,Bulk Carrier,Bulker,3,28381,17018,Bulk Carrier,,ok
+9516777,636018846,ELA,Container Ship,Container,1,23373,18358,Container Ship,,ok
+9519200,564896000,CS FELICITY,Bulk Carrier,Bulker,1,28343,17023,Bulk Carrier,,ok
+9519327,563115500,LIHIR CHIEF,Container Ship,Container,1,16780,15625,Container Ship,,ok
+9520596,477886800,DISKO ISLAND,Bulk Carrier,Bulker,1,58032,32309,Bulk Carrier,,ok
+9520950,269038000,VINDONISSA,Bulk Carrier,Bulker,1,58110,32315,Bulk Carrier,,ok
+9524695,538004800,CARIBOO,Bulk Carrier,Bulker,1,55408,32795,Bulk Carrier,,ok
+9524774,257326000,TORVANGER,Tanker,Tanker,1,45318,29712,Chemical/Oil Products Tanker,,ok
+9525429,370594000,BRIO FAITH,General Cargo,General Cargo,2,9032,7460,General Cargo Ship,,ok
+9525948,563062700,ALS VENUS,Container Ship,Container,1,34409,26374,Container Ship,,ok
+9526875,219526000,MAERSK LIMA,Container Ship,Container,3,105846,89174,Container Ship,,ok
+9526978,477174800,MAERSK LABERINTO,Container Ship,Container,5,99863,89505,Container Ship,,ok
+9527037,219540000,MAERSK LONDRINA,Container Ship,Container,1,99778,90107,Container Ship,,ok
+9527063,477017600,MAERSK LABREA,Container Ship,Container,1,99798,89505,Container Ship,,ok
+9527946,370024000,KEN VISTA,General Cargo,General Cargo,1,38206,23857,General Cargo Ship,,ok
+9528005,565694000,IVS SENTOSA,Bulk Carrier,Bulker,1,32701,20809,Bulk Carrier,,ok
+9530711,373052000,INDIGO MARCH,General Cargo,General Cargo,3,40527,23857,General Cargo Ship,,ok
+9530943,636015149,QUEST,Bulk Carrier,Bulker,1,36903,22733,Bulk Carrier,,ok
+9534482,305075000,O7 LAFITE,General Cargo,General Cargo,1,10049,6693,General Cargo Ship,,ok
+9536806,374180000,TAHAROA PROVIDENCE,Ore/Bulk Carrier,Bulker,2,175238,90288,Ore Carrier,,ok
+9539212,636016096,ONYX ACE,Vehicle Carrier,RoRo,1,18529,60131,Vehicles Carrier,,ok
+9539224,538004619,CRYSTAL ACE,Vehicle Carrier,RoRo,1,18481,60131,Vehicles Carrier,,ok
+9539236,538004697,EMERALD ACE,Vehicle Carrier,RoRo,2,18334,60154,Vehicles Carrier,,ok
+9540807,219310000,NORD HIMALAYA,Tanker,Tanker,1,49936,29429,Chemical/Oil Products Tanker,,ok
+9542295,636015370,POSITIVE CHALLENGER,Vehicle Carrier,RoRo,2,15154,43810,Vehicles Carrier,,ok
+9542661,477096900,SHAKESPEARE BAY,Bulk Carrier,Bulker,1,33256,19801,Bulk Carrier,,ok
+9543249,538008282,SIGMA PIONEER,Bulk Carrier,Bulker,2,32613,20924,Bulk Carrier,,ok
+9544138,219029595,MILAU BULKER,Cargo,General Cargo,3,38173,23950,General Cargo Ship,,ok
+9544140,477732300,NEPTUNE ISLAND,General Cargo,General Cargo,4,38191,23950,General Cargo Ship,,ok
+9544384,538009308,SINCERE,Bulk Carrier,Bulker,1,28355,17018,Bulk Carrier,,ok
+9544918,431573000,CATTLEYA ACE,Vehicle Carrier,RoRo,1,16384,61067,Vehicles Carrier,,ok
+9550292,357437000,MARITIME VICTORY,Bulk Carrier,Bulker,1,28344,17019,Bulk Carrier,,ok
+9551935,246659000,HAPPY DELTA,General Cargo,General Cargo,1,18276,14784,General Cargo Ship,,ok
+9554169,371323000,GLOBAL FAITH,Bulk Carrier,Bulker,2,28386,17018,Bulk Carrier,,ok
+9558270,563509000,KN FUTURE,Bulk Carrier,Bulker,1,57999,32376,Bulk Carrier,,ok
+9561265,352980796,ELEGANT ACE,Vehicle Carrier,RoRo,1,18833,58939,Vehicles Carrier,,ok
+9561277,319409000,GLORIOUS ACE,Vehicle Carrier,RoRo,3,18836,58939,Vehicles Carrier,,ok
+9561289,355139000,MERMAID ACE,Vehicle Carrier,RoRo,1,18828,58939,Vehicles Carrier,,ok
+9566203,356360000,GOLDEN CHIE,Tanker,Tanker,2,12429,7219,Chemical/Oil Products Tanker,,ok
+9567477,413442980,ZHE HAI 505,Bulk Carrier,Bulker,2,35130,22295,Bulk Carrier,,ok
+9567491,477222800,ZHE HAI 2,Bulk Carrier,Bulker,4,35104,22295,Bulk Carrier,,ok
+9570852,636092980,CHARLOTTE OLDENDORFF,Bulk Carrier,Bulker,1,93296,50697,Bulk Carrier,,ok
+9571399,305756000,BBC DANUBE,Bulk Carrier,Bulker,1,16949,12980,General Cargo Ship,,ok
+9571492,246766000,MAASGRACHT,General Cargo,General Cargo,5,12267,9524,General Cargo Ship,,ok
+9571519,246768000,MERWEDEGRACHT,General Cargo,General Cargo,3,12303,9524,General Cargo Ship,,ok
+9571545,246771000,MUNTGRACHT,General Cargo,General Cargo,3,11736,9524,General Cargo Ship,,ok
+9572575,352565000,GOLDEN UNITY,Tanker - Hazard D,Tanker,1,23451,13517,Chemical/Oil Products Tanker,,ok
+9573828,636020948,DELLA,Bulk Carrier,Bulker,1,28210,17033,Bulk Carrier,,ok
+9573907,355857000,NORD YILAN,Bulk Carrier,Bulker,1,28191,17019,Bulk Carrier,,ok
+9574080,371706000,MORNING CRYSTAL,Vehicle Carrier,RoRo,4,18918,59524,Vehicles Carrier,,ok
+9574377,355760000,DRACO FAITH,General Cargo,General Cargo,1,9023,7460,General Cargo Ship,,ok
+9579391,636022365,GLOBAL WINNER,Bulk Carrier,Bulker,1,38190,24735,Bulk Carrier,,ok
+9580003,372014000,SPINNAKER SW,Bulk Carrier,Bulker,2,31657,19836,Bulk Carrier,,ok
+9580039,477195600,MOUNT HIKURANGI,Bulk Carrier,Bulker,1,31646,19836,Bulk Carrier,,ok
+9580314,353200000,POAVOSA WISDOM III,Bulk Carrier,Bulker,1,28232,17027,Bulk Carrier,,ok
+9580326,477961200,ESPERANCE BAY,Bulk Carrier,Bulker,5,28217,17019,Bulk Carrier,,ok
+9583847,477514500,YANGTZE AMBITION,Bulk Carrier,Bulker,1,32573,20969,Bulk Carrier,,ok
+9584059,311045300,NEPTUNE ACE,Vehicle Carrier,RoRo,1,18436,58983,Vehicles Carrier,,ok
+9584188,477899100,YANGTZE ETERNAL,Bulk Carrier,Bulker,1,32573,20969,Bulk Carrier,,ok
+9584205,477739600,YANGTZE CLASSIC,Bulk Carrier,Bulker,3,32503,20969,Bulk Carrier,,ok
+9584217,477340200,YANGTZE DIGNITY,Bulk Carrier,Bulker,3,32414,20969,Bulk Carrier,,ok
+9584229,477700900,YANGTZE FLOURISH,Bulk Carrier,Bulker,1,32503,20969,Bulk Carrier,,ok
+9584231,477813300,YANGTZE GRACE,Cargo,General Cargo,1,32503,20969,Bulk Carrier,,ok
+9584243,477211700,YANGTZE HAPPINESS,Bulk Carrier,Bulker,1,32377,20969,Bulk Carrier,,ok
+9587178,477266700,MAPLE FORTITUDE,Bulk Carrier,Bulker,1,32480,20867,Bulk Carrier,,ok
+9589724,371061000,POAVOSA WISDOM VI,Bulk Carrier,Bulker,1,28213,17027,Bulk Carrier,,ok
+9591052,370644000,MERCURY ACE,Vehicle Carrier,RoRo,2,19110,59409,Vehicles Carrier,,ok
+9593294,566262000,ANNE,Bulk Carrier,Bulker,1,55747,31540,Bulk Carrier,,ok
+9593672,566307000,KOTA BAHAGIA,General Cargo,General Cargo,1,24964,18189,Heavy Load Carrier,,ok
+9596179,538007639,ST GREG,Cargo,General Cargo,1,57949,32311,Bulk Carrier,,ok
+9597410,370922000,CORETALENT OL,Bulk Carrier,Bulker,5,31669,19816,Bulk Carrier,,ok
+9597434,357417000,WONDERFUL SW,Bulk Carrier,Bulker,3,31702,19819,Bulk Carrier,,ok
+9597678,353006000,CORELEADER OL,General Cargo,General Cargo,1,37118,22866,General Cargo Ship,,ok
+9604732,538008745,IVS MAGPIE,Bulk Carrier,Bulker,2,28240,17019,Bulk Carrier,,ok
+9604744,566421000,M.V IVS IBIS,Bulk Carrier,Bulker,2,28238,17019,Bulk Carrier,,ok
+9604914,636015657,GRACIOUS ACE,Vehicle Carrier,RoRo,2,18924,59583,Vehicles Carrier,,ok
+9605322,432855000,TAHAROA DESTINY,Ore/Bulk Carrier,Bulker,1,176594,90267,Ore Carrier,,ok
+9605798,257268000,TOSCA,Vehicle Carrier,RoRo,1,22585,61106,Vehicles Carrier,,ok
+9606027,564761000,SOUTHERN CROSS,Bulk Carrier,Bulker,5,37085,22871,General Cargo Ship,,ok
+9606479,431934000,ETERNAL ACE,Vehicle Carrier,RoRo,1,18418,59601,Vehicles Carrier,,ok
+9606534,477978700,CLEARWATER BAY,Cargo,General Cargo,1,29118,18465,Bulk Carrier,,ok
+9606546,566507000,UNI CHALLENGE,Bulk Carrier,Bulker,1,29078,18465,Bulk Carrier,,ok
+9607459,255805360,NORDIC WECO,Bulk Carrier,Bulker,1,34236,24341,Bulk Carrier,,ok
+9607825,563214500,DA AN,General Cargo,General Cargo,1,29840,22566,General Cargo Ship,,ok
+9608312,636022314,DA KANG,General Cargo,General Cargo,2,29863,22566,General Cargo Ship,,ok
+9608398,563210400,DA CHANG,General Cargo,General Cargo,2,29902,22566,General Cargo Ship,,ok
+9608403,413478240,DA DE,General Cargo,General Cargo,2,29572,21828,General Cargo Ship,,ok
+9608427,413478230,DA XIN,General Cargo,General Cargo,1,29565,21828,General Cargo Ship,,ok
+9608439,413479110,DA ZHI,General Cargo,General Cargo,3,29496,21828,General Cargo Ship,,ok
+9608702,229266000,OLIVIA,Bulk Carrier,Bulker,2,32203,20928,Bulk Carrier,,ok
+9609330,577175000,GLOBAL STRIKER,Bulk Carrier,Bulker,1,32976,20254,General Cargo Ship,,ok
+9609354,352821000,COOL HERO,Bulk Carrier,Bulker,1,34481,21519,Bulk Carrier,,ok
+9610406,431605000,VICTORIOUS ACE,Vehicle Carrier,RoRo,1,18396,59598,Vehicles Carrier,,ok
+9610676,477427600,JAMES BAY,Bulk Carrier,Bulker,1,37633,24428,Bulk Carrier,,ok
+9610688,477652700,JERVIS BAY,Bulk Carrier,Bulker,2,37629,24428,Bulk Carrier,,ok
+9610729,477243200,ZHOUSHAN ISLAND,Bulk Carrier,Bulker,1,58044,32356,Bulk Carrier,,ok
+9611333,538008184,SILVER LADY,Bulk Carrier,Bulker,1,24377,16835,Bulk Carrier,,ok
+9612313,311000886,FEDERICA,Bulk Carrier,Bulker,1,36612,22746,Bulk Carrier,,ok
+9614476,566866000,SAMOA CHIEF,Container Ship,Container,10,30700,25483,Container Ship,,ok
+9614488,566908000,PORT VILA CHIEF,Container Ship,Container,8,30814,25483,Container Ship,,ok
+9614490,563091000,TONGA CHIEF,Container Ship,Container,3,30814,25483,Container Ship,,ok
+9614505,563324000,KIRIBATI CHIEF,Container Ship,Container,13,30813,25483,Container Ship,,ok
+9614517,563709000,MAJURO CHIEF,Container Ship,Container,7,30852,25483,Container Ship,,ok
+9614529,563991000,APIA CHIEF,Container Ship,Container,7,31756,25483,Container Ship,,ok
+9614531,564135000,NOUMEA CHIEF,Container Ship,Container,8,30721,25483,Container Ship,,ok
+9614543,564407000,VANUATU CHIEF,Cargo - Hazard D,General Cargo,3,31288,25483,Container Ship,,ok
+9615145,538004706,POS OCEANIA,Bulk Carrier,Bulker,5,28190,17019,Bulk Carrier,,ok
+9615999,567463000,TASCO AMARIT,Tanker,Tanker,2,7532,6106,Asphalt/Bitumen Tanker,,ok
+9618018,311001217,AFRICAN SWIFT,Bulk Carrier,Bulker,2,40481,24725,Bulk Carrier,,ok
+9619402,255805573,JOGELA,Container Ship,Container,1,62134,48338,Container Ship,,ok
+9619531,538006946,YASA HAWK,Tanker,Tanker,1,49990,29593,Chemical/Oil Products Tanker,,ok
+9620126,566743000,IVS MERLION,Bulk Carrier,Bulker,2,32071,20928,Bulk Carrier,,ok
+9620695,373057000,LEO SPIRIT,Vehicle Carrier,RoRo,2,16758,61020,Vehicles Carrier,,ok
+9621170,373108000,DL MARIGOLD,Bulk Carrier,Bulker,1,36006,23494,Bulk Carrier,,ok
+9621182,373432000,DL TULIP,Bulk Carrier,Bulker,3,35947,23494,Bulk Carrier,,ok
+9621194,566945000,GALLOWAY EXPRESS,Other Type of Ship,Other,2,5488,10421,Livestock Carrier,,ok
+9621211,564165000,GELBRAY EXPRESS,Livestock Carrier,General Cargo,1,5488,10421,Livestock Carrier,,ok
+9624043,636016795,ARVIKA,Bulk Carrier,Bulker,1,55848,31538,Bulk Carrier,,ok
+9624184,477334100,EASTERN CAPE,Bulk Carrier,Bulker,3,28195,17019,Bulk Carrier,,ok
+9624328,373843000,EVER GALLANT,Cargo,General Cargo,2,28206,17027,Bulk Carrier,,ok
+9625918,210663000,SAN GIORGIO,Container Ship,Container,2,24157,20239,Container Ship,,ok
+9628348,563265000,KOTA LESTARI,Container Ship,Container,4,51822,42020,Container Ship,,ok
+9629665,373797000,DL JASMINE,Bulk Carrier,Bulker,2,35991,23494,Bulk Carrier,,ok
+9629677,353191000,DL LILAC,Vehicle Carrier,RoRo,1,36005,23494,Bulk Carrier,,ok
+9629952,538004533,SEA SPIKE,Tanker,Tanker,1,49916,29785,Chemical/Oil Products Tanker,,ok
+9631101,636015667,CALI,Container Ship,Container,12,51731,41300,Container Ship,,ok
+9632480,563101600,MAERSK RUBICON,Container Ship,Container,5,66347,51032,Container Ship,,ok
+9633276,356192000,POAVOSA WISDOM VII,Bulk Carrier,Bulker,1,28208,17027,Bulk Carrier,,ok
+9633290,538009756,IRIE IRIS,Bulk Carrier,Bulker,2,28250,17019,Bulk Carrier,,ok
+9635688,636021013,SFL MAUI,Container Ship,Container,5,80115,71112,Container Ship,,ok
+9635834,563877000,HAFNIA CHEETAH,Tanker,Tanker,1,49999,29737,Chemical/Oil Products Tanker,,ok
+9637117,636015875,DORIC PIONEER,Tanker,Tanker,1,51565,29622,Chemical/Oil Products Tanker,,ok
+9638408,563068300,SCHUYLER TRADER,Bulk Carrier,Bulker,6,35439,23405,Bulk Carrier,,ok
+9638410,477441500,JERSEY SPIRIT,Bulk Carrier,Bulker,3,35391,23405,Bulk Carrier,,ok
+9638836,566715000,CRIMSON KNIGHT,Bulk Carrier,Bulker,1,58651,33193,Bulk Carrier,,ok
+9640401,572911210,ARAWANA,Bulk Carrier,Bulker,3,32318,20954,Bulk Carrier,,ok
+9640750,564547000,GIROLANDO EXPRESS,Livestock Carrier,General Cargo,1,5488,10421,Livestock Carrier,,ok
+9641780,477732100,IONA ISLAND,Bulk Carrier,Bulker,1,38180,23259,Bulk Carrier,,ok
+9641833,352044000,WISDOM ACE,Vehicle Carrier,RoRo,2,19227,59409,Vehicles Carrier,,ok
+9643958,371410000,ULTRA HANDY,Bulk Carrier,Bulker,1,38215,23264,Bulk Carrier,,ok
+9644043,370413000,GLOBAL ARC,Bulk Carrier,Bulker,1,33438,21158,Bulk Carrier,,ok
+9644990,636015659,MATE,Container Ship,Container,7,51939,42814,Container Ship,,ok
+9646895,311001204,AFRICAN NIGHTHAWK,Bulk Carrier,Bulker,1,40481,24725,Bulk Carrier,,ok
+9646900,311001213,AFRICAN CONDOR,Bulk Carrier,Bulker,1,40481,24725,Bulk Carrier,,ok
+9650987,636021254,PAGODA,Bulk Carrier,Bulker,1,28227,16991,Bulk Carrier,,ok
+9654581,538005088,ARDMORE EXPLORER,Tanker,Tanker,1,49494,30063,Chemical/Oil Products Tanker,,ok
+9655846,477464100,CHINA SPIRIT,Bulk Carrier,Bulker,1,35097,22434,Bulk Carrier,,ok
+9658800,636021550,MAJESTY STAR,Bulk Carrier,Bulker,1,33382,21168,Bulk Carrier,,ok
+9660126,477222400,ATLANTIC SPIRIT,Bulk Carrier,Bulker,1,35053,22434,Bulk Carrier,,ok
+9660592,352787000,FLORA CENTURY,Bulk Carrier,Bulker,1,57905,32370,Bulk Carrier,,ok
+9662370,538004740,MAPLE STAR,Bulk Carrier,Bulker,1,35322,23857,Bulk Carrier,,ok
+9663271,477231500,INCE POINT,Bulk Carrier,Bulker,1,37503,23393,Bulk Carrier,,ok
+9663283,477694600,ISLAND BAY,Bulk Carrier,Bulker,2,37649,23386,Bulk Carrier,,ok
+9664263,636020876,CONTSHIP YEN,Container Ship,Container,1,13102,9932,Container Ship,,ok
+9667722,370392000,CHISE BULKER,Bulk Carrier,Bulker,1,33355,21174,General Cargo Ship,,ok
+9667942,538005761,ARDMORE ENDEAVOUR,Tanker - Hazard A,Tanker,1,49859,29974,Chemical/Oil Products Tanker,,ok
+9668312,353233000,PACIFIC CALM,Bulk Carrier,Bulker,1,38123,23269,Bulk Carrier,,ok
+9668362,356836000,POAVOSA ACE,Bulk Carrier,Bulker,5,28208,17027,Bulk Carrier,,ok
+9668922,477121800,PELICAN ISLAND,Bulk Carrier,Bulker,1,57905,32424,Bulk Carrier,,ok
+9669615,538010749,MELBOURNE SPIRIT,Bulk Carrier,Bulker,1,35573,23405,Bulk Carrier,,ok
+9669627,538010750,TOKYO SPIRIT,Bulk Carrier,Bulker,1,35550,23405,Bulk Carrier,,ok
+9669940,538005269,STI OPERA,Tanker,Tanker,1,49990,29886,Chemical/Oil Products Tanker,,ok
+9671450,244790606,ATLANTIC DAWN,Container Ship,Container,1,4476,5460,General Cargo Ship,,ok
+9672105,247341500,GRANDE COTONOU,Ro-Ro Cargo,RoRo,1,31340,71543,Ro-Ro Cargo Ship,,ok
+9672208,371487000,AMIRA SOPHIE II,Bulk Carrier,Bulker,2,34358,21514,Bulk Carrier,,ok
+9672222,371133000,DAIWAN CHAMPION,Bulk Carrier,Bulker,7,34393,21525,Bulk Carrier,,ok
+9673678,538007300,FAIRCHEM SWORD,Tanker,Tanker,2,19993,11752,Chemical/Oil Products Tanker,,ok
+9674658,563160000,MMA LEEUWIN,Offshore Tug/Supply Ship,Other,1,4000,3464,Offshore Supply Ship,,ok
+9675561,357400000,GLOBE EXPLORER,Bulk Carrier,Bulker,1,28316,17027,Bulk Carrier,,ok
+9675585,357076000,MORNING CHERRY,Vehicle Carrier,RoRo,2,18556,59525,Vehicles Carrier,,ok
+9675779,564118000,SANTA MARIA,Bulk Carrier,Bulker,1,61323,34802,Bulk Carrier,,ok
+9675808,636020796,CONTSHIP REX,Container Ship,Container,2,13054,9932,Container Ship,,ok
+9675810,636020961,SCION MAFALDA,Container Ship,Container,4,13048,9932,Container Ship,,ok
+9676709,565376000,MATHILDE SCHULTE,Container Ship,Container,8,30337,27279,Container Ship,,ok
+9680724,247341900,GRANDE DAKAR,Ro-Ro Cargo,RoRo,1,30796,71543,Ro-Ro Cargo Ship,,ok
+9681883,311001319,AFRICAN LAPWING,Bulk Carrier,Bulker,1,39757,24785,Bulk Carrier,,ok
+9681895,565324000,ERISORT,Cargo,General Cargo,1,39763,24785,Bulk Carrier,,ok
+9682760,311000206,AFRICAN LARK,Bulk Carrier,Bulker,1,34402,21532,Bulk Carrier,,ok
+9682772,311000205,AFRICAN DOVE,Bulk Carrier,Bulker,1,34402,21532,Bulk Carrier,,ok
+9684976,257864000,HOEGH TARGET,Vehicle Carrier,RoRo,3,22068,76420,Vehicles Carrier,,ok
+9684988,258389000,HOEGH TRIGGER,Vehicle Carrier,RoRo,1,22088,76420,Vehicles Carrier,,ok
+9684990,258628000,HOEGH TRACER,Vehicle Carrier,RoRo,1,21983,76420,Vehicles Carrier,,ok
+9685097,304617000,BBC LOUISE,General Cargo,General Cargo,1,12100,9719,General Cargo Ship,,ok
+9685774,232049845,CELANDINE,Container Ship,Container,1,24475,18848,Container Ship,,ok
+9686716,538005173,STI DAMA,Tanker,Tanker,1,49990,29875,Chemical/Oil Products Tanker,,ok
+9687667,372417000,ARAGO,Tanker,Tanker,2,4755,4256,LPG Tanker,,ok
+9690092,636092708,SEATRADE ORANGE,Container Ship,Container,10,26947,24901,Container Ship,,ok
+9690107,636092711,SEATRADE RED,Container Ship,Container,10,27025,24901,Container Ship,,ok
+9690884,565831000,FENGNING,Bulk Carrier,Bulker,1,39836,24785,Bulk Carrier,,ok
+9690901,563217000,FOOCHOW,Bulk Carrier,Bulker,2,39758,24785,Bulk Carrier,,ok
+9690913,564260000,FUNING,Bulk Carrier,Bulker,1,39784,24785,Bulk Carrier,,ok
+9691644,538005754,UNION TAYLOR,General Cargo,General Cargo,1,37693,23216,Bulk Carrier,,ok
+9692351,538006490,SILVER EBALINA,Tanker,Tanker,1,49635,29327,Chemical/Oil Products Tanker,,ok
+9692375,538006666,SILVER VENUS,Tanker,Tanker,1,49635,29327,Chemical/Oil Products Tanker,,ok
+9692739,352597000,MAGPIE SW,Bulk Carrier,Bulker,1,34302,21561,Bulk Carrier,,ok
+9692741,355148000,CORESKY OL,Bulk Carrier,Bulker,1,34302,21561,Bulk Carrier,,ok
+9693214,477654600,PILATUS VENTURE,Bulk Carrier,Bulker,1,63276,36336,Bulk Carrier,,ok
+9694414,563417000,MARINER,Container Ship,Container,8,30189,27279,Container Ship,,ok
+9694438,563549000,MAJESTIC,Container Ship,Container,10,30136,27279,Container Ship,,ok
+9697428,563004200,DALI,Container Ship,Container,1,116851,95128,Container Ship,,ok
+9697636,538005188,SEAWAYS CASTLE HILL,Tanker,Tanker,1,49990,29806,Chemical/Oil Products Tanker,,ok
+9698252,538005751,WIDE INDIA,Container Ship,Container,4,65165,51872,Container Ship,,ok
+9698628,538005732,SAN FELIPE,Container Ship,Container,1,120964,97367,Container Ship,,ok
+9699206,563052800,MAERSK SAN VICENTE,Container Ship,Container,1,112224,94930,Container Ship,,ok
+9699244,352712000,GAS KATE,Tanker,Tanker,3,4752,4256,LPG Tanker,,ok
+9700287,311000243,AFRICAN RAVEN,General Cargo,General Cargo,1,37711,23753,General Cargo Ship,,ok
+9700299,311000317,AFRICAN ROOK,Bulk Carrier,Bulker,2,37686,23750,General Cargo Ship,,ok
+9700512,249011000,TITUS,Vehicle Carrier,RoRo,1,23889,73358,Vehicles Carrier,,ok
+9700524,265012000,TRAVIATA,Vehicle Carrier,RoRo,1,23889,73358,Vehicles Carrier,,ok
+9700794,311000259,AFRICAN HARRIER,Bulk Carrier,Bulker,1,37707,23322,Bulk Carrier,,ok
+9700940,565138000,IVS PHINDA,General Cargo,General Cargo,4,37720,23224,General Cargo Ship,,ok
+9701009,565577000,IVS THANDA,General Cargo,General Cargo,4,37715,23224,General Cargo Ship,,ok
+9701035,477348200,KANDA LOGGER,General Cargo,General Cargo,1,37613,23275,Bulk Carrier,,ok
+9701059,477252500,KULTUS COVE,Bulk Carrier,Bulker,1,37574,23275,Bulk Carrier,,ok
+9701243,636022717,ADALINE,Bulk Carrier,Bulker,1,34334,21532,Bulk Carrier,,ok
+9701451,477790300,PACIFIC HARMONY,General Cargo,General Cargo,1,31798,22362,General Cargo Ship,,ok
+9702443,229711000,THERMOPYLAE,Vehicle Carrier,RoRo,3,23786,75283,Vehicles Carrier,,ok
+9702455,229710000,THALATTA,Vehicle Carrier,RoRo,2,23786,75283,Vehicles Carrier,,ok
+9702522,538006435,CP GUANGZHOU,Bulk Carrier,Bulker,1,63527,36332,Bulk Carrier,,ok
+9703538,477193700,CHIPOL CHANGJIANG,Cargo,General Cargo,1,36947,25471,General Cargo Ship,,ok
+9703540,477006700,CHIPOL HUANGHE,General Cargo,General Cargo,1,36947,25471,General Cargo Ship,,ok
+9703590,563006900,MP ULTRAMAX 1,Cargo,General Cargo,1,63340,36286,Bulk Carrier,,ok
+9703655,538006164,NM CHERRY BLOSSOM,Cargo,General Cargo,1,60494,34349,Bulk Carrier,,ok
+9704855,538009258,STOCKHOLM EAGLE,Bulk Carrier,Bulker,1,63500,36336,Bulk Carrier,,ok
+9705304,477681700,NORTH ISLAND,Bulk Carrier,Bulker,1,61105,34447,Bulk Carrier,,ok
+9705316,477681400,NOBLE ISLAND,Bulk Carrier,Bulker,3,61115,34447,Bulk Carrier,,ok
+9706827,538005516,YANGTZE LEGEND,Bulk Carrier,Bulker,4,39172,24605,Bulk Carrier,,ok
+9706918,258872000,HOEGH TRAPPER,Vehicle Carrier,RoRo,2,21856,76420,Vehicles Carrier,,ok
+9707807,538006005,STI OSCEOLA,Tanker,Tanker,1,49990,29899,Chemical/Oil Products Tanker,,ok
+9707819,215931000,VUKOVAR,Tanker,Tanker,2,49990,29785,Chemical/Oil Products Tanker,,ok
+9708215,538006130,ARDMORE SEAFOX,Tanker,Tanker,1,49999,29760,Chemical/Oil Products Tanker,,ok
+9708617,219179000,MAERSK TACOMA,Tanker,Tanker,1,49828,29459,Chemical/Oil Products Tanker,,ok
+9709312,374515000,DAIWAN JUSTICE,Bulk Carrier,Bulker,5,34327,21525,Bulk Carrier,,ok
+9709324,374547000,DAIWAN KALON,Bulk Carrier,Bulker,1,34327,21525,Bulk Carrier,,ok
+9709336,355835000,DAIWAN HERO,Bulk Carrier,Bulker,2,34376,21525,Bulk Carrier,,ok
+9709348,373836000,DAIWAN INFINITY,Bulk Carrier,Bulker,1,34376,21525,Bulk Carrier,,ok
+9710074,477637200,GOLDEN RESOLUTION,Tanker - Hazard C,Tanker,2,12702,8045,Chemical/Oil Products Tanker,,ok
+9710086,538006103,YANGTZE KEEPER,Bulk Carrier,Bulker,4,39000,24605,Bulk Carrier,,ok
+9710529,538006958,CP NANJING,Cargo,General Cargo,1,63526,36332,Bulk Carrier,,ok
+9710749,259274000,HOEGH TROTTER,Vehicle Carrier,RoRo,1,21901,76420,Vehicles Carrier,,ok
+9711901,372638000,BC ZOE,Bulk Carrier,Bulker,1,33443,21168,Bulk Carrier,,ok
+9712462,477112200,DARYA TAPTI,Bulk Carrier,Bulker,1,35947,21801,Bulk Carrier,,ok
+9713167,235110509,BERGE HAKODATE,Bulk Carrier,Bulker,2,34534,21530,Bulk Carrier,,ok
+9713179,235111726,BERGE DAISETSU,Bulk Carrier,Bulker,1,34533,21530,Bulk Carrier,,ok
+9713181,235113778,BERGE ASAHIDAKE,Bulk Carrier,Bulker,1,34545,21530,Bulk Carrier,,ok
+9713222,232003534,BERGE RISHIRI,Bulk Carrier,Bulker,2,35172,21530,Bulk Carrier,,ok
+9713832,372480000,DAIWAN GLORY,Bulk Carrier,Bulker,3,35531,22314,General Cargo Ship,,ok
+9714238,565302000,HOIHOW,Bulk Carrier,Bulker,3,39721,24785,Bulk Carrier,,ok
+9714252,565562000,HUNAN,Bulk Carrier,Bulker,6,39828,24785,Bulk Carrier,,ok
+9714264,566829000,HUPEH,Bulk Carrier,Bulker,1,39773,24785,Bulk Carrier,,ok
+9714707,538006140,RUBY,Bulk Carrier,Bulker,1,61192,34835,Bulk Carrier,,ok
+9714800,563121200,THOR NIRAMIT,Bulk Carrier,Bulker,2,61171,34447,Bulk Carrier,,ok
+9714812,563122800,THOR NITNIRUND,Bulk Carrier,Bulker,2,61190,34447,Bulk Carrier,,ok
+9715191,477477200,LIANGCHOW,Bulk Carrier,Bulker,3,39685,24785,Bulk Carrier,,ok
+9715206,477737100,LINTAN,Bulk Carrier,Bulker,2,39641,24785,Bulk Carrier,,ok
+9715220,477713100,LUENHO,Bulk Carrier,Bulker,4,39752,24785,Bulk Carrier,,ok
+9715842,636020177,STAR MONICA,Bulk Carrier,Bulker,1,60935,34255,Bulk Carrier,,ok
+9718143,538006519,TOMINI SYMPHONY,Bulk Carrier,Bulker,1,63560,36415,Bulk Carrier,,ok
+9718636,477636900,OYSTER BAY,Bulk Carrier,Bulker,1,55183,31863,Bulk Carrier,,ok
+9719329,355696000,TS ALPHA,Bulk Carrier,Bulker,2,38872,24159,Bulk Carrier,,ok
+9719331,355962000,TS BRAVO,Bulk Carrier,Bulker,2,38896,24159,Bulk Carrier,,ok
+9719343,357254000,TS CHALLENGE,Bulk Carrier,Bulker,2,38894,24159,Bulk Carrier,,ok
+9719367,538006823,TS ECHO,Bulk Carrier,Bulker,1,38863,24124,Bulk Carrier,,ok
+9719379,538006824,TS FLOWER,Bulk Carrier,Bulker,4,38852,24159,Bulk Carrier,,ok
+9719381,538007025,TS GOLF,Bulk Carrier,Bulker,3,38859,24124,Bulk Carrier,,ok
+9720988,636022646,CL LINDY,Bulk Carrier,Bulker,1,63498,36353,Bulk Carrier,,ok
+9721554,477588100,PAKHOI,Bulk Carrier,Bulker,3,39777,24785,Bulk Carrier,,ok
+9721566,477915900,PEKIN,Bulk Carrier,Bulker,3,39777,24785,Bulk Carrier,,ok
+9721578,477027600,POWAN,Bulk Carrier,Bulker,5,39742,24785,Bulk Carrier,,ok
+9721580,477669100,POYANG,Bulk Carrier,Bulker,2,39790,24785,Bulk Carrier,,ok
+9722302,566044000,THEBEN,Vehicle Carrier,RoRo,3,23786,75283,Vehicles Carrier,,ok
+9722314,563220000,THEMIS,Vehicle Carrier,RoRo,2,23786,75283,Vehicles Carrier,,ok
+9722455,374275000,IYO SEA,Bulk Carrier,Bulker,1,37537,23432,Bulk Carrier,,ok
+9724013,319100600,MANCHAC SUN,Tanker,Tanker,2,49994,30565,Chemical/Oil Products Tanker,,ok
+9724025,319103100,CAJUN SUN,Tanker,Tanker,2,49993,30565,Chemical/Oil Products Tanker,,ok
+9724673,235113767,BRITISH SAILOR,Tanker,Tanker,3,45999,30948,Chemical/Oil Products Tanker,,ok
+9724958,212659000,NORDAMELIA,Container Ship,Container,11,35225,28316,Container Ship,,ok
+9725304,258706000,LEIKANGER,Tanker,Tanker,2,49999,30945,Chemical/Oil Products Tanker,,ok
+9725316,258733000,MARI JONE,Tanker,Tanker,1,49999,30990,Chemical/Oil Products Tanker,,ok
+9725718,563002100,MAERSK SIRAC,Container Ship,Container,3,117175,95205,Container Ship,,ok
+9726164,563933000,IVS TEMBE,General Cargo,General Cargo,2,37735,23224,General Cargo Ship,,ok
+9726176,477023500,KEY WEST,Bulk Carrier,Bulker,2,37599,23275,Bulk Carrier,,ok
+9726190,477333600,KODIAK ISLAND,Bulk Carrier,Bulker,1,37581,23275,Bulk Carrier,,ok
+9726229,477886100,MARAWAH ISLAND,Bulk Carrier,Bulker,1,60280,34806,Bulk Carrier,,ok
+9726669,563006800,MAERSK SHAMS,Container Ship,Container,2,117176,95205,Container Ship,,ok
+9726839,565390000,JAYA OCEAN,Tanker,Tanker,2,5250,4275,Asphalt/Bitumen Tanker,,ok
+9727285,477066200,GLENGYLE,Bulk Carrier,Bulker,2,37679,23269,Bulk Carrier,,ok
+9727297,356320000,AFRICAN ARROW,Bulk Carrier,Bulker,1,61285,34778,Bulk Carrier,,ok
+9728332,477314800,XING NING HAI,Bulk Carrier,Bulker,4,34443,21532,Bulk Carrier,,ok
+9728344,636021488,AMIDALA,Bulk Carrier,Bulker,2,34443,21532,Bulk Carrier,,ok
+9728356,477588200,XING ZHI HAI,Bulk Carrier,Bulker,2,34443,21532,Bulk Carrier,,ok
+9728368,636021487,AMILYN,Bulk Carrier,Bulker,4,34443,21532,Bulk Carrier,,ok
+9728394,477855600,YOCHOW,Bulk Carrier,Bulker,3,34398,21538,Bulk Carrier,,ok
+9728485,311000361,AFRICAN GOSHAWK,Bulk Carrier,Bulker,1,34370,21521,Bulk Carrier,,ok
+9729556,636016971,ARAGONA,Bulk Carrier,Bulker,1,63166,35884,Bulk Carrier,,ok
+9730347,210362000,SANTIAGO I,Tanker,Tanker,1,49901,27527,Chemical/Oil Products Tanker,,ok
+9731652,265021000,NABUCCO,Vehicle Carrier,RoRo,4,23959,73358,Vehicles Carrier,,ok
+9731808,477915800,UNI BULKER,Cargo,General Cargo,1,37675,23269,Bulk Carrier,,ok
+9732266,538006921,PACIFIC A.DORODCHI,Tanker,Tanker,1,109999,62462,Crude Oil Tanker,,ok
+9732591,636017102,MAERSK SARAT,Container Ship,Container,3,117627,93702,Container Ship,,ok
+9732979,258741000,MARI BOYLE,Tanker - Hazard B,Tanker,1,49999,30990,Chemical/Oil Products Tanker,,ok
+9733258,311001205,AFRICAN LOGRUNNER,Bulk Carrier,Bulker,3,40481,24725,Bulk Carrier,,ok
+9733260,229759000,LA CHAMBORDAIS,Bulk Carrier,Bulker,3,40481,24725,Bulk Carrier,,ok
+9733272,311001194,AFRICAN STORK,Bulk Carrier,Bulker,1,40481,24725,Bulk Carrier,,ok
+9733284,311001188,AFRICAN ORIOLE,Bulk Carrier,Bulker,4,40481,24725,Bulk Carrier,,ok
+9733765,563555000,GLOUCESTER EXPRESS,Cargo,General Cargo,1,5200,10421,Livestock Carrier,,ok
+9733777,565876000,GREYMAN EXPRESS,Cargo,General Cargo,1,5488,10421,Livestock Carrier,,ok
+9734173,477301800,CHIPOL TAIHU,General Cargo,General Cargo,2,36880,25471,General Cargo Ship,,ok
+9734185,477900800,CHIPOL DONGHAI,General Cargo,General Cargo,4,36974,25471,General Cargo Ship,,ok
+9734989,258075000,SPAR APUS,Bulk Carrier,Bulker,1,63271,36311,Bulk Carrier,,ok
+9735012,258731000,SPAR PAVO,Bulk Carrier,Bulker,1,63800,36313,Bulk Carrier,,ok
+9736406,477521600,SEAL ISLAND,Bulk Carrier,Bulker,1,35947,21801,Bulk Carrier,,ok
+9736418,374242000,AFRICAN BULKER,Cargo,General Cargo,4,36170,22522,General Cargo Ship,,ok
+9736626,477548800,GOLDEN ACE,Tanker,Tanker,1,12494,7233,Chemical/Oil Products Tanker,,ok
+9737046,311000383,AFRICAN JAY,Bulk Carrier,Bulker,1,37705,23750,General Cargo Ship,,ok
+9738375,538007169,TS INDEX,Bulk Carrier,Bulker,1,38854,24124,Bulk Carrier,,ok
+9738387,538007674,ES JASMINE,Bulk Carrier,Bulker,1,38860,24159,Bulk Carrier,,ok
+9738662,374909000,GOLDEN CREATION,Tanker,Tanker,2,16298,9430,Chemical/Oil Products Tanker,,ok
+9738727,357772000,TAIKOO BRILLIANCE,Bulk Carrier,Bulker,2,37786,23281,Bulk Carrier,,ok
+9738741,311000909,AFRICAN QUAIL,Bulk Carrier,Bulker,1,37766,23337,Bulk Carrier,,ok
+9738882,636021972,BERGE SNOWDON,Bulk Carrier,Bulker,2,37790,23281,Bulk Carrier,,ok
+9739707,572032001,NIVAGA 3,Passenger Ship,Passenger,1,578,1337,Passenger/General Cargo Ship,,ok
+9740419,477913400,SEAODYSSEY,Tanker,Tanker,1,113176,64092,Oil Products Tanker,,ok
+9743502,563024900,MAGDALENA SCHULTE,Container Ship,Container,11,30156,27279,Container Ship,,ok
+9743617,565370000,SPIRIT OF SEATREK,Bulk Carrier,Bulker,1,63132,35873,Bulk Carrier,,ok
+9744051,257972000,BERLINDA,Cargo,General Cargo,1,63242,36321,Bulk Carrier,,ok
+9744673,538009337,TS HAIPHONG,Container Ship,Container,1,23512,18826,Container Ship,,ok
+9745902,538007007,FRONT ALTAIR,Crude Oil Tanker,Tanker,1,109894,62849,Crude Oil Tanker,,ok
+9747089,413349650,LIAN HUAN HU,Tanker,Tanker,1,50239,29848,Chemical/Oil Products Tanker,,ok
+9748435,374299000,IRIS K,Bulk Carrier,Bulker,3,37806,23275,Bulk Carrier,,ok
+9748485,205717000,LA TONDA,Bulk Carrier,Bulker,2,61241,34773,Bulk Carrier,,ok
+9749233,311000813,AFRICAN GANNET,General Cargo,General Cargo,2,37806,23224,General Cargo Ship,,ok
+9749403,354311000,CIARA ENTERPRISE,Bulk Carrier,Bulker,1,33428,21216,General Cargo Ship,,ok
+9749685,538007134,FAIRCHEM KATANA,Tanker,Tanker,1,19980,11917,Chemical/Oil Products Tanker,,ok
+9749831,477692500,NANAIMO BAY,Bulk Carrier,Bulker,1,34407,21538,Bulk Carrier,,ok
+9749843,477043300,NARUTO STRAIT,Bulk Carrier,Bulker,6,34391,21538,Bulk Carrier,,ok
+9749855,374696000,AMADEUS,Bulk Carrier,Bulker,1,81676,44425,Bulk Carrier,,ok
+9749946,353929000,ANDREA ENTERPRISE,Bulk Carrier,Bulker,6,34552,21525,Bulk Carrier,,ok
+9749958,372205000,REMY ENTERPRISE,Bulk Carrier,Bulker,2,34529,21574,Bulk Carrier,,ok
+9749960,355398000,SINLAU BULKER,Bulk Carrier,Bulker,1,34485,21574,Bulk Carrier,,ok
+9749984,353767000,MEHMET DADAYLI,Bulk Carrier,Bulker,3,34484,21574,Bulk Carrier,,ok
+9750000,311000567,AFRICAN HERON,Bulk Carrier,Bulker,6,34387,21521,General Cargo Ship,,ok
+9750206,563206200,STOLT HAGI,Tanker,Tanker,1,12341,7488,Chemical/Oil Products Tanker,,ok
+9750218,319105200,STOLT YURI,Tanker - Hazard B,Tanker,1,12365,7488,Chemical/Oil Products Tanker,,ok
+9755464,477669500,HONEY ISLAND,Bulk Carrier,Bulker,1,57381,32625,Bulk Carrier,,ok
+9755476,477023400,CRAMOND ISLAND,Bulk Carrier,Bulker,1,57381,32625,Bulk Carrier,,ok
+9755737,311000424,AFRICAN GROUSE,Bulk Carrier,Bulker,2,37658,23750,General Cargo Ship,,ok
+9755749,374922000,BERGE HALLASAN,General Cargo,General Cargo,1,37945,23749,General Cargo Ship,,ok
+9755854,354501000,CENTURION MEVIA,Bulk Carrier,Bulker,3,38002,24465,Bulk Carrier,,ok
+9755921,563038600,AUSTRALIAN BULKER,Bulk Carrier,Bulker,1,36184,22522,General Cargo Ship,,ok
+9756092,636092712,SEATRADE WHITE,Container Ship,Container,10,26974,24905,Container Ship,,ok
+9756107,636092713,SEATRADE BLUE,Container Ship,Container,11,26871,24905,Container Ship,,ok
+9757254,538007136,PALANCA MIAMI,Tanker,Tanker,1,36681,28164,Asphalt/Bitumen Tanker,,ok
+9757541,538009520,TS KWANGYANG,Container Ship,Container,2,23524,18910,Container Ship,,ok
+9757802,563930000,REIWA BREEZE,Bulk Carrier,Bulker,1,37721,23225,Bulk Carrier,,ok
+9757929,319093100,AKRA,Bulk Carrier,Bulker,1,61302,34626,Bulk Carrier,,ok
+9758090,353069000,FAIRCHEM SUCCESS,Tanker - Hazard B,Tanker,1,22346,13120,Chemical/Oil Products Tanker,,ok
+9760354,477181800,MAPLE AMBITION,Bulk Carrier,Bulker,1,35513,23872,Bulk Carrier,,ok
+9763631,477684600,MOUNT ASO,Bulk Carrier,Bulker,1,36766,23882,General Cargo Ship,,ok
+9763784,538090618,EIDSVAAG OMEGA,General Cargo,General Cargo,4,3264,3025,Fishing Support Vessel,,ok
+9764972,564168000,GUDALI EXPRESS,Livestock Carrier,General Cargo,1,5250,10421,Livestock Carrier,,ok
+9765598,636018248,AQUALEO,Bulk Carrier,Bulker,1,63948,35615,Bulk Carrier,,ok
+9765847,355286000,STAR SPIRIT,Cargo - Hazard A,General Cargo,1,16565,17411,Refrigerated Cargo Ship,,ok
+9766231,374745000,SEACON MANILA,Bulk Carrier,Bulker,1,33412,21168,General Cargo Ship,,ok
+9767314,311000485,ST. COLUMBA,Bulk Carrier,Bulker,2,37347,23682,Bulk Carrier,,ok
+9768538,413490410,DA JI,General Cargo,General Cargo,3,28612,21992,General Cargo Ship,,ok
+9768564,413492450,DA GUI,General Cargo,General Cargo,1,28000,21992,General Cargo Ship,,ok
+9768928,440023000,PAN GRACE,Bulk Carrier,Bulker,2,37657,23173,Bulk Carrier,,ok
+9768930,477913300,TIENTSIN,Bulk Carrier,Bulker,3,37657,23175,Bulk Carrier,,ok
+9768954,477636600,TUNSIN,Bulk Carrier,Bulker,3,37657,23175,Bulk Carrier,,ok
+9772802,370744000,ENISHI,Bulk Carrier,Bulker,6,34439,21530,Bulk Carrier,,ok
+9773179,372240000,FAIRCHEM VICTORY,Tanker - Hazard C,Tanker,1,21193,12247,Chemical/Oil Products Tanker,,ok
+9773480,374384000,ALASKA,Bulk Carrier,Bulker,1,38176,24649,Bulk Carrier,,ok
+9773492,374553000,WHISTLER,Bulk Carrier,Bulker,3,38195,24649,Bulk Carrier,,ok
+9774032,355572000,RUBY ENTERPRISE,Bulk Carrier,Bulker,1,33415,21162,General Cargo Ship,,ok
+9777802,353580000,BELUGA ACE,Vehicle Carrier,RoRo,1,15425,63115,Vehicles Carrier,,ok
+9777814,371563000,ORCA ACE,Vehicle Carrier,RoRo,2,15495,63116,Vehicles Carrier,,ok
+9777826,354004000,WALRUS ACE,Vehicle Carrier,RoRo,4,15506,63116,Vehicles Carrier,,ok
+9777838,353453000,DUGONG ACE,Vehicle Carrier,RoRo,2,15465,63116,Vehicles Carrier,,ok
+9778399,255806057,BRIGHT,Container Ship,Container,1,36917,31370,Container Ship,,ok
+9778985,636018826,ASL ROSE,Bulk Carrier,Bulker,7,38584,23703,General Cargo Ship,,ok
+9778997,538009931,ASL CRYSTAL,Bulk Carrier,Bulker,2,38582,23703,General Cargo Ship,,ok
+9779006,357040000,CRYSTAL PALACE,Bulk Carrier,Bulker,5,38559,23703,General Cargo Ship,,ok
+9779018,636019108,IRIS HARMONY,Bulk Carrier,Bulker,3,38593,23703,General Cargo Ship,,ok
+9779020,565043500,WECO JOSEFINE,General Cargo,General Cargo,1,38592,23703,General Cargo Ship,,ok
+9779032,636019317,TUNA S,General Cargo,General Cargo,2,38575,23703,General Cargo Ship,,ok
+9779757,477858500,DA HUA SHAN,Tanker,Tanker,1,12972,10748,Asphalt/Bitumen Tanker,,ok
+9780627,538007249,MORNING PEACE,Vehicle Carrier,RoRo,1,22438,66802,Vehicles Carrier,,ok
+9780952,636019581,ASL TRINITY,Bulk Carrier,Bulker,1,38607,23703,General Cargo Ship,,ok
+9781114,563206800,STOLT SATSUKI,Tanker,Tanker,1,12342,7488,Chemical/Oil Products Tanker,,ok
+9782015,477023600,OTAGO BAY,Bulk Carrier,Bulker,1,55175,Type of ship,Year of build,,not_found
+9782089,636018347,THRUXTON,Vehicle Carrier,RoRo,2,18160,72684,Vehicles Carrier,,ok
+9782699,247408300,GRANDE HOUSTON,Vehicle Carrier,RoRo,1,15853,65148,Vehicles Carrier,,ok
+9782704,247409200,GRANDE NEW JERSEY,Vehicle Carrier,RoRo,2,15853,65148,Vehicles Carrier,,ok
+9782948,311001246,AFRICAN BARI BIRD,Bulk Carrier,Bulker,1,63479,35832,Bulk Carrier,,ok
+9784233,538007518,TS BANGKOK,Container Ship,Container,1,21361,17449,Container Ship,,ok
+9784245,538007662,TS TOKYO,Container Ship,Container,1,21475,17449,Container Ship,,ok
+9785122,636018128,BROADGATE,Bulk Carrier,Bulker,1,37949,23225,Bulk Carrier,,ok
+9786047,311001197,AFRICAN WOODSTAR,Bulk Carrier,Bulker,2,39875,25330,Bulk Carrier,,ok
+9788473,563058100,ST.MICHAELIS,Tanker,Tanker,1,50159,29513,Chemical/Oil Products Tanker,,ok
+9788576,352514000,BLUE BUTTERFLY,Tanker,Tanker,1,49995,29694,Chemical/Oil Products Tanker,,ok
+9788605,636019534,CHALLENGE PROSPECT 2,Tanker,Tanker,1,49995,29513,Chemical/Oil Products Tanker,,ok
+9788629,477669400,MOUNT SEYMOUR,Bulk Carrier,Bulker,2,36833,23882,General Cargo Ship,,ok
+9788954,538007270,FAIRCHEM EDGE,Tanker,Tanker,1,19946,11917,Chemical/Oil Products Tanker,,ok
+9789037,314692000,CENTURION JUKTAS,Bulk Carrier,Bulker,1,37679,23248,Bulk Carrier,,ok
+9789049,352002706,CL KIZUNA,Bulk Carrier,Bulker,2,37520,23570,Bulk Carrier,,ok
+9789257,538008116,ATLANTIC FALCON,Tanker,Tanker,1,49951,29667,Chemical/Oil Products Tanker,,ok
+9791030,371422000,KEN JYO,Bulk Carrier,Bulker,2,37005,24034,Bulk Carrier,,ok
+9791042,636019976,PERSEUS HARMONY,Bulk Carrier,Bulker,2,37155,23770,Bulk Carrier,,ok
+9791066,636020315,IZANAGI HARMONY,Bulk Carrier,Bulker,2,37105,23770,Bulk Carrier,,ok
+9791080,636021026,AMATERAS HARMONY,Bulk Carrier,Bulker,3,37130,23770,Bulk Carrier,,ok
+9791195,563077600,FAIRCHEM VALOR,Tanker,Tanker,1,22292,13146,Chemical/Oil Products Tanker,,ok
+9791951,477692900,ILLOVO RIVER,Bulk Carrier,Bulker,2,37516,23506,Bulk Carrier,,ok
+9792151,636018231,GOLDEN SKY,Tanker - Hazard B,Tanker,2,16297,9448,Chemical/Oil Products Tanker,,ok
+9792876,477139600,GREAT BEAUTY,Bulk Carrier,Bulker,2,38645,25711,Bulk Carrier,,ok
+9792888,477157500,GREAT PROFIT,Bulk Carrier,Bulker,3,38648,25711,Bulk Carrier,,ok
+9792890,477168200,GREAT AGILITY,Bulk Carrier,Bulker,1,38671,25711,Bulk Carrier,,ok
+9792917,477183500,GREAT COSMOS,Bulk Carrier,Bulker,1,38649,25711,Bulk Carrier,,ok
+9792929,477209300,GREAT VANGUARD,Bulk Carrier,Bulker,2,38652,25711,Bulk Carrier,,ok
+9793284,563032400,CHALLENGE POLLUX,Tanker,Tanker,2,50068,29267,Chemical/Oil Products Tanker,,ok
+9793844,405000242,BANGLAR ARJAN,Bulk Carrier,Bulker,1,38929,25818,Bulk Carrier,,ok
+9796377,247441300,GRANDE CALIFORNIA,Vehicle Carrier,RoRo,1,15853,65148,Vehicles Carrier,,ok
+9796535,636018637,DAIWAN LEADER,Bulk Carrier,Bulker,2,34442,21574,Bulk Carrier,,ok
+9796547,636018638,DAIWAN MIRACLE,Bulk Carrier,Bulker,4,34447,21574,Bulk Carrier,,ok
+9796901,477147100,FOREVER GLORY,Tanker,Tanker,1,49969,29684,Chemical/Oil Products Tanker,,ok
+9796937,477168500,FOREVER PROSPERITY,Tanker,Tanker,1,49940,29684,Chemical/Oil Products Tanker,,ok
+9796951,563023500,VENUS SKY,Bulk Carrier,Bulker,1,61588,34605,Bulk Carrier,,ok
+9797747,538007428,ATLANTIC HARMONY,Tanker,Tanker,1,50090,29256,Chemical/Oil Products Tanker,,ok
+9798428,538007471,ATLANTIC ASPHALT,Tanker,Tanker,2,17764,14485,Asphalt/Bitumen Tanker,,ok
+9799939,538007425,KK MINERAL,Bulk Carrier,Bulker,1,45429,27470,Bulk Carrier,,ok
+9801160,538011110,AMBER STAR.GR,Bulk Carrier,Bulker,1,37692,23277,Bulk Carrier,,ok
+9801275,538007475,PACIFIC WAVE,General Cargo,General Cargo,1,37644,23250,Bulk Carrier,,ok
+9801287,636020142,BUNUN NOBLE,Bulk Carrier,Bulker,2,37655,23230,Bulk Carrier,,ok
+9802487,212814000,NORDPACIFIC,Container Ship,Container,10,35066,28433,Container Ship,,ok
+9802499,248729000,CMA CGM ABU DHABI,Container Ship,Container,10,35031,28433,Container Ship,,ok
+9802504,248728000,MARIUS,Container Ship,Container,11,35036,28433,Container Ship,,ok
+9804813,538008263,FAIRCHEM HAWK,Tanker - Hazard B,Tanker,1,19956,12188,Chemical/Oil Products Tanker,,ok
+9806299,232008128,BERGE PHAN XI PANG,Bulk Carrier,Bulker,1,37739,23232,Bulk Carrier,,ok
+9806304,219031666,INDONESIAN BULKER,Bulk Carrier,Bulker,1,37725,23232,Bulk Carrier,,ok
+9806330,356813000,APEX VOYAGER,Bulk Carrier,Bulker,7,37717,23232,Bulk Carrier,,ok
+9806342,352428000,GOLD OAK,Bulk Carrier,Bulker,2,37732,23232,Bulk Carrier,,ok
+9807229,241632000,SEA DOLPHIN,Tanker,Tanker,1,49904,29401,Chemical/Oil Products Tanker,,ok
+9808522,563037600,TASCO TARA,Tanker,Tanker,1,12689,10326,Asphalt/Bitumen Tanker,,ok
+9810068,538007728,TS KAOHSIUNG,Container Ship,Container,5,21475,17449,Container Ship,,ok
+9810111,538007820,TS OSAKA,Container Ship,Container,4,21475,17449,Container Ship,,ok
+9810915,636018931,SEATRADE GREEN,Container Ship,Container,11,26868,24876,Container Ship,,ok
+9811505,477166800,UNI SUNSHINE,Bulk Carrier,Bulker,3,36880,22734,Bulk Carrier,,ok
+9811517,477183100,UNI HORIZON,Bulk Carrier,Bulker,1,36861,22734,Bulk Carrier,,ok
+9811919,538007569,ISHIZUCHI STAR,Bulk Carrier,Bulker,1,37637,23351,Bulk Carrier,,ok
+9811921,356912000,SILVER OAK,Bulk Carrier,Bulker,2,37685,23232,Bulk Carrier,,ok
+9813802,215011000,B TRADER,Container Ship,Container,2,23261,19122,Container Ship,,ok
+9814167,356152000,NORD JEWEL,Tanker,Tanker,1,49857,29567,Chemical/Oil Products Tanker,,ok
+9815965,538009811,MAROUDIO,Bulk Carrier,Bulker,1,64723,36088,Bulk Carrier,,ok
+9816593,232012490,BERGE SNAEFELL,Bulk Carrier,Bulker,2,37739,23232,Bulk Carrier,,ok
+9817925,354727000,OSLO TRADER,Container Ship,Container,1,23429,19035,Container Ship,,ok
+9819911,353587000,GOLDEN WAVE,Tanker - Hazard B,Tanker,1,12493,7250,Chemical/Oil Products Tanker,,ok
+9820984,373835000,SE KELLY,Bulk Carrier,Bulker,3,37710,23232,Bulk Carrier,,ok
+9827451,374266000,CHEMSTAR TIERRA,Tanker,Tanker,1,21117,12238,Chemical/Oil Products Tanker,,ok
+9828912,538008092,LARGO DESERT,Tanker,Tanker,1,49703,29463,Chemical/Oil Products Tanker,,ok
+9832444,636018966,VENUS HARMONY,Cargo,General Cargo,4,36898,22683,Bulk Carrier,,ok
+9832468,636019580,SPICA HARMONY,Bulk Carrier,Bulker,4,36908,22664,Bulk Carrier,,ok
+9832482,636019998,DENEB HARMONY,Bulk Carrier,Bulker,5,36888,22683,Bulk Carrier,,ok
+9832688,353472000,MONING,Bulk Carrier,Bulker,1,37731,23232,Bulk Carrier,,ok
+9833670,636018606,NAVIG8 GUARD,Tanker,Tanker,1,49761,30237,Chemical/Oil Products Tanker,,ok
+9838668,538008349,STREAM BALTIC,Tanker,Tanker,1,19999,12075,Chemical/Oil Products Tanker,,ok
+9839090,257447000,STAVANGER PEARL,Tanker,Tanker,1,49999,29914,Chemical/Oil Products Tanker,,ok
+9843015,357591000,SAYSIAT BENEFIT,General Cargo,General Cargo,1,14034,9992,General Cargo Ship,,ok
+9843376,538009750,DARYA PREETI,Bulk Carrier,Bulker,1,81981,44427,Bulk Carrier,,ok
+9843443,210085000,CANOPUS,Bulk Carrier,Bulker,1,80992,43993,Bulk Carrier,,ok
+9843780,538008142,LARGO CALIFORNIA,Tanker,Tanker,2,50290,29994,Chemical/Oil Products Tanker,,ok
+9846146,352410000,KEN BOS,High Speed Passenger Craft,Passenger,5,36644,22745,Bulk Carrier,,ok
+9846158,371365000,KEN ANN,Bulk Carrier,Bulker,4,36644,22745,Bulk Carrier,,ok
+9846275,636019139,BEECHGATE,Bulk Carrier,Bulker,1,63449,35834,Bulk Carrier,,ok
+9846316,370316000,SE CARDI,Bulk Carrier,Bulker,3,37717,23232,Bulk Carrier,,ok
+9848089,538008489,SSI PRIVILEGE,Cargo,General Cargo,1,63566,36353,Bulk Carrier,,ok
+9848584,257080210,MARI COUVA,Tanker,Tanker,4,49765,Type of ship,Year of build,,not_found
+9848687,257083330,MARI KOKAKO,Tanker,Tanker,2,49765,29987,Chemical/Oil Products Tanker,,ok
+9850202,563105300,TAKAROA SUN,Tanker,Tanker,2,49849,29987,Chemical/Oil Products Tanker,,ok
+9850214,354764000,CREOLE SUN,Oil/ Chemical Tanker,Tanker,2,49760,29987,Chemical/Oil Products Tanker,,ok
+9852688,374016000,BERGE JEBEL JAIS,Other Type of Ship,Other,4,37686,23239,Bulk Carrier,,ok
+9852690,538008434,UNION FUJI,General Cargo,General Cargo,1,37649,23322,Bulk Carrier,,ok
+9852705,311000877,AFRICAN WREN,General Cargo,General Cargo,2,38227,23194,General Cargo Ship,,ok
+9852717,311000878,AFRICAN WARBLER,General Cargo,General Cargo,1,38209,23194,General Cargo Ship,,ok
+9852729,538008587,BRAVE STAR,General Cargo,General Cargo,2,38241,23194,General Cargo Ship,,ok
+9853242,636018613,NAVIG8 GRATITUDE,Oil/ Chemical Tanker,Tanker,3,49772,30237,Chemical/Oil Products Tanker,,ok
+9854832,477392500,TS QINGDAO,Container Ship,Container,2,21202,17449,Container Ship,,ok
+9854844,477468100,TS PUSAN,Container Ship,Container,2,21206,17449,Container Ship,,ok
+9859313,563080300,CD CALLAO,Bulk Carrier,Bulker,1,63851,35868,Bulk Carrier,,ok
+9860207,563091900,HONOR GALAXY,Tanker,Tanker,1,21028,12370,Chemical/Oil Products Tanker,,ok
+9860269,563115200,KAIFONG,Bulk Carrier,Bulker,1,37440,22360,Bulk Carrier,,ok
+9860609,353443000,BUNUN LEADER,Bulk Carrier,Bulker,1,37650,23239,Bulk Carrier,,ok
+9860611,538010199,IONIAN SEA,Bulk Carrier,Bulker,1,37705,23232,Bulk Carrier,,ok
+9860714,371882000,NOSHIMA,Bulk Carrier,Bulker,1,63340,35953,Bulk Carrier,,ok
+9860788,373054000,NEMRUT BAY,Bulk Carrier,Bulker,2,34431,21627,Bulk Carrier,,ok
+9864368,538008526,PROTEUS,Tanker,Tanker,1,49999,29917,Chemical/Oil Products Tanker,,ok
+9864887,538009664,ASTRO ALTAIR,Bulk Carrier,Bulker,2,38180,24667,Bulk Carrier,,ok
+9864899,538009798,ASTRO DENEBOLA,General Cargo,General Cargo,1,38131,24667,Bulk Carrier,,ok
+9866536,371186000,AFRICAN OASIS,Cargo,General Cargo,1,63477,35834,Bulk Carrier,,ok
+9866639,563183200,BAMBOO STAR,Bulk Carrier,Bulker,3,37609,23232,General Cargo Ship,,ok
+9866665,353995000,OCEAN UNIVERSE,General Cargo,General Cargo,1,37468,23408,General Cargo Ship,,ok
+9867073,636019548,GOLDEN SAGITTARIUS,Tanker,Tanker,2,12699,8050,Chemical/Oil Products Tanker,,ok
+9867372,374448000,BUNUN MIRACLE,Bulk Carrier,Bulker,1,37655,23230,Bulk Carrier,,ok
+9873735,477539500,SINGAN,Bulk Carrier,Bulker,6,33963,21526,Bulk Carrier,,ok
+9873747,477591800,SUNGKIANG,Bulk Carrier,Bulker,3,34491,21526,Bulk Carrier,,ok
+9874583,372582000,GOLDEN HACHI,Tanker,Tanker,2,12707,8050,Chemical/Oil Products Tanker,,ok
+9874662,538008812,ATLANTIC PRINCE,Tanker,Tanker,1,50018,29356,Chemical/Oil Products Tanker,,ok
+9874985,370865000,BERGE SCAFELL PIKE,Bulk Carrier,Bulker,2,37687,23239,Bulk Carrier,,ok
+9876385,563102700,PELICAN PACIFIC,Tanker,Tanker,1,49853,29403,Chemical/Oil Products Tanker,,ok
+9877334,563109700,WECO LAURA,General Cargo,General Cargo,1,38575,,,,not_found
+9880398,477629800,FOREVER ASSURANCE,Tanker,Tanker,1,49999,29063,Oil Products Tanker,,ok
+9881067,357843000,GOLDEN MIND,Tanker,Tanker,1,12488,7251,Chemical/Oil Products Tanker,,ok
+9881873,563129700,D10S,Bulk Carrier,Bulker,1,64640,36087,Bulk Carrier,,ok
+9882372,353369000,KOWHAI,Reefer,Reefer,12,12374,13014,Refrigerated Cargo Ship,,ok
+9882748,563102300,GOLDEN AUSTRALIS,Tanker,Tanker,1,12655,8060,Chemical/Oil Products Tanker,,ok
+9883003,352546000,PAN NOVA,Bulk Carrier,Bulker,4,37707,23238,Bulk Carrier,,ok
+9883027,636020010,MAXIMOS,Bulk Carrier,Bulker,1,63400,35837,Bulk Carrier,,ok
+9883041,538009004,NORD MINAMI,Tanker,Tanker,1,52825,30560,Chemical/Oil Products Tanker,,ok
+9884605,636019823,MAKEDONIKOS,Bulk Carrier,Bulker,1,61087,34629,Bulk Carrier,,ok
+9884825,538009440,CELSIUS PHILADELPHIA,Tanker,Tanker,1,50303,29725,Chemical/Oil Products Tanker,,ok
+9888857,370740000,AFRICAN FINCH,Bulk Carrier,Bulker,2,37520,23573,Bulk Carrier,,ok
+9888869,563116200,EASTERN HAWK,Bulk Carrier,Bulker,3,37520,23573,Bulk Carrier,,ok
+9889100,372424000,AZUL ACE,Cargo,General Cargo,1,17961,72705,Vehicles Carrier,,ok
+9889124,636020250,ATLANTIC BLUE,Tanker,Tanker,1,109998,63302,Crude Oil Tanker,,ok
+9889655,538008974,AFRICAN MARGAUX,Bulk Carrier,Bulker,2,38114,24679,Bulk Carrier,,ok
+9890240,563128400,KIAN,Bulk Carrier,Bulker,1,37391,22360,Bulk Carrier,,ok
+9890630,636019791,CL FUZHOU HE,Bulk Carrier,Bulker,1,63125,35812,Bulk Carrier,,ok
+9890680,353826000,BUNUN RESPECT,Bulk Carrier,Bulker,4,37987,24465,Bulk Carrier,,ok
+9890745,370820000,WHERO,Reefer,Reefer,16,12354,13014,Refrigerated Cargo Ship,,ok
+9890903,354777000,AFRICAN PIPIT,Bulk Carrier,Bulker,2,37636,23322,Bulk Carrier,,ok
+9890915,374731000,PAN OPTIMUM,Bulk Carrier,Bulker,4,37704,23238,Bulk Carrier,,ok
+9891438,232027082,ENERGY APOLLO,Tanker,Tanker,3,49812,29597,Chemical/Oil Products Tanker,,ok
+9892535,255806358,UHL FELICITY,General Cargo,General Cargo,1,14011,16732,Heavy Load Carrier,,ok
+9894478,356250000,ARIES KARIN,Bulk Carrier,Bulker,2,64229,36762,Bulk Carrier,,ok
+9894741,373807000,KEN HARU,Bulk Carrier,Bulker,2,37555,23579,Bulk Carrier,,ok
+9894818,538009407,BERGE NAMULI,Bulk Carrier,Bulker,1,63666,36177,Bulk Carrier,,ok
+9897937,370101000,BELLE LUNE,Bulk Carrier,Bulker,5,42446,26272,Bulk Carrier,,ok
+9897949,370020000,BELLE STELLA,Bulk Carrier,Bulker,3,42446,26269,Bulk Carrier,,ok
+9897951,352978260,BELLE MER,Bulk Carrier,Bulker,3,42446,26269,Bulk Carrier,,ok
+9897963,352001205,LIGNUM FIBER,Bulk Carrier,Bulker,1,42446,26272,Bulk Carrier,,ok
+9898747,355793000,STANLEY BAY,Tugboat,Other,3,40020,24386,Bulk Carrier,,ok
+9898993,352898762,COSMO GLORIA,Bulk Carrier,Bulker,6,37590,23579,Bulk Carrier,,ok
+9902081,373309000,NORD MELBOURNE,Bulk Carrier,Bulker,1,37923,23226,Bulk Carrier,,ok
+9902108,352978200,GT HERA,Cargo,General Cargo,1,49342,41458,Wood Chips Carrier,,ok
+9902392,636020750,PACIFIC PIONEER,Bulk Carrier,Bulker,6,37534,23579,Bulk Carrier,,ok
+9903205,414496000,TANG HONG,Vehicle Carrier,RoRo,1,11783,35425,Vehicles Carrier,,ok
+9903774,477717900,FOREVER CORDIALITY,Tanker,Tanker,1,49999,29063,Oil Products Tanker,,ok
+9906685,357011000,GRAND WINNER 1,Tanker,Tanker,1,50301,29707,Chemical/Oil Products Tanker,,ok
+9906697,372298000,GRAND WINNER 2,Tanker,Tanker,1,50301,29707,Chemical/Oil Products Tanker,,ok
+9906714,352978141,GRAND WINNER 5,Tanker,Tanker,1,50301,29707,Chemical/Oil Products Tanker,,ok
+9906726,563194200,NORFOLK,Heavy Load Carrier,General Cargo,2,2159,1967,Landing Craft,,ok
+9908346,538009338,FAIRCHEM PROTEA,Tanker - Hazard B,Tanker,1,19959,12101,Chemical/Oil Products Tanker,,ok
+9909077,477714700,DARYA HEERA,Cargo,General Cargo,1,61083,34534,Bulk Carrier,,ok
+9909584,352980843,CAPILANO SUN,Tanker - Hazard B,Tanker,1,49999,30873,Chemical/Oil Products Tanker,,ok
+9909675,373226000,NORSE HOUSTON,Bulk Carrier,Bulker,1,40020,24386,Bulk Carrier,,ok
+9910167,371580000,KAKARIKI,Reefer,Reefer,13,12313,13014,Refrigerated Cargo Ship,,ok
+9911501,563145200,SEYMOUR SUN,Tanker,Tanker,1,49999,30873,Chemical/Oil Products Tanker,,ok
+9911513,563154800,GROUSE SUN,Tanker,Tanker,1,49999,30873,Chemical/Oil Products Tanker,,ok
+9911551,352002171,CYPRESS SUN,Tanker,Tanker,1,49999,30873,Chemical/Oil Products Tanker,,ok
+9913107,538009626,CENTURION LUCILLA,Bulk Carrier,Bulker,3,40054,24472,Bulk Carrier,,ok
+9913224,477811300,PACIFIC TITAN,General Cargo,General Cargo,1,61629,38988,General Cargo Ship,,ok
+9919242,538009915,TS NAGOYA,Container Ship,Container,2,24646,18725,Container Ship,,ok
+9919254,538010060,TS XIAMEN,Container Ship,Container,2,24615,18725,Container Ship,,ok
+9919515,538010308,HAPPINESS BULKER,Bulk Carrier,Bulker,2,37694,23238,Bulk Carrier,,ok
+9919541,352001160,NORD VANCOUVER,Bulk Carrier,Bulker,1,37722,23238,Bulk Carrier,,ok
+9920291,538009705,FAIRCHEM RESTIO,Tanker - Hazard B,Tanker,1,19971,12101,Chemical/Oil Products Tanker,,ok
+9922029,636021548,SALVIA ISLAND,Bulk Carrier,Bulker,1,42965,26130,Bulk Carrier,,ok
+9926996,563143800,NORSE CAMDEN,Bulk Carrier,Bulker,1,40020,24386,Bulk Carrier,,ok
+9927005,563153100,NORSE SAVANNAH,Bulk Carrier,Bulker,2,40020,24386,Bulk Carrier,,ok
+9928621,538010110,TS TIANJIN,Container Ship,Container,2,24663,18725,Container Ship,,ok
+9929297,636020790,MSXT ECHO,Bulk Carrier,Bulker,1,85187,49228,Bulk Carrier,,ok
+9929302,636020791,MSXT EMILY,Bulk Carrier,Bulker,1,85267,49228,Bulk Carrier,,ok
+9930832,352002083,GOLDEN AXIS,Tanker - Hazard B,Tanker,1,12402,7251,Chemical/Oil Products Tanker,,ok
+9930909,477735800,TAI XING,General Cargo,General Cargo,2,61642,39433,General Cargo Ship,,ok
+9932426,538009861,DARYA GOMTI,Bulk Carrier,Bulker,1,40037,24472,Bulk Carrier,,ok
+9932438,538009941,DARYA RAPTI,Bulk Carrier,Bulker,2,40058,24472,Bulk Carrier,,ok
+9932969,431821000,GT SELENE,Wood-Chip Carrier,Bulker,2,49324,41273,Wood Chips Carrier,,ok
+9934216,352001316,MAINE SOLEIL,Bulk Carrier,Bulker,1,82000,43987,Bulk Carrier,,ok
+9942029,352001690,AFRICAN TIGER,Bulk Carrier,Bulker,2,37672,23303,Bulk Carrier,,ok
+9942330,636021541,WECO MALOU,Tanker,Tanker,2,49999,29671,Chemical/Oil Products Tanker,,ok
+9943566,352002064,NORSE ALTAMIRA,Bulk Carrier,Bulker,2,40020,24386,Bulk Carrier,,ok
+9946233,636021476,H CYGNUS,Container Ship,Container,2,24480,18848,Container Ship,,ok
+9947768,636093091,BBC URANUS,General Cargo,General Cargo,1,40297,25163,General Cargo Ship,,ok
+9947770,636093092,BBC MARS,General Cargo,General Cargo,2,40297,25163,General Cargo Ship,,ok
+9950129,219032229,CAPE SPENCER,Container Ship,Container,3,34960,26914,Container Ship,,ok
+9950143,219032915,CAPE SERRAT,Container Ship,Container,1,35022,26914,Container Ship,,ok
+9951800,352001882,HANDY INCLUSIVITY,Bulk Carrier,Bulker,2,37743,23228,Bulk Carrier,,ok
+9955791,636023313,MSC NURYA G,Container Ship,Container,1,45095,45387,Container Ship,,ok
+9959319,636023057,BUNUN YOUTH,Bulk Carrier,Bulker,1,39703,24748,Bulk Carrier,,ok
+9961271,352001683,ANL TASMAN TRADER,Container Ship,Container,1,11793,9587,Container Ship,,ok
+9961544,352004255,ANL KIWI TRADER,Container Ship,Container,1,11817,9562,Container Ship,,ok
+9965021,563196700,VAN HANNAH,Bulk Carrier,Bulker,1,63926,35846,Bulk Carrier,,ok
+9969857,219032707,CAPE SKAGEN,Container Ship,Container,4,34965,26914,Container Ship,,ok
+9972024,352003758,KITAKAMI RIVER,Bulk Carrier,Bulker,1,40043,24386,Bulk Carrier,,ok
+9972488,636093230,BBC APOLLO,Bulk Carrier,Bulker,1,40565,25171,Bulk Carrier,,ok
+9972490,636093231,BBC CERES,Bulk Carrier,Bulker,1,40600,25171,Bulk Carrier,,ok
+9973054,352004908,LIGNUM WEB,Bulk Carrier,Bulker,3,42541,26634,Bulk Carrier,,ok
+9973066,352003196,LIGNUM MESH,Bulk Carrier,Bulker,2,42541,26634,Bulk Carrier,,ok
+9973078,563219400,LIGNUM NEXUS,Bulk Carrier,Bulker,1,42560,26634,Bulk Carrier,,ok
+9973080,563224200,LIGNUM LINK,Bulk Carrier,Bulker,1,42564,26634,Bulk Carrier,,ok
+9977983,352002848,GAS ACE,Tanker,Tanker,1,5183,4277,LPG Tanker,,ok
+9977995,352003022,GAS BLOSSOM,Tanker,Tanker,1,5155,4277,LPG Tanker,,ok
+9978640,636023721,PRIDE C,Container Ship,Container,1,13133,9921,Container Ship,,ok
+9979058,636023366,BUNUN ZEST,Bulk Carrier,Bulker,2,40236,24961,Bulk Carrier,,ok
+9979278,352003575,MAERSK FORTALEZA,Container Ship,Container,2,76521,57872,Container Ship,,ok
+9984417,538010961,SIDER IMABARI,Bulk Carrier,Bulker,2,40320,25003,Bulk Carrier,,ok
+891213200,311289000,GREEN HONDURAS,Cargo - Fish carrier,General Cargo,1,7726,,,,not_found
+918423700,304887000,IMUA,General Cargo,General Cargo,31,8379,,,,not_found
+929386800,477832100,PORT ALFRED,Bulk Carrier,Bulker,3,29678,,,,not_found

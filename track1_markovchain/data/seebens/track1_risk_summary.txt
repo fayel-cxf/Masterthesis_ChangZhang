@@ -1,0 +1,39 @@
+=================================================================
+Track 1 Markov Chain — Risk Assessment Summary
+=================================================================
+
+Observed voyages processed : 2,432
+Synthetic voyages processed: 9,749
+
+Observed P_j(Inv):
+  mean   = 2.8101e-04
+  median = 2.7627e-04
+  p95    = 4.1509e-04
+  max    = 4.9471e-04
+
+Synthetic P_j(Inv):
+  mean   = 2.7007e-04
+  median = 2.6761e-04
+  p95    = 3.9411e-04
+  max    = 5.6486e-04
+
+Synthetic breakdown by vessel type:
+  Vessel type               N   mean P_inv    max P_inv
+  ------------------------------------------------------
+  Bulker                 2479   2.5867e-04   4.2757e-04
+  Container              3954   2.6478e-04   4.8540e-04
+  General Cargo          1089   2.7989e-04   5.6486e-04
+  Other                    32   2.0411e-04   3.6437e-04
+  Passenger                14   1.7510e-04   2.7259e-04
+  Reefer                  299   2.7590e-04   3.9844e-04
+  RoRo                   1418   3.1706e-04   5.6066e-04
+  Tanker                  464   2.1308e-04   3.2977e-04
+
+Synthetic breakdown by cluster:
+   Cluster      N   mean P_inv    max P_inv
+  ------------------------------------------
+         0   3277   2.9456e-04   4.8584e-04
+         1   2194   2.7653e-04   5.3806e-04
+         2    612   2.3051e-04   4.2834e-04
+         3    767   2.6493e-04   5.6486e-04
+         4   2899   2.4722e-04   4.9284e-04

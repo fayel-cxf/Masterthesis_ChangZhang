@@ -1,0 +1,44 @@
+============================================================
+Cluster 2 Validation Report
+============================================================
+Observed voyages: 149    Synthetic voyages: 612
+
+[1] Port visit frequency JSD = 0.0133   PASS
+[2] n_ports KS p = 1.0000   PASS
+    Observed: n=5: 19.5%  n=6: 22.1%  n=7: 58.4%
+    Synthetic: n=5: 19.4%  n=6: 22.2%  n=7: 58.3%
+[3] Transit KS p = 0.0000   FAIL
+    Observed  mean=62.5h  median=59.4h
+    Synthetic mean=74.2h  median=62.1h
+[4] Dwell KS p = 0.0183   FAIL
+    Observed  mean=32.8h  median=23.3h
+    Synthetic mean=33.7h  median=23.6h
+[5] Total span days KS p = 0.0000   FAIL
+                 Observed  Synthetic
+    mean            21.30      24.38
+    median          19.99      23.17
+    std              5.98       6.77
+    p25             17.17      19.89
+    p75             23.14      27.87
+    p95             32.61      36.85
+    max             50.44      58.90
+[6] Vessel type distribution JSD = 0.0000
+    Vessel type              Obs     Syn
+    Container              47.0%   46.4%
+    General Cargo          49.0%   49.5%
+    Tanker                  4.0%    4.1%
+[7] NZ destination port distribution JSD = 0.0222
+    Port                     Obs     Syn
+    AUCKLAND               63.8%   81.7%
+    LYTTELTON               1.3%    1.6%
+    NEW PLYMOUTH            2.0%    1.0%
+    TAURANGA               32.2%   15.2%
+    TIMARU                  0.7%    0.5%
+[8] Delta-t KS p = 0.0000   FAIL
+                 Observed  Synthetic
+    mean           480.46     547.80
+    median         451.27     519.32
+    std            144.55     162.05
+    p25            387.61     438.63
+    p75            535.52     623.26
+    p95            749.05     853.77

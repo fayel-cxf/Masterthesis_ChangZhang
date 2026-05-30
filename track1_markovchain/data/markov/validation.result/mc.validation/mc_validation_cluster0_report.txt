@@ -1,0 +1,53 @@
+============================================================
+Cluster 0 Validation Report
+============================================================
+Observed voyages: 797    Synthetic voyages: 3277
+
+[1] Port visit frequency JSD = 0.0113   PASS
+[2] n_ports KS p = 1.0000   PASS
+    Observed: n=5: 14.3%  n=6: 10.7%  n=7: 75.0%
+    Synthetic: n=5: 14.3%  n=6: 10.6%  n=7: 75.0%
+[3] Transit KS p = 0.0000   FAIL
+    Observed  mean=103.2h  median=61.7h
+    Synthetic mean=117.7h  median=54.5h
+[4] Dwell KS p = 0.0000   FAIL
+    Observed  mean=28.6h  median=19.7h
+    Synthetic mean=28.3h  median=20.8h
+[5] Total span days KS p = 0.0000   FAIL
+                 Observed  Synthetic
+    mean            30.86      34.09
+    median          29.45      32.54
+    std              7.62       8.34
+    p25             25.65      28.02
+    p75             35.09      38.88
+    p95             45.47      50.55
+    max             58.74      59.95
+[6] Vessel type distribution JSD = 0.0001
+    Vessel type              Obs     Syn
+    Bulker                  2.3%    2.3%
+    Container              53.1%   52.2%
+    General Cargo           4.3%    4.5%
+    Other                   0.3%    0.3%
+    Reefer                  7.0%    7.1%
+    RoRo                   27.1%   28.0%
+    Tanker                  6.0%    5.6%
+[7] NZ destination port distribution JSD = 0.0014
+    Port                     Obs     Syn
+    AUCKLAND               78.9%   81.0%
+    GISBORNE                0.3%    0.2%
+    LYTTELTON               1.5%    1.6%
+    NAPIER                  1.6%    1.9%
+    NELSON                  1.1%    0.9%
+    NEW PLYMOUTH            3.8%    4.4%
+    PORT CHALMERS           0.9%    1.0%
+    TAURANGA               10.8%    8.1%
+    TIMARU                  0.4%    0.3%
+    WELLINGTON              0.8%    0.5%
+[8] Delta-t KS p = 0.0000   FAIL
+                 Observed  Synthetic
+    mean           710.35     790.37
+    median         678.15     755.36
+    std            177.70     198.24
+    p25            586.66     647.07
+    p75            809.04     903.26
+    p95           1045.85    1182.53

@@ -1,0 +1,42 @@
+=================================================================
+Track 1 Markov Chain — Layer 2 Physical Plausibility Report
+=================================================================
+
+Total synthetic voyages:    9997
+Passed:                     9749  (97.5%)
+Rejected:                    248  (2.5%)
+
+Note: thresholds applied per (cluster, vessel_type); global vtype thresholds used as fallback.
+
+Global speed thresholds used as fallback (knots):
+  Vessel type           min_speed(p5)  max_speed(obs)  ceil(×1.1)  fallback
+  ------------------------------------------------------------------------
+  Bulker                         3.45           29.20       32.11          
+  Container                      4.48           28.97       31.86          
+  General Cargo                  3.97           29.62       32.58          
+  Other                          6.13           16.19       17.81          
+  Passenger                      2.00           22.00       24.20       YES
+  Reefer                         7.49           29.45       32.40          
+  RoRo                           5.70           21.13       23.24          
+  Tanker                         4.45           23.48       25.83          
+
+Rejection breakdown by vessel type:
+  Vessel type            Total  Rejected    Rate
+  ----------------------------------------------
+  Bulker                  2480         1    0.0%
+  Container               4083       129    3.2%
+  General Cargo           1134        45    4.0%
+  Other                     36         4   11.1%
+  Passenger                 14         0    0.0%
+  Reefer                   345        46   13.3%
+  RoRo                    1441        23    1.6%
+  Tanker                   464         0    0.0%
+
+Rejection breakdown by cluster:
+   Cluster   Total  Rejected    Rate
+  ------------------------------------
+         0    3277         0    0.0%
+         1    2438       244   10.0%
+         2     612         0    0.0%
+         3     768         1    0.1%
+         4    2902         3    0.1%
