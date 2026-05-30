@@ -1,30 +1,3 @@
-# =============================================================================
-# voyage_cluster_map.py
-# Voyage cluster visualisation — K-Means k=5
-#
-# Generates three outputs (light theme, publication-ready):
-#   1. voyage_cluster_map_world.png   — NZ-centred world overview (all clusters)
-#   2. voyage_cluster_map_panel.png   — 2×3 panel: world overview + 5 cluster maps
-#   3. voyage_cluster_map_c{0-4}.png  — five standalone per-cluster maps
-#
-# INPUT:  data/clustering/cluster.m1.labels.k5.csv  (由 cluster.m1.kmeans.py 生成)
-#
-# NOTE ON STRAIGHT LINES:
-#   Lines connect consecutive port calls and do not represent actual vessel
-#   tracks. This is standard practice in maritime network visualisation
-#   (cf. Seebens et al. 2013, Tzeng et al. 2024). Add the following caption
-#   to any figure using these maps:
-#   "Lines represent port-call sequences and do not reflect actual vessel tracks."
-#
-# NOTE ON CLUSTER LABELS:
-#   CLUSTER_LABELS and CLUSTER_TITLES below are placeholder descriptions.
-#   Update these after inspecting the heatmap output from cluster.m1.kmeans.py
-#   to reflect the behavioural interpretation of each cluster.
-#
-# REQUIRES:  geopandas, geodatasets, matplotlib, pandas, numpy
-#   pip install geopandas geodatasets
-# =============================================================================
-
 import os
 import ast
 import numpy as np
@@ -37,12 +10,12 @@ from pathlib import Path
 
 import geopandas as gpd
 
-BASE_DIR = Path(__file__).parent.parent.parent  # cluster/ -> code/ -> 项目根目录
+BASE_DIR = Path(__file__).parent.parent.parent  # cluster/ -> code/ -> Project Root
 
 os.makedirs(BASE_DIR / "graphics/cluster.pics", exist_ok=True)
 
 # ------------------------------------------------------------------
-# 路径配置
+# Path Configuration
 # ------------------------------------------------------------------
 INPUT_CSV          = BASE_DIR / "data/clustering/cluster.m1.labels.k5.csv"
 OUTPUT_WORLD       = BASE_DIR / "graphics/cluster.pics/voyage_cluster_map_world.png"
@@ -66,7 +39,7 @@ except Exception:
         raise RuntimeError(
             "Could not load world shapefile.\n"
             "Run:  pip install geodatasets\n"
-            f"Error: {e}"
+            "Error: {e}"
         )
 
 # ------------------------------------------------------------------
@@ -76,15 +49,15 @@ df = pd.read_csv(INPUT_CSV)
 df['lat_list'] = df['latitudes'].apply(ast.literal_eval)
 df['lon_list'] = df['longitudes'].apply(ast.literal_eval)
 
-# 从列表字段派生起点坐标（origin_longitude/latitude 不在标签文件中）
+# Derive starting coordinates from the list fields (origin_longitude/latitude are not in the labels file)
 df['origin_latitude']  = df['lat_list'].apply(lambda x: x[0])
 df['origin_longitude'] = df['lon_list'].apply(lambda x: x[0])
 
 print(f"Loaded {len(df)} voyages, {df['cluster'].nunique()} clusters.")
 
-# 打印各簇航次数，供更新 CLUSTER_LABELS 参考
+# Print the number of voyages for each cluster, for reference when updating CLUSTER_LABELS
 sizes = df['cluster'].value_counts().sort_index()
-print("\n各簇航次数（更新 CLUSTER_LABELS 时参考）：")
+print("\nNumber of voyages per cluster (Reference for updating CLUSTER_LABELS):")
 for c, n in sizes.items():
     print(f"  Cluster {c}: {n}")
 
@@ -99,8 +72,8 @@ CLUSTER_COLORS = {
     4: '#8E24AA',
 }
 
-# ⚠️  TODO: 跑完 cluster.m1.kmeans.py 并查看 heatmap 后，
-#           根据各簇的行为特征更新以下标签描述。
+# ⚠️  TODO: After running cluster.m1.kmeans.py and inspecting the heatmap,
+#           update the following label descriptions based on each cluster's behavioral characteristics.
 CLUSTER_LABELS = {
     0: f'Cluster 0  (n={sizes.get(0, "?")})',
     1: f'Cluster 1  (n={sizes.get(1, "?")})',
@@ -185,7 +158,7 @@ def add_world(ax, xlim, ylim):
     t = THEME
     ax.set_facecolor(t['ax_bg'])
     world_pac.plot(ax=ax, color=t['land_fc'], edgecolor=t['land_ec'],
-                   linewidth=0.4, zorder=2)
+                    linewidth=0.4, zorder=2)
     ax.set_xlim(*xlim)
     ax.set_ylim(*ylim)
     x0, x1 = xlim
@@ -195,12 +168,12 @@ def add_world(ax, xlim, ylim):
     for lat in range(int(y0)//30*30, int(y1)+30, 30):
         ax.axhline(lat, color=t['grid_c'], alpha=0.08, linewidth=0.5, zorder=1)
     ax.axhline(0, color=t['grid_c'], alpha=0.18, linewidth=0.8,
-               linestyle='--', zorder=1)
+                linestyle='--', zorder=1)
 
 def add_nz_marker(ax, fontsize=8):
     t = THEME
     ax.scatter(NZ_LON, NZ_LAT, color=t['nz_color'], s=160, zorder=8,
-               marker='*', edgecolors='white', linewidths=0.8)
+                marker='*', edgecolors='white', linewidths=0.8)
     ax.text(NZ_LON - 3, NZ_LAT + 3, 'NZ', color=t['nz_tc'],
             fontsize=fontsize, fontweight='bold', zorder=8, ha='right',
             path_effects=[pe.withStroke(linewidth=2, foreground=t['nz_stk'])])
@@ -218,7 +191,7 @@ def draw_voyages(ax, cluster_ids, alpha=0.20, lw=0.6):
                     zorder=3, solid_capstyle='round')
 
 def add_origin_dot(ax, cluster_id, s=90):
-    """在起始港的平均位置绘制圆点。起点坐标从 lat_list/lon_list[0] 派生。"""
+    """Plot a dot at the average position of the starting ports. Coordinates are derived from lat_list/lon_list[0]."""
     sub      = df[df['cluster'] == cluster_id]
     mean_lon = np.mean([to_pacific_lon(lon) for lon in sub['origin_longitude']])
     mean_lat = sub['origin_latitude'].mean()
